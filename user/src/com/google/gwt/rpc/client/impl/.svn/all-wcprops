@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl
+END
+HasValuesCommandSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/HasValuesCommandSink.java
+END
+ListCommandSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/ListCommandSink.java
+END
+CommandSerializationStreamWriterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/CommandSerializationStreamWriterBase.java
+END
+RpcCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/RpcCallbackAdapter.java
+END
+ClientWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/ClientWriterFactory.java
+END
+CommandClientSerializationStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/CommandClientSerializationStreamWriter.java
+END
+TypeOverrides.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/TypeOverrides.java
+END
+CommandToStringWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/CommandToStringWriter.java
+END
+RpcServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/RpcServiceProxy.java
+END
+SimplePayloadSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/SimplePayloadSink.java
+END
+RemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/RemoteException.java
+END
+CommandClientSerializationStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/CommandClientSerializationStreamReader.java
+END
+EscapeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/client/impl/EscapeUtil.java
+END

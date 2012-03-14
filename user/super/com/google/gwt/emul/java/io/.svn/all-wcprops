@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io
+END
+FilterOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/FilterOutputStream.java
+END
+Serializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/Serializable.java
+END
+IOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/IOException.java
+END
+PrintStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/PrintStream.java
+END
+OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/OutputStream.java
+END
+UnsupportedEncodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/io/UnsupportedEncodingException.java
+END

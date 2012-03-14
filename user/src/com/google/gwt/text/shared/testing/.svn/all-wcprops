@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/text/shared/testing
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/text/shared/testing/package-info.java
+END
+PassthroughParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/text/shared/testing/PassthroughParser.java
+END
+PassthroughRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/text/shared/testing/PassthroughRenderer.java
+END

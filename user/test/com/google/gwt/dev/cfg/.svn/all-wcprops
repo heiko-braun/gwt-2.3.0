@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg
+END
+TestSuperAndSourceTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/TestSuperAndSourceTags.java
+END
+PropertyTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTest.gwt.xml
+END
+PropertyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTest.java
+END
+TagSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/TagSuite.java
+END
+PublicTagTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PublicTagTest.gwt.xml
+END
+PublicTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PublicTagTest.java
+END
+SuperSourceTagTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/SuperSourceTagTest.gwt.xml
+END
+SourceTagTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/SourceTagTest.gwt.xml
+END
+SuperSourceTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/SuperSourceTagTest.java
+END
+PropertyTestBadA.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTestBadA.gwt.xml
+END
+PropertyTestBadB.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTestBadB.gwt.xml
+END
+SourceTagTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/SourceTagTest.java
+END
+PropertyTestBadC.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTestBadC.gwt.xml
+END
+PropertyTestBadD.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/PropertyTestBadD.gwt.xml
+END

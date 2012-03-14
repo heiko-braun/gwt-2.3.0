@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xhr/client
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xhr/client/package-info.java
+END
+ReadyStateChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xhr/client/ReadyStateChangeHandler.java
+END
+XMLHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xhr/client/XMLHttpRequest.java
+END

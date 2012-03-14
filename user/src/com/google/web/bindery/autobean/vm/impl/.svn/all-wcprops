@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl
+END
+BeanPropertyContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/BeanPropertyContext.java
+END
+ProxyAutoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/ProxyAutoBean.java
+END
+TypeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/TypeUtils.java
+END
+GetterPropertyContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/GetterPropertyContext.java
+END
+FactoryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/FactoryHandler.java
+END
+BeanMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/BeanMethod.java
+END
+MethodPropertyContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/MethodPropertyContext.java
+END
+SimpleBeanHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/SimpleBeanHandler.java
+END
+JsonSplittable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/JsonSplittable.java
+END
+ShimHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/vm/impl/ShimHandler.java
+END

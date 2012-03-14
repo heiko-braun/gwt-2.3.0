@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext
+END
+ClientBundleFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ClientBundleFields.java
+END
+ResourceGeneratorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ResourceGeneratorType.java
+END
+AbstractResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/AbstractResourceGenerator.java
+END
+SupportsGeneratorResultCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/SupportsGeneratorResultCaching.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/package-info.java
+END
+DefaultExtensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/DefaultExtensions.java
+END
+ClientBundleRequirements.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ClientBundleRequirements.java
+END
+ResourceGeneratorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ResourceGeneratorUtil.java
+END
+ResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ResourceContext.java
+END
+ResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/ext/ResourceGenerator.java
+END

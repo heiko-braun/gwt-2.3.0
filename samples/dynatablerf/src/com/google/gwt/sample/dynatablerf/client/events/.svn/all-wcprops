@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/events
+END
+MarkFavoriteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/events/MarkFavoriteEvent.java
+END
+FilterChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/events/FilterChangeEvent.java
+END
+EditPersonEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/events/EditPersonEvent.java
+END

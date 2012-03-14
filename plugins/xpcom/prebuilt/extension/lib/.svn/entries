@@ -1,0 +1,40 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/plugins/xpcom/prebuilt/extension/lib
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2011-01-27T17:50:46.000000Z
+9641
+conroy@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+Darwin-gcc3
+dir
+
+Linux_x86-gcc3
+dir
+
+WINNT_x86-msvc
+dir
+
+Linux_x86_64-gcc3
+dir
+

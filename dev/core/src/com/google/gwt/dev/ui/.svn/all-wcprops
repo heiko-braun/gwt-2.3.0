@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui
+END
+UiEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/UiEvent.java
+END
+DevModeUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/DevModeUI.java
+END
+DoneCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/DoneCallback.java
+END
+DoneEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/DoneEvent.java
+END
+RestartServerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/RestartServerCallback.java
+END
+CloseModuleCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/CloseModuleCallback.java
+END
+UiCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/UiCallback.java
+END
+RestartServerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/RestartServerEvent.java
+END
+CloseModuleEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ui/CloseModuleEvent.java
+END

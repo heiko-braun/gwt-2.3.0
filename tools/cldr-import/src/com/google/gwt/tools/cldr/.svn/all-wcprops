@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/Processor.java
+END
+RegionLanguageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/RegionLanguageData.java
+END
+DateTimeFormatInfoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/DateTimeFormatInfoProcessor.java
+END
+CurrencyDataProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/CurrencyDataProcessor.java
+END
+ListFormattingProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/ListFormattingProcessor.java
+END
+LocaleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/LocaleData.java
+END
+LocalizedNamesProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/LocalizedNamesProcessor.java
+END
+GenerateGwtCldrData.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/tools/cldr-import/src/com/google/gwt/tools/cldr/GenerateGwtCldrData.java
+END

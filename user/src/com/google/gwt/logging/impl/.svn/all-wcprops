@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl
+END
+LoggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LoggerImpl.java
+END
+LoggerImplRegular.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LoggerImplRegular.java
+END
+LevelImplNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LevelImplNull.java
+END
+FormatterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/FormatterImpl.java
+END
+LevelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LevelImpl.java
+END
+LoggerWithExposedConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LoggerWithExposedConstructor.java
+END
+DevModeLoggingFixes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/DevModeLoggingFixes.java
+END
+LevelImplRegular.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LevelImplRegular.java
+END
+LoggerImplNull.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/impl/LoggerImplNull.java
+END

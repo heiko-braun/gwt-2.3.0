@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/core/client
+END
+GWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/GWT.java
+END
+JsArrayMixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArrayMixed.java
+END
+JsArrayString.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArrayString.java
+END
+HttpThrowableReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/HttpThrowableReporter.java
+END
+JsDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsDate.java
+END
+EntryPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/EntryPoint.java
+END
+JsArrayBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArrayBoolean.java
+END
+JsArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArray.java
+END
+Scheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/Scheduler.java
+END
+RunAsyncCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/RunAsyncCallback.java
+END
+SingleJsoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/SingleJsoImpl.java
+END
+SingleJsoImplName.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/SingleJsoImplName.java
+END
+CodeDownloadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/CodeDownloadException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/package-info.java
+END
+JsArrayNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArrayNumber.java
+END
+JavaScriptException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JavaScriptException.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/Duration.java
+END
+JsArrayInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JsArrayInteger.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/core/client/JsonUtils.java
+END
+JavaScriptObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/JavaScriptObject.java
+END

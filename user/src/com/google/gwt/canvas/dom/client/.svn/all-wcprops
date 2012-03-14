@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client
+END
+FillStrokeStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/FillStrokeStyle.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/package-info.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/Context.java
+END
+CssColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/CssColor.java
+END
+CanvasGradient.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/CanvasGradient.java
+END
+CanvasPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/CanvasPattern.java
+END
+Context2d.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/Context2d.java
+END
+TextMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/TextMetrics.java
+END
+CanvasPixelArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/CanvasPixelArray.java
+END
+ImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/canvas/dom/client/ImageData.java
+END

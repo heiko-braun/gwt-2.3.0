@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/tomcat
+END
+EmbeddedTomcatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/tomcat/EmbeddedTomcatServer.java
+END
+CommonsLoggerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/tomcat/CommonsLoggerAdapter.java
+END
+CatalinaLoggerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/tomcat/CatalinaLoggerAdapter.java
+END

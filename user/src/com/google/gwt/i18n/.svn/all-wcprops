@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9874/releases/2.3/user/src/com/google/gwt/i18n
+END
+CldrLocales.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/CldrLocales.gwt.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/COPYING
+END
+I18N.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/I18N.gwt.xml
+END

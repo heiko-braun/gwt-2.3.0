@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context
+END
+AbstractResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/AbstractResourceContext.java
+END
+MhtmlClientBundleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/MhtmlClientBundleGenerator.java
+END
+AbstractClientBundleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/AbstractClientBundleGenerator.java
+END
+StaticResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/StaticResourceContext.java
+END
+StaticClientBundleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/StaticClientBundleGenerator.java
+END
+InlineResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/InlineResourceContext.java
+END
+ClientBundleContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/ClientBundleContext.java
+END
+InlineClientBundleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/InlineClientBundleGenerator.java
+END
+MhtmlResourceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rebind/context/MhtmlResourceContext.java
+END

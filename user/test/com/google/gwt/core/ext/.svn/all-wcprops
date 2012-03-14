@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext
+END
+LinkerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/LinkerTest.gwt.xml
+END
+LinkerUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/LinkerUnitTest.java
+END
+CrossSiteIframeLinkerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/CrossSiteIframeLinkerTest.gwt.xml
+END
+IFrameLinkerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/IFrameLinkerTest.gwt.xml
+END
+SingleScriptLinkerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/SingleScriptLinkerTest.gwt.xml
+END
+XSLinkerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/XSLinkerTest.gwt.xml
+END
+LinkerSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/ext/LinkerSuite.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/.classpath
+END
+Showcase-SSL.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/Showcase-SSL.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/.project
+END
+Showcase.launch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/Showcase.launch
+END
+Showcase-gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/Showcase-gwtc.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Showcase/.checkstyle
+END

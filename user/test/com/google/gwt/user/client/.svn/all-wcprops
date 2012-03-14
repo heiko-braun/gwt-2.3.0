@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10028/releases/2.3/user/test/com/google/gwt/user/client
+END
+AsyncProxyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/AsyncProxyTest.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/Profile.java
+END
+RandomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/RandomTest.java
+END
+EventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9935/releases/2.3/user/test/com/google/gwt/user/client/EventTest.java
+END
+GestureEventSinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/GestureEventSinkTest.java
+END
+WindowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9942/releases/2.3/user/test/com/google/gwt/user/client/WindowTest.java
+END
+DoubleClickEventSinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/DoubleClickEventSinkTest.java
+END
+TouchEventSinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/TouchEventSinkTest.java
+END
+CookieTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/CookieTest.java
+END
+HistoryDisabledTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/HistoryDisabledTest.java
+END
+MediaEventsSinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10028/releases/2.3/user/test/com/google/gwt/user/client/MediaEventsSinkTest.java
+END
+AsyncProxyTestTopLevelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/AsyncProxyTestTopLevelImpl.java
+END
+CommandExecutorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/CommandExecutorTest.java
+END
+BadServletsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/user/client/BadServletsTest.java
+END

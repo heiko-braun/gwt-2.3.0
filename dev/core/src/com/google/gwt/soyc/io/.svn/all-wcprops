@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/io
+END
+OutputDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/io/OutputDirectory.java
+END
+ArtifactsOutputDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/io/ArtifactsOutputDirectory.java
+END
+FileSystemOutputDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/io/FileSystemOutputDirectory.java
+END

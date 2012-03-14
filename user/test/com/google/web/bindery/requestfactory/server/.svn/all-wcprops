@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server
+END
+RequestFactoryExceptionHandlerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/RequestFactoryExceptionHandlerServlet.java
+END
+RequestFactoryUnicodeEscapingJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/RequestFactoryUnicodeEscapingJreTest.java
+END
+FindServiceJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/FindServiceJreTest.java
+END
+LocatorJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/LocatorJreTest.java
+END
+ComplexKeysJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/ComplexKeysJreTest.java
+END
+RequestFactoryExceptionPropagationJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/RequestFactoryExceptionPropagationJreTest.java
+END
+TestContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/TestContextImpl.java
+END
+InstanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/InstanceServiceImpl.java
+END
+RequestFactoryInterfaceValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/RequestFactoryInterfaceValidatorTest.java
+END
+TestContextNoVersionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/TestContextNoVersionImpl.java
+END
+InstanceServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/InstanceServiceLocator.java
+END
+ServiceInheritanceJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/ServiceInheritanceJreTest.java
+END
+SimpleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/SimpleBar.java
+END
+BoxesAndPrimitivesJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/BoxesAndPrimitivesJreTest.java
+END
+TestContextNoIdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/TestContextNoIdImpl.java
+END
+RequestFactoryJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/RequestFactoryJreTest.java
+END
+ServiceLocatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/ServiceLocatorTest.java
+END
+InstanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/InstanceService.java
+END
+SimpleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/SimpleValue.java
+END
+HasId.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/HasId.java
+END
+SimpleFoo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/server/SimpleFoo.java
+END

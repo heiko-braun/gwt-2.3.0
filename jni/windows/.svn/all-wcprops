@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9849/releases/2.3/jni/windows
+END
+wininet.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/jni/windows/wininet.h
+END
+IE6.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9849/releases/2.3/jni/windows/IE6.cpp
+END
+gwt-ll.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/jni/windows/gwt-ll.vcproj
+END
+wininet.def
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/jni/windows/wininet.def
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9849/releases/2.3/jni/windows/Makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/jni/windows/build.xml
+END

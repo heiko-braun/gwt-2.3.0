@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty
+END
+JettyLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty/JettyLauncher.java
+END
+JettyNullLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty/JettyNullLogger.java
+END
+README-SSL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty/README-SSL.txt
+END
+JDBCUnloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty/JDBCUnloader.java
+END
+localhost.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/jetty/localhost.keystore
+END

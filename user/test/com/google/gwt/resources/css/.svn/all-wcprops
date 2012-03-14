@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css
+END
+selectorMerging_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/selectorMerging_test.css
+END
+fourValuedProperties_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/fourValuedProperties_test.css
+END
+cursorProperties_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/cursorProperties_test.css
+END
+CssNodeClonerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/CssNodeClonerTest.java
+END
+backgroundProperties_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/backgroundProperties_test.css
+END
+propertyMerging_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/propertyMerging_test.css
+END
+ExtractClassNamesVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/ExtractClassNamesVisitorTest.java
+END
+CssRtlTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/CssRtlTest.java
+END
+leftRightProperties_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/leftRightProperties_test.css
+END
+CssReorderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/CssReorderTest.java
+END
+UnknownAtRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/UnknownAtRuleTest.java
+END
+extractClassNames_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/extractClassNames_expected.css
+END
+directionProperty_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/directionProperty_expected.css
+END
+noflip_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/noflip_expected.css
+END
+selectorMerging_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/selectorMerging_expected.css
+END
+fourValuedProperties_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/fourValuedProperties_expected.css
+END
+external_star.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/external_star.css
+END
+cursorProperties_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/cursorProperties_expected.css
+END
+unknownAtRule.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/unknownAtRule.css
+END
+backgroundProperties_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/backgroundProperties_expected.css
+END
+propertyMerging_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/propertyMerging_expected.css
+END
+external.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/external.css
+END
+extractClassNames_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/extractClassNames_test.css
+END
+directionProperty_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/directionProperty_test.css
+END
+CssExternalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/CssExternalTest.java
+END
+leftRightProperties_expected.css
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/leftRightProperties_expected.css
+END
+noflip_test.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/css/noflip_test.css
+END

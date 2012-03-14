@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl
+END
+SplittableSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/SplittableSet.java
+END
+HasSplittable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/HasSplittable.java
+END
+SplittableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/SplittableList.java
+END
+AbstractAutoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/AbstractAutoBean.java
+END
+EnumMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/EnumMap.java
+END
+AutoBeanCodexImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/AutoBeanCodexImpl.java
+END
+StringQuoter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/StringQuoter.java
+END
+SplittableComplexMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/SplittableComplexMap.java
+END
+SplittableSimpleMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/impl/SplittableSimpleMap.java
+END

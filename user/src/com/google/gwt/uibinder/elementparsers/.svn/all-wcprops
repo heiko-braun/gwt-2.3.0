@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9953/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers
+END
+ImageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/ImageParser.java
+END
+StackLayoutPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/StackLayoutPanelParser.java
+END
+MenuItemParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/MenuItemParser.java
+END
+HTMLPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HTMLPanelParser.java
+END
+StackPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/StackPanelParser.java
+END
+GridParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/GridParser.java
+END
+NumberLabelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/NumberLabelParser.java
+END
+MenuBarParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/MenuBarParser.java
+END
+UiTextInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/UiTextInterpreter.java
+END
+FieldInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/FieldInterpreter.java
+END
+DisclosurePanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DisclosurePanelParser.java
+END
+HasTreeItemsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HasTreeItemsParser.java
+END
+WidgetPlaceholderInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9953/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/WidgetPlaceholderInterpreter.java
+END
+DockLayoutPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DockLayoutPanelParser.java
+END
+CellPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/CellPanelParser.java
+END
+DockPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DockPanelParser.java
+END
+InterpreterPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/InterpreterPipe.java
+END
+BeanParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/BeanParser.java
+END
+CustomButtonParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/CustomButtonParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/package-info.java
+END
+ComputedAttributeInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/ComputedAttributeInterpreter.java
+END
+DateLabelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DateLabelParser.java
+END
+AttributeMessageInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9953/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/AttributeMessageInterpreter.java
+END
+NullInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/NullInterpreter.java
+END
+TabLayoutPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/TabLayoutPanelParser.java
+END
+ListBoxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/ListBoxParser.java
+END
+TabPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/TabPanelParser.java
+END
+ElementParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/ElementParser.java
+END
+DomElementParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DomElementParser.java
+END
+IsEmptyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/IsEmptyParser.java
+END
+WidgetInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9953/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/WidgetInterpreter.java
+END
+TextInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/TextInterpreter.java
+END
+LayoutPanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/LayoutPanelParser.java
+END
+TextPlaceholderInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/TextPlaceholderInterpreter.java
+END
+AbsolutePanelParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/AbsolutePanelParser.java
+END
+HasHTMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HasHTMLParser.java
+END
+HasWidgetsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HasWidgetsParser.java
+END
+UIObjectParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/UIObjectParser.java
+END
+AttributeMessageParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/AttributeMessageParser.java
+END
+DialogBoxParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/DialogBoxParser.java
+END
+HasAlignmentParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HasAlignmentParser.java
+END
+HtmlInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HtmlInterpreter.java
+END
+HtmlPlaceholderInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HtmlPlaceholderInterpreter.java
+END
+HtmlMessageInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HtmlMessageInterpreter.java
+END
+HasTextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/HasTextParser.java
+END
+UiChildParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/elementparsers/UiChildParser.java
+END

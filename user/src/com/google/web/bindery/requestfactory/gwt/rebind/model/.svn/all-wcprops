@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model
+END
+EntityProxyModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/EntityProxyModel.java
+END
+ModelVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/ModelVisitor.java
+END
+RequestFactoryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/RequestFactoryModel.java
+END
+AcceptsModelVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/AcceptsModelVisitor.java
+END
+ContextMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/ContextMethod.java
+END
+RequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/gwt/rebind/model/RequestMethod.java
+END

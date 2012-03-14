@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client
+END
+DoubleParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client/DoubleParserTest.java
+END
+NumberFormatRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client/NumberFormatRendererTest.java
+END
+IntegerParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client/IntegerParserTest.java
+END
+DateTimeFormatRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client/DateTimeFormatRendererTest.java
+END
+LongParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/text/client/LongParserTest.java
+END

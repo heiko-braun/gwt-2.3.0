@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation
+END
+AnnotationTypeMismatchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/AnnotationTypeMismatchException.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/Target.java
+END
+RetentionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/RetentionPolicy.java
+END
+Documented.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/Documented.java
+END
+Retention.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/Retention.java
+END
+IncompleteAnnotationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/IncompleteAnnotationException.java
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/Annotation.java
+END
+ElementType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/ElementType.java
+END
+Inherited.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/Inherited.java
+END
+AnnotationFormatError.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/lang/annotation/AnnotationFormatError.java
+END

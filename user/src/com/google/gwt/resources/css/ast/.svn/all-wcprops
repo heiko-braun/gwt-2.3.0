@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast
+END
+HasSelectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/HasSelectors.java
+END
+CssEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssEval.java
+END
+CssNoFlip.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssNoFlip.java
+END
+CssNodeCloner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssNodeCloner.java
+END
+CssStylesheet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssStylesheet.java
+END
+CssCompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssCompilerException.java
+END
+HasNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/HasNodes.java
+END
+CssIf.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssIf.java
+END
+CssDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssDef.java
+END
+CssVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssVisitor.java
+END
+CssModVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssModVisitor.java
+END
+CssUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssUrl.java
+END
+CollapsedNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CollapsedNode.java
+END
+CssPageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssPageRule.java
+END
+CssSprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssSprite.java
+END
+CssExternalSelectors.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssExternalSelectors.java
+END
+CssRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssRule.java
+END
+CssMediaRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssMediaRule.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/Context.java
+END
+CssUnknownAtRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssUnknownAtRule.java
+END
+CssSubstitution.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssSubstitution.java
+END
+HasProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/HasProperties.java
+END
+CssSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssSelector.java
+END
+CssVisitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssVisitable.java
+END
+CssProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssProperty.java
+END
+CssNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ast/CssNode.java
+END

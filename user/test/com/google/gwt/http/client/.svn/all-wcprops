@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client
+END
+RequestBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/RequestBuilderTest.java
+END
+URLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/URLTest.java
+END
+RequestTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/RequestTestBase.java
+END
+RequestTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/RequestTest.java
+END
+UrlBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/UrlBuilderTest.java
+END
+ResponseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/http/client/ResponseTest.java
+END

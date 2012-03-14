@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels
+END
+CwFlowPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwFlowPanel.java
+END
+CwSplitLayoutPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwSplitLayoutPanel.java
+END
+CwHorizontalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwHorizontalPanel.java
+END
+CwVerticalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwVerticalPanel.java
+END
+CwDisclosurePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwDisclosurePanel.java
+END
+CwAbsolutePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwAbsolutePanel.java
+END
+CwDockPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwDockPanel.java
+END
+CwDecoratorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwDecoratorPanel.java
+END
+CwTabLayoutPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/panels/CwTabLayoutPanel.java
+END

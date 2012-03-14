@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc
+END
+ProxyCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/ProxyCreator.java
+END
+TypeHierarchyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypeHierarchyUtils.java
+END
+SerializableTypeOracleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/SerializableTypeOracleBuilder.java
+END
+Shared.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/Shared.java
+END
+JModTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/JModTypeVisitor.java
+END
+JTypeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/JTypeVisitor.java
+END
+CustomFieldSerializerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/CustomFieldSerializerValidator.java
+END
+BlacklistTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/BlacklistTypeFilter.java
+END
+SerializableTypeOracleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/SerializableTypeOracleImpl.java
+END
+RemoteServiceAsyncValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/RemoteServiceAsyncValidator.java
+END
+TypePaths.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypePaths.java
+END
+TypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypeFilter.java
+END
+TypeConstrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypeConstrainer.java
+END
+ServiceInterfaceProxyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/ServiceInterfaceProxyGenerator.java
+END
+TypeSerializerCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypeSerializerCreator.java
+END
+ProblemReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/ProblemReport.java
+END
+TypeParameterExposureComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/TypeParameterExposureComputer.java
+END
+FieldSerializerCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/FieldSerializerCreator.java
+END
+SerializationUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/SerializationUtils.java
+END
+SerializableTypeOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/rebind/rpc/SerializableTypeOracle.java
+END

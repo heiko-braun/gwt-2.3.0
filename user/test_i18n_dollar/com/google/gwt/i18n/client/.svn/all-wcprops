@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_dollar/com/google/gwt/i18n/client
+END
+TestAnnotatedMessages$Nested_bb_CC.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_dollar/com/google/gwt/i18n/client/TestAnnotatedMessages$Nested_bb_CC.properties
+END
+DateTimeFormatTestBase$MyMessages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_dollar/com/google/gwt/i18n/client/DateTimeFormatTestBase$MyMessages_en.properties
+END
+DateTimeFormatTestBase$MyMessages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_dollar/com/google/gwt/i18n/client/DateTimeFormatTestBase$MyMessages_de.properties
+END

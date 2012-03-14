@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi
+END
+LocalObjectTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/LocalObjectTable.h
+END
+Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/Plugin.cpp
+END
+npGwtDevPlugin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npGwtDevPlugin.rc
+END
+mozincludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/mozincludes.h
+END
+test.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/test.html
+END
+Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/Plugin.h
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/version
+END
+getversion
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/getversion
+END
+manifest-template.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/manifest-template.json
+END
+NPVariantWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/NPVariantWrapper.h
+END
+npn_bindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npn_bindings.cpp
+END
+JavaObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/JavaObject.cpp
+END
+NPObjectWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/NPObjectWrapper.h
+END
+JavaObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/JavaObject.h
+END
+SigningCommands.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/SigningCommands.txt
+END
+ScriptableInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/ScriptableInstance.cpp
+END
+ScriptableInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/ScriptableInstance.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/main.cpp
+END
+computearch
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/computearch
+END
+LocalObjectTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/LocalObjectTable.cpp
+END
+npGwtDevPlugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npGwtDevPlugin.def
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/README.txt
+END
+getarch
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/getarch
+END
+get32bitflag
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/get32bitflag
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/resource.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/Makefile
+END
+arch
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/arch
+END

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test
+END
+MyIntegerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/MyIntegerList.java
+END
+ClassAnnotatedWithBinaryOnlyAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/ClassAnnotatedWithBinaryOnlyAnnotation.java
+END
+GenericClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/GenericClass.java
+END
+GenericClassWithDependentTypeBounds.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/GenericClassWithDependentTypeBounds.java
+END
+AnnotatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/AnnotatedClass.java
+END
+ExtendsRawGenericClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/ExtendsRawGenericClass.java
+END
+AnnotatedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/AnnotatedAnnotation.java
+END
+TestAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/TestAnnotation.java
+END
+EnumOfInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/EnumOfInterface.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/Base.java
+END
+MyEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/MyEnum.java
+END
+GenericSubclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/GenericSubclass.java
+END
+MyCustomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/MyCustomList.java
+END
+NestedAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/NestedAnnotation.java
+END
+PrimitivesAnnotatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/PrimitivesAnnotatedClass.java
+END
+MyList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/MyList.java
+END
+Derived.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/Derived.java
+END
+PrimitiveValuesAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/PrimitiveValuesAnnotation.java
+END
+SourceRetentionAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/SourceRetentionAnnotation.java
+END
+CA.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/CA.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/package-info.java
+END
+CB.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/CB.java
+END
+CC.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/CC.java
+END
+EnumInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/EnumInterface.java
+END
+NonGenericSubclass.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/NonGenericSubclass.java
+END
+GenericClassWithTypeBound.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/GenericClassWithTypeBound.java
+END
+IA.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/IA.java
+END
+IB.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/IB.java
+END
+IC.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/IC.java
+END
+ClassLiteralReferenceAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/typemodel/test/ClassLiteralReferenceAnnotation.java
+END

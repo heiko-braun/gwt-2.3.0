@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind
+END
+AbstractLocalizableImplCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AbstractLocalizableImplCreator.java
+END
+MessagesImplCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/MessagesImplCreator.java
+END
+AbstractResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AbstractResource.java
+END
+TypeOracleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/TypeOracleMessage.java
+END
+LocaleInfoContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocaleInfoContext.java
+END
+ConstantsStringArrayMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ConstantsStringArrayMethodCreator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/package-info.java
+END
+ResourceFactoryContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ResourceFactoryContext.java
+END
+LocalizedPropertiesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocalizedPropertiesResource.java
+END
+LocalizableLinkageCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocalizableLinkageCreator.java
+END
+TypeOracleMessageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/TypeOracleMessageInterface.java
+END
+DateTimePatternGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/DateTimePatternGenerator.java
+END
+ConstantsWithLookupImplCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ConstantsWithLookupImplCreator.java
+END
+AnnotationsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AnnotationsResource.java
+END
+AbstractLocalizableInterfaceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AbstractLocalizableInterfaceCreator.java
+END
+CustomDateTimeFormatGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/CustomDateTimeFormatGenerator.java
+END
+SimpleValueMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/SimpleValueMethodCreator.java
+END
+AnnotationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AnnotationUtil.java
+END
+MessagesInterfaceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/MessagesInterfaceCreator.java
+END
+KeyGenMessageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/KeyGenMessageInterface.java
+END
+MessageFormatParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/MessageFormatParser.java
+END
+StringGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/StringGenerator.java
+END
+ConstantsInterfaceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ConstantsInterfaceCreator.java
+END
+ConstantsImplCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ConstantsImplCreator.java
+END
+ResourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ResourceFactory.java
+END
+LocaleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocaleUtils.java
+END
+LocaleInfoGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocaleInfoGenerator.java
+END
+CachedGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/CachedGeneratorContext.java
+END
+AbstractLocalizableMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/AbstractLocalizableMethodCreator.java
+END
+KeyGenMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/KeyGenMessage.java
+END
+LocalizableGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LocalizableGenerator.java
+END
+MessagesMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/MessagesMethodCreator.java
+END
+LookupMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/LookupMethodCreator.java
+END
+ConstantsMapMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/ConstantsMapMethodCreator.java
+END
+CurrencyListGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/rebind/CurrencyListGenerator.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared
+END
+ValueCodexHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/ValueCodexHelper.java
+END
+ValueCodex.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/ValueCodex.java
+END
+AutoBeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/AutoBeanUtils.java
+END
+AutoBeanCodex.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/AutoBeanCodex.java
+END
+Splittable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/Splittable.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/package-info.java
+END
+AutoBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/AutoBeanFactory.java
+END
+AutoBeanVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/AutoBeanVisitor.java
+END
+AutoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/autobean/shared/AutoBean.java
+END

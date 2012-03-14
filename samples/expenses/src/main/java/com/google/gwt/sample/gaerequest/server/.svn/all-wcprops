@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/server
+END
+UserServiceWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/server/UserServiceWrapper.java
+END
+UserServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/server/UserServiceLocator.java
+END
+GaeAuthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/server/GaeAuthFilter.java
+END

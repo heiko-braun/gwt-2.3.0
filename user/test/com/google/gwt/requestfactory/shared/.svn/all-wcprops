@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9907/releases/2.3/user/test/com/google/gwt/requestfactory/shared
+END
+SimpleFooProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleFooProxy.java
+END
+UnicodeTestRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/UnicodeTestRequest.java
+END
+LocatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/LocatorTest.java
+END
+ComplexKeysTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/ComplexKeysTest.java
+END
+SimpleFooRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleFooRequest.java
+END
+ServiceInheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9907/releases/2.3/user/test/com/google/gwt/requestfactory/shared/ServiceInheritanceTest.java
+END
+OnlyUsedByRequestContextMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/OnlyUsedByRequestContextMethod.java
+END
+SimpleEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleEnum.java
+END
+BoxesAndPrimitivesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/BoxesAndPrimitivesTest.java
+END
+BaseFooProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/BaseFooProxy.java
+END
+TestRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/TestRequestFactory.java
+END
+SimpleBarProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleBarProxy.java
+END
+BasicRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/BasicRequestFactory.java
+END
+TestFooPolymorphicRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/TestFooPolymorphicRequest.java
+END
+OnlyUsedInListProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/OnlyUsedInListProxy.java
+END
+SimpleBarRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleBarRequest.java
+END
+SimpleValueProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleValueProxy.java
+END
+SimpleRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleRequestFactory.java
+END
+InstanceServiceRequestByName.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/InstanceServiceRequestByName.java
+END
+SimpleValueContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/SimpleValueContext.java
+END
+InstanceServiceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/shared/InstanceServiceRequest.java
+END

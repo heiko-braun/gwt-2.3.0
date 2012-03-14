@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9874/releases/2.3/plugins/webkit
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Info.plist
+END
+oophm_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/oophm_Prefix.pch
+END
+oophm_bypass.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/oophm_bypass.plist
+END
+gwtlogo.icns
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/gwtlogo.icns
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/build.xml
+END

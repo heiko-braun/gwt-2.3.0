@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/activity/shared
+END
+FilteredActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/activity/shared/FilteredActivityMapper.java
+END
+AbstractActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/activity/shared/AbstractActivity.java
+END
+ActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/activity/shared/ActivityMapper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/activity/shared/package-info.java
+END
+ActivityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/activity/shared/ActivityManager.java
+END
+Activity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/activity/shared/Activity.java
+END
+CachingActivityMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/activity/shared/CachingActivityMapper.java
+END

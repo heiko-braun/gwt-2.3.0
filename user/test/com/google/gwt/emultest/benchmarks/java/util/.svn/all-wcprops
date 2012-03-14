@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util
+END
+ArraySortBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/ArraySortBenchmark.java
+END
+ArrayListBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/ArrayListBenchmark.java
+END
+ListBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/ListBenchmark.java
+END
+TreeMapBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/TreeMapBenchmark.java
+END
+SortedMapBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/SortedMapBenchmark.java
+END
+HashMapBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/HashMapBenchmark.java
+END
+VectorBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/benchmarks/java/util/VectorBenchmark.java
+END

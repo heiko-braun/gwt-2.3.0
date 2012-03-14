@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9981/releases/2.3/user/test/com/google/gwt/safehtml
+END
+SafeHtmlGwtSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/safehtml/SafeHtmlGwtSuite.java
+END
+SafeHtmlTestsModule.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/safehtml/SafeHtmlTestsModule.gwt.xml
+END
+SafeHtmlJreSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/safehtml/SafeHtmlJreSuite.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/tools
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2011-04-29T11:50:42.000000Z
+10112
+rchandia@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+datetimefmtcreator
+dir
+
+scripts
+dir
+
+benchmark-viewer
+dir
+
+api-checker
+dir
+
+soyc-vis
+dir
+
+cldr-import
+dir
+
+build.xml
+file
+
+
+
+
+2012-03-14T07:08:56.000000Z
+00bfd77ccdb89f1e1812f084318d8ef9
+2010-10-12T21:00:54.000000Z
+9037
+jat@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1632
+

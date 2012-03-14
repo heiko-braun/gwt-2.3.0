@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client
+END
+GaeAuthRequestTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client/GaeAuthRequestTransport.java
+END
+GaeAuthenticationFailureEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client/GaeAuthenticationFailureEvent.java
+END
+LoginWidget.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client/LoginWidget.ui.xml
+END
+ReloadOnAuthenticationFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client/ReloadOnAuthenticationFailure.java
+END
+LoginWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/gaerequest/client/LoginWidget.java
+END

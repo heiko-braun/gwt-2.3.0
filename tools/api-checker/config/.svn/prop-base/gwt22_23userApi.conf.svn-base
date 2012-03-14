@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 63
+/trunk/tools/api-checker/config/gwt22_23userApi.conf:9849-10001
+K 13
+svn:mime-type
+V 28
+text/plain; charset=us-ascii
+END

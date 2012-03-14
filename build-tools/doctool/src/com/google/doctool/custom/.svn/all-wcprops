@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom
+END
+FindPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/FindPackages.java
+END
+IncludeTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/IncludeTaglet.java
+END
+ExampleTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/ExampleTaglet.java
+END
+EztDoclet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/EztDoclet.java
+END
+TipTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/TipTaglet.java
+END
+GWTJavaDoclet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/com/google/doctool/custom/GWTJavaDoclet.java
+END

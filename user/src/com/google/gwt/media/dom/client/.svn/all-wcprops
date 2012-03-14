@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/media/dom/client
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/media/dom/client/package-info.java
+END
+MediaError.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/media/dom/client/MediaError.java
+END
+TimeRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/media/dom/client/TimeRanges.java
+END

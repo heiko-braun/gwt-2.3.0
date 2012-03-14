@@ -1,0 +1,55 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/user/super/com/google/gwt
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2011-04-13T15:28:13.000000Z
+9984
+schenney@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+requestfactory
+dir
+
+emul
+dir
+
+safehtml
+dir
+
+rpc
+dir
+
+core
+dir
+
+junit
+dir
+
+benchmarks
+dir
+
+autobean
+dir
+
+user
+dir
+

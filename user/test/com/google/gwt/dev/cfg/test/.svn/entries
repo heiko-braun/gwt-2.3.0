@@ -1,0 +1,46 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/user/test/com/google/gwt/dev/cfg/test
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2007-12-10T18:51:11.545118Z
+1606
+gwt.team.scottb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+casesensitive
+dir
+
+includes
+dir
+
+recursive
+dir
+
+excludes
+dir
+
+caseinsensitive
+dir
+
+includeexclude
+dir
+

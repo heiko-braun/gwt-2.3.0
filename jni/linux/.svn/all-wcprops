@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/9849/releases/2.3/jni/linux
+END
+JsValueMoz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/jni/linux/JsValueMoz.cpp
+END
+JsStringWrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/jni/linux/JsStringWrap.h
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9849/releases/2.3/jni/linux/build.xml
+END
+JStringWrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/jni/linux/JStringWrap.h
+END
+LowLevelMoz.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/jni/linux/LowLevelMoz.cpp
+END
+Tracer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9849/releases/2.3/jni/linux/Tracer.cpp
+END
+ExternalWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/jni/linux/ExternalWrapper.cpp
+END
+gwt-jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9849/releases/2.3/jni/linux/gwt-jni.h
+END
+mozilla-headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/jni/linux/mozilla-headers.h
+END
+Tracer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9849/releases/2.3/jni/linux/Tracer.h
+END
+JsRootedValue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/jni/linux/JsRootedValue.cpp
+END
+NativeWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/jni/linux/NativeWrapper.cpp
+END
+ExternalWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/jni/linux/ExternalWrapper.h
+END
+JsRootedValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/jni/linux/JsRootedValue.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9849/releases/2.3/jni/linux/Makefile
+END

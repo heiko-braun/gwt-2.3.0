@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client
+END
+ModuleTwoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/ModuleTwoTest.java
+END
+NullModuleNameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/NullModuleNameTest.java
+END
+DevModeOnCompiledScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/DevModeOnCompiledScriptTest.java
+END
+ModuleOneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/ModuleOneTest.java
+END
+ParallelRemoteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/ParallelRemoteTest.java
+END
+ModuleOneTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/ModuleOneTest2.java
+END
+PropertyDefiningGWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/PropertyDefiningGWTTest.java
+END
+TestManualAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/TestManualAsync.java
+END
+ForcePureJavaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/ForcePureJavaTest.java
+END
+GWTTestCaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/client/GWTTestCaseTest.java
+END

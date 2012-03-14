@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/collect
+END
+HashSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/collect/HashSetTest.java
+END
+HashMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/collect/HashMapTest.java
+END
+IdentityHashSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/collect/IdentityHashSetTest.java
+END
+IdentityHashMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/collect/IdentityHashMapTest.java
+END

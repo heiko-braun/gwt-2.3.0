@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/testdata/merging
+END
+One.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/testdata/merging/One.gwt.xml
+END
+Three.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/testdata/merging/Three.gwt.xml
+END
+Two.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/testdata/merging/Two.gwt.xml
+END

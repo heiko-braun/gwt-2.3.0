@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math
+END
+BigIntegerViolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerViolator.java
+END
+BigIntegerNotTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerNotTest.java
+END
+BigIntegerAndTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerAndTest.java
+END
+BigIntegerDivideTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerDivideTest.java
+END
+BigIntegerModPowTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerModPowTest.java
+END
+BigIntegerXorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerXorTest.java
+END
+BigIntegerConstructorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerConstructorsTest.java
+END
+BigIntegerToStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerToStringTest.java
+END
+BigDecimalConstructorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigDecimalConstructorsTest.java
+END
+BigIntegerHashCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerHashCodeTest.java
+END
+BigIntegerMultiplyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerMultiplyTest.java
+END
+BigIntegerConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerConvertTest.java
+END
+BigIntegerOrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerOrTest.java
+END
+BigIntegerOperateBitsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerOperateBitsTest.java
+END
+BigDecimalConvertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigDecimalConvertTest.java
+END
+BigIntegerCompareTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerCompareTest.java
+END
+BigDecimalCompareTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigDecimalCompareTest.java
+END
+BigIntegerSubtractTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerSubtractTest.java
+END
+BigIntegerAddTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigIntegerAddTest.java
+END
+RoundingModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/RoundingModeTest.java
+END
+BigDecimalArithmeticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigDecimalArithmeticTest.java
+END
+BigDecimalScaleOperationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/BigDecimalScaleOperationsTest.java
+END
+MathContextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/math/MathContextTest.java
+END

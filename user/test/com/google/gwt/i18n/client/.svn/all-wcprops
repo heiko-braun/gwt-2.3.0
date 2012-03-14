@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client
+END
+DateTimeFormatTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeFormatTestBase.java
+END
+TestConstantsWithLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestConstantsWithLookup.java
+END
+I18N_iw_Test_MyConstants_he.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_iw_Test_MyConstants_he.properties
+END
+TestAnnotatedMessages_piglatin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedMessages_piglatin.properties
+END
+DateTimeParse_zh_CN_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeParse_zh_CN_Test.java
+END
+NumberParse_fr_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/NumberParse_fr_Test.java
+END
+I18N_es_MX_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_es_MX_Test.java
+END
+TestBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestBinding.java
+END
+TestConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestConstants.java
+END
+TestTypedMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestTypedMessages.java
+END
+I18N_iw_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_iw_Test.java
+END
+NumberFormat_ar_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/NumberFormat_ar_Test.java
+END
+NumberFormat_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/NumberFormat_en_Test.java
+END
+TestAnnotationInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotationInheritance.java
+END
+TestAnnotatedMessages_Nested_bb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedMessages_Nested_bb.properties
+END
+ColorsAndShapesAndConcepts_piglatin_UK_WINDOWS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapesAndConcepts_piglatin_UK_WINDOWS.properties
+END
+DateTimeFormat_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeFormat_en_Test.java
+END
+TestTypedMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestTypedMessages.properties
+END
+LocalizedNames_default_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/LocalizedNames_default_Test.java
+END
+I18N_nb_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_nb_Test.java
+END
+DateTimeFormat_fil_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeFormat_fil_Test.java
+END
+I18N_es_MX_Test_MyConstants_es_013.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_es_MX_Test_MyConstants_es_013.properties
+END
+I18N_nb_Test_MyMessages_no.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_nb_Test_MyMessages_no.properties
+END
+ColorsAndShapes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapes.properties
+END
+NumberParse_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/NumberParse_en_Test.java
+END
+I18N_es_MX_Test_MyMessages_es_419.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_es_MX_Test_MyMessages_es_419.properties
+END
+TimeZoneInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TimeZoneInfoTest.java
+END
+DateTimeParse_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeParse_en_Test.java
+END
+ColorsAndShapesAndConcepts_piglatin_UK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapesAndConcepts_piglatin_UK.properties
+END
+LocalizedNames_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/LocalizedNames_en_Test.java
+END
+LocaleInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/LocaleInfoTest.java
+END
+I18N_es_MX_RuntimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_es_MX_RuntimeTest.java
+END
+Moods.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Moods.java
+END
+I18N_pa_Arab_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_pa_Arab_Test.java
+END
+I18N_nb_Test_MyMessages_nb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_nb_Test_MyMessages_nb.properties
+END
+RuntimeLocalesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/RuntimeLocalesTest.java
+END
+I18N_nb_Test_MyMessages_no_BOKMAL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_nb_Test_MyMessages_no_BOKMAL.properties
+END
+CommonInterfaceAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/CommonInterfaceAnnotations.java
+END
+Moods.xrb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Moods.xrb.xml
+END
+ColorsAndShapes_piglatin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapes_piglatin.properties
+END
+TestAnnotationGrandchild.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotationGrandchild.java
+END
+Moods.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Moods.properties
+END
+AnnotationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/AnnotationsTest.java
+END
+DateTimeFormat_pl_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeFormat_pl_Test.java
+END
+I18N_iw_Test_MyMessages_he.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_iw_Test_MyMessages_he.properties
+END
+TestLeafBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestLeafBundle.java
+END
+ArabicPluralsTest_PluralMessage_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ArabicPluralsTest_PluralMessage_ar.properties
+END
+TestAnnotatedMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedMessages.java
+END
+TestMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestMessages.java
+END
+TestAnnotatedMessages_Nested_piglatin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedMessages_Nested_piglatin.properties
+END
+TestAnnotatedConstantsGenMD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedConstantsGenMD5.java
+END
+ColorsAndShapesAndConcepts.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapesAndConcepts.java
+END
+TestAnnotatedConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedConstants.java
+END
+Messages.xmb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Messages.xmb
+END
+TestConstantsWithLookup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestConstantsWithLookup.properties
+END
+Moods_en_UK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Moods_en_UK.properties
+END
+TestMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestMessages.properties
+END
+TestConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestConstants.properties
+END
+I18N_pa_PK_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_pa_PK_Test.java
+END
+ColorsAndShapes.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ColorsAndShapes.java
+END
+AnnotationsTest_Msg2_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/AnnotationsTest_Msg2_en_US.properties
+END
+CurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/CurrencyTest.java
+END
+I18N_es_AR_RuntimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N_es_AR_RuntimeTest.java
+END
+TestAnnotationGrandchild_piglatin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotationGrandchild_piglatin.properties
+END
+I18N2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18N2Test.java
+END
+TestAnnotatedMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TestAnnotatedMessages_ar.properties
+END
+Moods_en_UK.xrb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/Moods_en_UK.xrb.xml
+END
+DateTimeFormat_de_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/DateTimeFormat_de_Test.java
+END
+CustomPluralsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/CustomPluralsTest.java
+END
+I18NTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/I18NTest.java
+END
+ArabicPluralsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/ArabicPluralsTest.java
+END
+NumberFormat_fr_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/NumberFormat_fr_Test.java
+END
+TimeZoneTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/TimeZoneTest.java
+END
+LocaleInfo_en_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/LocaleInfo_en_Test.java
+END
+LocaleInfo_ar_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/client/LocaleInfo_ar_Test.java
+END

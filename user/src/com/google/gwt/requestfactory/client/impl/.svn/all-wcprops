@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/impl
+END
+RequestFactoryEditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/impl/RequestFactoryEditorDelegate.java
+END
+PathCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/impl/PathCollector.java
+END
+AbstractClientRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/impl/AbstractClientRequestFactory.java
+END
+AbstractRequestFactoryEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/impl/AbstractRequestFactoryEditorDriver.java
+END

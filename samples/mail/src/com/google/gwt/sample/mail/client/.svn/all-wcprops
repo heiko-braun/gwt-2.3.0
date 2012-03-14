@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client
+END
+MailDetail.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailDetail.ui.xml
+END
+gradient_bg_th.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/gradient_bg_th.png
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/logo.png
+END
+MailDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailDetail.java
+END
+gradient_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/gradient_bg.png
+END
+gradient_bg_dark.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/gradient_bg_dark.png
+END
+sent.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/sent.png
+END
+TopPanel.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/TopPanel.ui.xml
+END
+Tasks.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Tasks.ui.xml
+END
+TopPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/TopPanel.java
+END
+Mailboxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Mailboxes.java
+END
+AboutDialog.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/AboutDialog.ui.xml
+END
+Tasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Tasks.java
+END
+drafts.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/drafts.png
+END
+mailboxesgroup_ie6.gif
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/mailboxesgroup_ie6.gif
+END
+tasksgroup_ie6.gif
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/tasksgroup_ie6.gif
+END
+Shortcuts.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Shortcuts.ui.xml
+END
+AboutDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/AboutDialog.java
+END
+Shortcuts.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Shortcuts.java
+END
+templates.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/templates.png
+END
+MailItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailItem.java
+END
+gwt-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/gwt-logo.png
+END
+mailboxesgroup.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/mailboxesgroup.png
+END
+NavBar.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/NavBar.ui.xml
+END
+tasksgroup.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/tasksgroup.png
+END
+global.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/global.css
+END
+Contacts.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Contacts.ui.xml
+END
+NavBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/NavBar.java
+END
+MailList.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailList.ui.xml
+END
+ContactPopup.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/ContactPopup.ui.xml
+END
+Mail.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Mail.ui.xml
+END
+Contacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Contacts.java
+END
+MailList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailList.java
+END
+inbox.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/inbox.png
+END
+Mail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/Mail.java
+END
+contactsgroup_ie6.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/contactsgroup_ie6.gif
+END
+noimage.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/noimage.png
+END
+MailItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/MailItems.java
+END
+trash.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/trash.png
+END
+logo_ie6.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/logo_ie6.gif
+END
+home.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/home.png
+END
+default_photo.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/default_photo.jpg
+END
+contactsgroup.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/samples/mail/src/com/google/gwt/sample/mail/client/contactsgroup.png
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/user/src/com/google/gwt/requestfactory
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2011-04-22T18:46:06.000000Z
+10070
+rice@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+RequestFactory.gwt.xml
+file
+
+
+
+
+2012-03-14T07:09:54.000000Z
+a940099d843bf6897dad707806df84f9
+2010-11-05T11:25:19.000000Z
+9189
+bobv@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1600
+
+rebind
+dir
+
+server
+dir
+
+shared
+dir
+
+ui
+dir
+
+client
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json
+END
+JsonObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonObject.java
+END
+JsonString.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonString.java
+END
+JsonNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonNumber.java
+END
+JsonValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonValue.java
+END
+JsonException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonException.java
+END
+JsonArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonArray.java
+END
+JsonBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/JsonBoolean.java
+END
+Tokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/Tokenizer.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/json/Pair.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math
+END
+BigInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/BigInteger.java
+END
+BigDecimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/BigDecimal.java
+END
+Division.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Division.java
+END
+Conversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Conversion.java
+END
+Elementary.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Elementary.java
+END
+BitLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/BitLevel.java
+END
+RoundingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/RoundingMode.java
+END
+Primality.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Primality.java
+END
+Logical.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Logical.java
+END
+Multiplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/Multiplication.java
+END
+MathContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/math/MathContext.java
+END

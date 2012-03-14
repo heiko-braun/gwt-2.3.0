@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing
+END
+FakeLeafValueEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/FakeLeafValueEditor.java
+END
+FakeEditorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/FakeEditorContext.java
+END
+MockEditorChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/MockEditorChain.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/package-info.java
+END
+EditorHierarchyPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/EditorHierarchyPrinter.java
+END
+MockEditorError.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/MockEditorError.java
+END
+MockEditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/MockEditorDelegate.java
+END
+MockSimpleBeanEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/MockSimpleBeanEditorDriver.java
+END
+FakeEditorSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/testing/FakeEditorSource.java
+END

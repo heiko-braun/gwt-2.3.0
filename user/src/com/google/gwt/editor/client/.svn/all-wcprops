@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/editor/client
+END
+HasEditorErrors.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/HasEditorErrors.java
+END
+EditorError.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/EditorError.java
+END
+EditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/EditorDelegate.java
+END
+EditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/editor/client/EditorDriver.java
+END
+SimpleBeanEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/SimpleBeanEditorDriver.java
+END
+IsEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/IsEditor.java
+END
+ValueAwareEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/ValueAwareEditor.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/package-info.java
+END
+EditorVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/EditorVisitor.java
+END
+Editor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/Editor.java
+END
+CompositeEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/CompositeEditor.java
+END
+LeafValueEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/LeafValueEditor.java
+END
+EditorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/EditorContext.java
+END
+HasEditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/HasEditorDelegate.java
+END

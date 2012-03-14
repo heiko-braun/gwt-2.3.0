@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client
+END
+RequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/RequestBuilder.java
+END
+RequestPermissionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/RequestPermissionException.java
+END
+URL.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/URL.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/package-info.java
+END
+RequestCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/RequestCallback.java
+END
+RequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/RequestException.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/Header.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/Request.java
+END
+UrlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/UrlBuilder.java
+END
+StringValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/StringValidator.java
+END
+RequestTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/RequestTimeoutException.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/http/client/Response.java
+END

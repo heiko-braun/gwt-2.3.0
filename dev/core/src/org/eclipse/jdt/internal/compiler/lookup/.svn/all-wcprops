@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/org/eclipse/jdt/internal/compiler/lookup
+END
+BinaryTypeBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/org/eclipse/jdt/internal/compiler/lookup/BinaryTypeBinding.java
+END
+MethodBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/org/eclipse/jdt/internal/compiler/lookup/MethodBinding.java
+END
+SourceTypeBinding.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/org/eclipse/jdt/internal/compiler/lookup/SourceTypeBinding.java
+END

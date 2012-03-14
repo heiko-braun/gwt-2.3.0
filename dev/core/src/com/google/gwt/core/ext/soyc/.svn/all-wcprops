@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc
+END
+Story.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/Story.java
+END
+HasDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/HasDependencies.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/package-info.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/Member.java
+END
+MethodMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/MethodMember.java
+END
+SourceNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/SourceNameComparator.java
+END
+FieldMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/FieldMember.java
+END
+Range.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/Range.java
+END
+ClassMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/ClassMember.java
+END
+HasEnclosing.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/HasEnclosing.java
+END
+TypeAndSourceNameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/TypeAndSourceNameComparator.java
+END
+HasOverrides.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/HasOverrides.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util
+END
+TraceMethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceMethodVisitor.java
+END
+TraceSignatureVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceSignatureVisitor.java
+END
+TraceAbstractVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceAbstractVisitor.java
+END
+Traceable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/Traceable.java
+END
+TraceFieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceFieldVisitor.java
+END
+AbstractVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/AbstractVisitor.java
+END
+TraceClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceClassVisitor.java
+END
+TraceAnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/util/TraceAnnotationVisitor.java
+END

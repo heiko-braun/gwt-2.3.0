@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/place/shared
+END
+PlaceHistoryHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/place/shared/PlaceHistoryHandlerTest.java
+END
+PlaceChangeRequestEventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/place/shared/PlaceChangeRequestEventTest.java
+END
+PlaceControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/place/shared/PlaceControllerTest.java
+END
+MockPlaceControllerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/place/shared/MockPlaceControllerDelegate.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text
+END
+removeLink.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/removeLink.gif
+END
+foreColors.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/foreColors.gif
+END
+RichTextToolbar_Strings.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/RichTextToolbar_Strings.properties
+END
+subscript.gif
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/subscript.gif
+END
+bold.gif
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/bold.gif
+END
+ul.gif
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/ul.gif
+END
+createLink.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/createLink.gif
+END
+indent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/indent.gif
+END
+backColors.gif
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/backColors.gif
+END
+outdent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/outdent.gif
+END
+superscript.gif
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/superscript.gif
+END
+fontSizes.gif
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/fontSizes.gif
+END
+underline.gif
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/underline.gif
+END
+RichTextToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/RichTextToolbar.java
+END
+fonts.gif
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/fonts.gif
+END
+justifyRight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/justifyRight.gif
+END
+CwBasicText.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/CwBasicText.java
+END
+justifyCenter.gif
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/justifyCenter.gif
+END
+CwRichText.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/CwRichText.java
+END
+strikeThrough.gif
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/strikeThrough.gif
+END
+italic.gif
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/italic.gif
+END
+removeFormat.gif
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/removeFormat.gif
+END
+insertImage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/insertImage.gif
+END
+justifyLeft.gif
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/justifyLeft.gif
+END
+hr.gif
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/hr.gif
+END
+ol.gif
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/text/ol.gif
+END

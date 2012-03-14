@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources
+END
+ResourcesSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/ResourcesSuite.java
+END
+ExternalTextResourceJsonp.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/ExternalTextResourceJsonp.gwt.xml
+END
+ResourcesNoInlining.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/ResourcesNoInlining.gwt.xml
+END

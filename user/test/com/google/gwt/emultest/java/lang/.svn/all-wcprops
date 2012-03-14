@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang
+END
+LongTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/LongTest.java
+END
+ShortTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/ShortTest.java
+END
+StringBufferTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/StringBufferTest.java
+END
+ByteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/ByteTest.java
+END
+FloatTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/FloatTest.java
+END
+StringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/StringTest.java
+END
+ObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/ObjectTest.java
+END
+DoubleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/DoubleTest.java
+END
+CompilerConstantStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/CompilerConstantStringTest.java
+END
+BooleanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/BooleanTest.java
+END
+C.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/C.java
+END
+SystemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/SystemTest.java
+END
+StringBufferDefaultImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/StringBufferDefaultImplTest.java
+END
+MathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/MathTest.java
+END
+CharacterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/CharacterTest.java
+END
+IntegerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/lang/IntegerTest.java
+END

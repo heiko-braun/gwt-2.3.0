@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9975/releases/2.3/user/src/com/google/gwt/user/tools
+END
+ApplicationCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/ApplicationCreator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/package-info.java
+END
+ProjectCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/ProjectCreator.java
+END
+.classpathsrc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/.classpathsrc
+END
+.projectsrc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/.projectsrc
+END
+WebAppCreatorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/WebAppCreatorException.java
+END
+WebAppCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9920/releases/2.3/user/src/com/google/gwt/user/tools/WebAppCreator.java
+END

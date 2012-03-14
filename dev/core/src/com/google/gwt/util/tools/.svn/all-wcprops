@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools
+END
+ArgHandlerFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerFlag.java
+END
+ArgHandlerInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerInt.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/Utility.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/package-info.java
+END
+ArgHandlerDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerDir.java
+END
+ArgHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandler.java
+END
+ArgHandlerFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerFile.java
+END
+ToolBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ToolBase.java
+END
+ArgHandlerExtra.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerExtra.java
+END
+ArgHandlerOutDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerOutDir.java
+END
+ArgHandlerString.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/util/tools/ArgHandlerString.java
+END

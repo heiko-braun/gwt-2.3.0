@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 110
+/trunk/samples/showcase/src/com/google/gwt/sample/showcase/client/content/cell/CwCellValidation.java:9849-9976
+K 13
+svn:mime-type
+V 11
+text/x-java
+END

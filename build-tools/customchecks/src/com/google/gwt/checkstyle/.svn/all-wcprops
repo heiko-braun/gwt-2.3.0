@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/build-tools/customchecks/src/com/google/gwt/checkstyle
+END
+FieldCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/build-tools/customchecks/src/com/google/gwt/checkstyle/FieldCheck.java
+END
+OrderCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/build-tools/customchecks/src/com/google/gwt/checkstyle/OrderCheck.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client
+END
+LocalStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/LocalStorageTest.java
+END
+StorageMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/StorageMapTest.java
+END
+StorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/StorageTest.java
+END
+SessionStorageMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/SessionStorageMapTest.java
+END
+SessionStorageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/SessionStorageTest.java
+END
+LocalStorageMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/LocalStorageMapTest.java
+END
+MapInterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/storage/client/MapInterfaceTest.java
+END

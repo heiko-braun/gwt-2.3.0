@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9849/releases/2.3/eclipse/dev/compiler
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/eclipse/dev/compiler/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/eclipse/dev/compiler/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/eclipse/dev/compiler/.checkstyle
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model
+END
+EntityProxyModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/EntityProxyModel.java
+END
+ModelVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/ModelVisitor.java
+END
+RequestFactoryModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/RequestFactoryModel.java
+END
+AcceptsModelVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/AcceptsModelVisitor.java
+END
+ContextMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/ContextMethod.java
+END
+RequestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/rebind/model/RequestMethod.java
+END

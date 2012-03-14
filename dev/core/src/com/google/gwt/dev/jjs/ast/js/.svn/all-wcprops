@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js
+END
+JsonObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JsonObject.java
+END
+JsniMethodRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JsniMethodRef.java
+END
+JsniMethodBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JsniMethodBody.java
+END
+JsniFieldRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JsniFieldRef.java
+END
+JMultiExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JMultiExpression.java
+END
+JsonArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ast/js/JsonArray.java
+END

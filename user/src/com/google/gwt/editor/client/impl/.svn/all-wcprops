@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl
+END
+AbstractEditorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/AbstractEditorContext.java
+END
+RootEditorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/RootEditorContext.java
+END
+ErrorCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/ErrorCollector.java
+END
+SimpleBeanEditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/SimpleBeanEditorDelegate.java
+END
+SimpleError.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/SimpleError.java
+END
+Initializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/Initializer.java
+END
+Refresher.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/Refresher.java
+END
+AbstractEditorDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/AbstractEditorDelegate.java
+END
+AbstractSimpleBeanEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/AbstractSimpleBeanEditorDriver.java
+END
+DelegateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/DelegateMap.java
+END
+Flusher.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/Flusher.java
+END
+DirtCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/DirtCollector.java
+END
+BaseEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/BaseEditorDriver.java
+END
+SimpleViolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/editor/client/impl/SimpleViolation.java
+END

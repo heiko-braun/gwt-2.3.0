@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10068/releases/2.3/dev/core/src/com/google/gwt/dev/javac
+END
+MethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/MethodVisitor.java
+END
+BytecodeSignatureMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/BytecodeSignatureMaker.java
+END
+CompilationUnitImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationUnitImpl.java
+END
+BinaryTypeReferenceRestrictionsChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/BinaryTypeReferenceRestrictionsChecker.java
+END
+JsniCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JsniCollector.java
+END
+CompilationUnitInvalidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationUnitInvalidator.java
+END
+JdtCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JdtCompiler.java
+END
+GeneratedClassnameComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/GeneratedClassnameComparator.java
+END
+CompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationUnit.java
+END
+CompiledClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompiledClass.java
+END
+CompilationUnitBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationUnitBuilder.java
+END
+CompilationStateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationStateBuilder.java
+END
+Dependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/Dependencies.java
+END
+ContentId.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/ContentId.java
+END
+MethodArgNamesLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/MethodArgNamesLookup.java
+END
+JSORestrictionsChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JSORestrictionsChecker.java
+END
+GeneratedUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/GeneratedUnit.java
+END
+SourceFileCompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/SourceFileCompilationUnit.java
+END
+TypeOracleMediatorFromSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/TypeOracleMediatorFromSource.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/Resolver.java
+END
+ArtificialRescueChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/ArtificialRescueChecker.java
+END
+AnnotationProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/AnnotationProxyFactory.java
+END
+JsniMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JsniMethod.java
+END
+Shared.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/Shared.java
+END
+CachedCompilationUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CachedCompilationUnit.java
+END
+SerializableCategorizedProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/SerializableCategorizedProblem.java
+END
+MethodParamCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/MethodParamCollector.java
+END
+StandardGeneratorContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/StandardGeneratorContext.java
+END
+TypeParameterLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/TypeParameterLookup.java
+END
+JavaSourceParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JavaSourceParser.java
+END
+CompilationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/CompilationState.java
+END
+GWTProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/GWTProblem.java
+END
+JsniChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/JsniChecker.java
+END
+TypeOracleMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10068/releases/2.3/dev/core/src/com/google/gwt/dev/javac/TypeOracleMediator.java
+END

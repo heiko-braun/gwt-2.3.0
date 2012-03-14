@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm
+END
+CollectMethodData.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectMethodData.java
+END
+EmptySignatureVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/EmptySignatureVisitor.java
+END
+ResolveMethodSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/ResolveMethodSignature.java
+END
+CollectFieldData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectFieldData.java
+END
+ResolveTypeSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/ResolveTypeSignature.java
+END
+CollectClassData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectClassData.java
+END
+CollectReferencesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectReferencesVisitor.java
+END
+ResolveClassSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/ResolveClassSignature.java
+END
+CollectAnnotationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectAnnotationData.java
+END
+CollectTypeParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/asm/CollectTypeParams.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9877/releases/2.3/user/src/com/google/gwt/core/client/impl
+END
+StringBuilderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBuilderImpl.java
+END
+CrossSiteLoadingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/CrossSiteLoadingStrategy.java
+END
+SchedulerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/SchedulerImpl.java
+END
+Impl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9877/releases/2.3/user/src/com/google/gwt/core/client/impl/Impl.java
+END
+WeakMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/WeakMapping.java
+END
+StackTraceCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StackTraceCreator.java
+END
+StringBufferImplConcat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImplConcat.java
+END
+StringBufferImplAppend.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImplAppend.java
+END
+StringBufferImplArrayBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImplArrayBase.java
+END
+SerializableThrowable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/SerializableThrowable.java
+END
+StringBufferImplArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImplArray.java
+END
+XhrLoadingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/XhrLoadingStrategy.java
+END
+StringBufferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImpl.java
+END
+StringBufferImplPush.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/StringBufferImplPush.java
+END
+CrossSiteIframeLoadingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/CrossSiteIframeLoadingStrategy.java
+END
+Md5Digest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/Md5Digest.java
+END
+AsyncFragmentLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/impl/AsyncFragmentLoader.java
+END

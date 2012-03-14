@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client
+END
+RequestFactoryLogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/RequestFactoryLogHandler.java
+END
+RequestFactoryEditorDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/RequestFactoryEditorDriver.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/package-info.java
+END
+HasRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/HasRequestContext.java
+END
+DefaultRequestTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/client/DefaultRequestTransport.java
+END

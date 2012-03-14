@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs/Timer.java
+END
+SvnInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs/SvnInfo.java
+END
+LatestTimeJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs/LatestTimeJar.java
+END
+CommandRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs/CommandRunner.java
+END
+TarCat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/src/com/google/gwt/ant/taskdefs/TarCat.java
+END

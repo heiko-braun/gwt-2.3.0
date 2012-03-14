@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/gwt/event/shared
+END
+SimpleEventBusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/gwt/event/shared/SimpleEventBusTest.java
+END
+ResettableEventBusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/event/shared/ResettableEventBusTest.java
+END
+HandlerManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/event/shared/HandlerManagerTest.java
+END
+HandlerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/event/shared/HandlerTestBase.java
+END
+EventBusTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/gwt/event/shared/EventBusTest.java
+END

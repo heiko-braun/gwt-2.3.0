@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/prefetch
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/prefetch/package-info.java
+END
+Prefetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/prefetch/Prefetcher.java
+END
+PrefetchableResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/prefetch/PrefetchableResource.java
+END
+RunAsyncCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/core/client/prefetch/RunAsyncCode.java
+END

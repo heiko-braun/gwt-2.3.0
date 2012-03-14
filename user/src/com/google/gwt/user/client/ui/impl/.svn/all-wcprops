@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9931/releases/2.3/user/src/com/google/gwt/user/client/ui/impl
+END
+FocusImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FocusImpl.java
+END
+FormPanelImplHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FormPanelImplHost.java
+END
+ClippedImageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/ClippedImageImpl.java
+END
+HyperlinkImplIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/HyperlinkImplIE.java
+END
+FocusImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FocusImplIE6.java
+END
+RichTextAreaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImpl.java
+END
+FormPanelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FormPanelImpl.java
+END
+FormPanelImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FormPanelImplIE6.java
+END
+ClippedImageImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/ClippedImageImplIE6.java
+END
+RichTextAreaImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9931/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImplIE6.java
+END
+ClippedImagePrototype.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/ClippedImagePrototype.java
+END
+PopupImplMozilla.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/PopupImplMozilla.java
+END
+HyperlinkImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/HyperlinkImplSafari.java
+END
+HyperlinkImplOpera.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/HyperlinkImplOpera.java
+END
+TextBoxImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/TextBoxImpl.java
+END
+FocusImplStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FocusImplStandard.java
+END
+TextBoxImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/TextBoxImplIE6.java
+END
+PopupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/PopupImpl.java
+END
+RichTextAreaImplStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImplStandard.java
+END
+HyperlinkImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/HyperlinkImpl.java
+END
+FocusImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/FocusImplSafari.java
+END
+PopupImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/PopupImplIE6.java
+END
+RichTextAreaImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImplSafari.java
+END
+RichTextAreaImplOpera.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImplOpera.java
+END
+RichTextAreaImplMozilla.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/ui/impl/RichTextAreaImplMozilla.java
+END

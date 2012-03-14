@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9978/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client
+END
+catTextInput.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catTextInput.png
+END
+ShowcaseShell.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ShowcaseShell.ui.xml
+END
+catWidgets.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catWidgets.png
+END
+loading.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/loading.gif
+END
+locale.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/locale.png
+END
+ContentWidgetView.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ContentWidgetView.ui.xml
+END
+ShowcaseShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ShowcaseShell.java
+END
+MainMenuTreeViewModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/MainMenuTreeViewModel.java
+END
+catTables.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catTables.png
+END
+ShowcaseResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ShowcaseResources.java
+END
+ShowcaseConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ShowcaseConstants.java
+END
+ContentWidgetView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ContentWidgetView.java
+END
+catI18N.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catI18N.png
+END
+Showcase.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/Showcase.java
+END
+catOther.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catOther.png
+END
+catPanels.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catPanels.png
+END
+ContentWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ContentWidget.java
+END
+catPopups.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catPopups.png
+END
+noimage.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/noimage.png
+END
+Showcase.css
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/Showcase.css
+END
+jimmy.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/jimmy.jpg
+END
+jimmyThumb.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/jimmyThumb.jpg
+END
+gwtLogoThumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/gwtLogoThumb.png
+END
+gwtLogo.png
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/gwtLogo.png
+END
+catLists.png
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/catLists.png
+END
+ShowcaseAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/ShowcaseAnnotations.java
+END

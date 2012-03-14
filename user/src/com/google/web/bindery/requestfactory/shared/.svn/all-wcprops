@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared
+END
+LoggingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/LoggingRequest.java
+END
+JsonRpcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/JsonRpcService.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/Service.java
+END
+ServiceName.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ServiceName.java
+END
+SkipInterfaceValidation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/SkipInterfaceValidation.java
+END
+DefaultProxyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/DefaultProxyStore.java
+END
+Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/Locator.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/Receiver.java
+END
+Violation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/Violation.java
+END
+RequestTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/RequestTransport.java
+END
+JsonRpcWireName.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/JsonRpcWireName.java
+END
+JsonRpcContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/JsonRpcContent.java
+END
+WriteOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/WriteOperation.java
+END
+ProxySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ProxySerializer.java
+END
+BaseProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/BaseProxy.java
+END
+InstanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/InstanceRequest.java
+END
+EntityProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/EntityProxy.java
+END
+ValueProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ValueProxy.java
+END
+ServerFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ServerFailure.java
+END
+RequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/RequestFactory.java
+END
+JsonRpcProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/JsonRpcProxy.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/package-info.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ServiceLocator.java
+END
+EntityProxyChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/EntityProxyChange.java
+END
+ProxyFor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ProxyFor.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/Request.java
+END
+ProxyForName.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ProxyForName.java
+END
+EntityProxyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/EntityProxyId.java
+END
+RequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/RequestContext.java
+END
+ProxyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/shared/ProxyStore.java
+END

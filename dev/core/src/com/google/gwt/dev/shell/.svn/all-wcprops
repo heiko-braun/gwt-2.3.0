@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10070/releases/2.3/dev/core/src/com/google/gwt/dev/shell
+END
+CloseButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/CloseButton.java
+END
+icon24.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon24.png
+END
+EmmaStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/EmmaStrategy.java
+END
+BrowserChannelServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserChannelServer.java
+END
+JavaScriptHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JavaScriptHost.java
+END
+WorkDirs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/WorkDirs.java
+END
+icon64.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon64.png
+END
+HtmlUnitSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HtmlUnitSessionHandler.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/Messages.java
+END
+HostedModeServletContextProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HostedModeServletContextProxy.java
+END
+JavaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JavaObject.java
+END
+StandardRebindOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/StandardRebindOracle.java
+END
+clear-cache.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/clear-cache.gif
+END
+SessionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/SessionData.java
+END
+JavaDispatchImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JavaDispatchImpl.java
+END
+OophmSessionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/OophmSessionHandler.java
+END
+icon128.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon128.png
+END
+ShellModuleSpaceHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ShellModuleSpaceHost.java
+END
+clear-log.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/clear-log.gif
+END
+CompilingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/dev/core/src/com/google/gwt/dev/shell/CompilingClassLoader.java
+END
+icon32.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon32.png
+END
+MethodDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/MethodDispatch.java
+END
+JavaDispatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JavaDispatch.java
+END
+HostedModePluginObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HostedModePluginObject.java
+END
+JavaLong.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JavaLong.java
+END
+DispatchClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/DispatchClassInfo.java
+END
+expand.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/expand.gif
+END
+ModuleSpaceOOPHM.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ModuleSpaceOOPHM.java
+END
+WrapLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/WrapLayout.java
+END
+close.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/close.png
+END
+CheckForUpdates.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/CheckForUpdates.java
+END
+BrowserWidgetHostChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserWidgetHostChecker.java
+END
+Icons.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/Icons.java
+END
+JsValueOOPHM.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JsValueOOPHM.java
+END
+BrowserChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserChannel.java
+END
+new-window.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/new-window.gif
+END
+go.gif
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/go.gif
+END
+ServerMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ServerMethods.java
+END
+MethodAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/MethodAdaptor.java
+END
+ShellJavaScriptHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ShellJavaScriptHost.java
+END
+about.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/about.gif
+END
+GWTBridgeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/GWTBridgeImpl.java
+END
+icon48.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon48.png
+END
+stop.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/stop.gif
+END
+new-web-mode-window.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/new-web-mode-window.gif
+END
+logo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/logo.gif
+END
+BrowserWidgetHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserWidgetHost.java
+END
+JsValueGlue.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JsValueGlue.java
+END
+ServerObjectsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ServerObjectsTable.java
+END
+BrowserListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserListener.java
+END
+BrowserChannelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserChannelException.java
+END
+GWTShellServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/GWTShellServlet.java
+END
+ModuleSpaceHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ModuleSpaceHost.java
+END
+secure24.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/secure24.png
+END
+ModuleSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ModuleSpace.java
+END
+DispatchIdOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/DispatchIdOracle.java
+END
+icon16.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/icon16.png
+END
+Jsni.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/Jsni.java
+END
+ShellMainWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ShellMainWindow.java
+END
+JsValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/JsValue.java
+END
+HostedModeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HostedModeException.java
+END
+BrowserChannelClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/BrowserChannelClient.java
+END
+ArtifactAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ArtifactAcceptor.java
+END
+HostedHtmlVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HostedHtmlVersion.java
+END
+refresh.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/refresh.gif
+END
+back.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/back.gif
+END
+open.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/open.gif
+END
+collapse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/collapse.gif
+END
+forward.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/forward.gif
+END
+SyntheticClassMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/SyntheticClassMember.java
+END
+HostedModeServletConfigProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/HostedModeServletConfigProxy.java
+END
+RemoteObjectTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/RemoteObjectTable.java
+END
+ModuleSpacePropertyOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/ModuleSpacePropertyOracle.java
+END
+reload-server.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/reload-server.gif
+END

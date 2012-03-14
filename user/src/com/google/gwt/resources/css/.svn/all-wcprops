@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css
+END
+ExtractClassNamesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ExtractClassNamesVisitor.java
+END
+ExternalClassesCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ExternalClassesCollector.java
+END
+InterfaceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/InterfaceGenerator.java
+END
+GenerateCssAst.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/GenerateCssAst.java
+END
+CheckStaticCssVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/CheckStaticCssVisitor.java
+END
+ClassRenamer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/ClassRenamer.java
+END
+MergeRulesByContentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/MergeRulesByContentVisitor.java
+END
+MergeIdenticalSelectorsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/MergeIdenticalSelectorsVisitor.java
+END
+IfEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/IfEvaluator.java
+END
+RtlVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/RtlVisitor.java
+END
+SubstitutionCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/SubstitutionCollector.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/package-info.java
+END
+CssGenerationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/CssGenerationVisitor.java
+END
+SplitRulesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/SplitRulesVisitor.java
+END
+DefsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/DefsCollector.java
+END
+Spriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/Spriter.java
+END
+SubstitutionReplacer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/SubstitutionReplacer.java
+END
+RequirementsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/RequirementsCollector.java
+END
+Minify.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/css/Minify.java
+END

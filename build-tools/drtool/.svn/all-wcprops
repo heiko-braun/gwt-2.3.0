@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9849/releases/2.3/build-tools/drtool
+END
+TOCNode.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/build-tools/drtool/TOCNode.py
+END
+drtool.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/build-tools/drtool/drtool.py
+END
+BuildGlobalTOC.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/build-tools/drtool/BuildGlobalTOC.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/Settings.java
+END
+StaticResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/StaticResources.java
+END
+SoycDashboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/SoycDashboard.java
+END
+CodeCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/CodeCollection.java
+END
+GlobalInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/GlobalInformation.java
+END
+CompilerMetricsXmlFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/CompilerMetricsXmlFormatter.java
+END
+SizeBreakdown.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/SizeBreakdown.java
+END
+MakeTopLevelHtmlForPerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/MakeTopLevelHtmlForPerm.java
+END
+LiteralsCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/LiteralsCollection.java
+END
+compilerMetrics.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/soyc/compilerMetrics.xsd
+END

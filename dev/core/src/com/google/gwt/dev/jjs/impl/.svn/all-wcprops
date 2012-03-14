@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10027/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl
+END
+BuildTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/BuildTypeMap.java
+END
+FragmentExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/FragmentExtractor.java
+END
+EqualityNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/EqualityNormalizer.java
+END
+CloneExpressionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/CloneExpressionVisitor.java
+END
+TempLocalVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TempLocalVisitor.java
+END
+CatchBlockNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/CatchBlockNormalizer.java
+END
+CodeSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/CodeSplitter.java
+END
+AutoboxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/AutoboxUtils.java
+END
+Simplifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/Simplifier.java
+END
+ReferenceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ReferenceMapper.java
+END
+MakeCallsStatic.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/MakeCallsStatic.java
+END
+ToStringGenerationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ToStringGenerationVisitor.java
+END
+ExpressionAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ExpressionAnalyzer.java
+END
+EnumOrdinalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/EnumOrdinalizer.java
+END
+AssertionNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/AssertionNormalizer.java
+END
+Pruner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/Pruner.java
+END
+ControlFlowAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9874/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ControlFlowAnalyzer.java
+END
+JavaPrecedenceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JavaPrecedenceVisitor.java
+END
+GwtAstBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/GwtAstBuilder.java
+END
+DeadCodeElimination.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/DeadCodeElimination.java
+END
+HasNameSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/HasNameSort.java
+END
+TextOutputVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TextOutputVisitor.java
+END
+MethodCallTightener.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/MethodCallTightener.java
+END
+ResolveRebinds.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ResolveRebinds.java
+END
+SameParameterValueOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/SameParameterValueOptimizer.java
+END
+TypeLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TypeLinker.java
+END
+JsAbstractTextTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JsAbstractTextTransformer.java
+END
+HandleCrossFragmentReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/HandleCrossFragmentReferences.java
+END
+JsIEBlockTextTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JsIEBlockTextTransformer.java
+END
+CastNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9874/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/CastNormalizer.java
+END
+FixAssignmentToUnbox.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/FixAssignmentToUnbox.java
+END
+ImplicitUpcastAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ImplicitUpcastAnalyzer.java
+END
+MethodInliner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/MethodInliner.java
+END
+OptimizerStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/OptimizerStats.java
+END
+GenerateJavaAST.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/GenerateJavaAST.java
+END
+AstDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/AstDumper.java
+END
+JsoDevirtualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9874/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JsoDevirtualizer.java
+END
+AssertionRemover.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/AssertionRemover.java
+END
+JavaToJavaScriptMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JavaToJavaScriptMap.java
+END
+FragmentLoaderCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/FragmentLoaderCreator.java
+END
+RemoveEmptySuperCalls.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/RemoveEmptySuperCalls.java
+END
+JsFunctionClusterer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JsFunctionClusterer.java
+END
+TypeRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TypeRemapper.java
+END
+LongCastNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/LongCastNormalizer.java
+END
+TypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TypeMap.java
+END
+CompoundAssignmentNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10027/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/CompoundAssignmentNormalizer.java
+END
+LongEmulationNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/LongEmulationNormalizer.java
+END
+ArrayNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ArrayNormalizer.java
+END
+ReplaceRunAsyncs.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ReplaceRunAsyncs.java
+END
+GenerateJavaScriptLiterals.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/GenerateJavaScriptLiterals.java
+END
+ReplaceRebinds.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ReplaceRebinds.java
+END
+Finalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/Finalizer.java
+END
+RecordRebinds.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/RecordRebinds.java
+END
+GenerateJavaScriptAST.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/GenerateJavaScriptAST.java
+END
+JsniRefLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JsniRefLookup.java
+END
+JavaAndJavaScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/JavaAndJavaScript.java
+END
+TypeTightener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/TypeTightener.java
+END
+ImplementClassLiteralsAsFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9874/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/ImplementClassLiteralsAsFields.java
+END
+SourceGenerationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/SourceGenerationVisitor.java
+END
+PostOptimizationCompoundAssignmentNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/10027/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/PostOptimizationCompoundAssignmentNormalizer.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/sql
+END
+SqlTimestampTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/sql/SqlTimestampTest.java
+END
+SqlDateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/sql/SqlDateTest.java
+END
+SqlTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/emultest/java/sql/SqlTimeTest.java
+END

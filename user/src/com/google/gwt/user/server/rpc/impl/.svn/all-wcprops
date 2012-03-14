@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl
+END
+SerializedInstanceReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/SerializedInstanceReference.java
+END
+CharVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/CharVector.java
+END
+LegacySerializationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/LegacySerializationPolicy.java
+END
+ServerSerializationStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/ServerSerializationStreamReader.java
+END
+TypeNameObfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/TypeNameObfuscator.java
+END
+ServerSerializationStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/ServerSerializationStreamWriter.java
+END
+SerializabilityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/SerializabilityUtil.java
+END
+StandardSerializationPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/server/rpc/impl/StandardSerializationPolicy.java
+END

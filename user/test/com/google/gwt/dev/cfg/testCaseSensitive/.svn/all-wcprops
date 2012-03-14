@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testCaseSensitive
+END
+bad.Html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testCaseSensitive/bad.Html
+END
+good1.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testCaseSensitive/good1.html
+END

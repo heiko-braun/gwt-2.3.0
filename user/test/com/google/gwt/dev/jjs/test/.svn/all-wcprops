@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test
+END
+NoMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/NoMethods.java
+END
+InnerClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/InnerClassTest.java
+END
+CrossSiteRunAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteRunAsyncTest.java
+END
+RunAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/RunAsyncTest.java
+END
+MiscellaneousTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MiscellaneousTest.java
+END
+MethodsOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MethodsOnly.java
+END
+VarargsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/VarargsTest.java
+END
+EnhancedForLoopTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/EnhancedForLoopTest.java
+END
+JsniConstructorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/JsniConstructorTest.java
+END
+RunAsyncFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/RunAsyncFailureTest.java
+END
+MemberShadowingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MemberShadowingTest.java
+END
+CrossSiteIframeRunAsyncMetricsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteIframeRunAsyncMetricsTest.java
+END
+MethodsAndFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MethodsAndFields.java
+END
+StaticObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/StaticObject.java
+END
+SingleJsoImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/SingleJsoImplTest.java
+END
+ClassCastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/ClassCastTest.java
+END
+ObjectIdentityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/ObjectIdentityTest.java
+END
+AutoboxTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/AutoboxTest.java
+END
+EnumsWithNameObfuscationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/EnumsWithNameObfuscationTest.java
+END
+CrossSiteIframeRunAsyncTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteIframeRunAsyncTest.java
+END
+HostedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/HostedTest.java
+END
+NoMethodsOrFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/NoMethodsOrFields.java
+END
+JsoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/JsoTest.java
+END
+ClassObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/ClassObjectTest.java
+END
+RunAsyncMetricsIntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/RunAsyncMetricsIntegrationTest.java
+END
+MethodInterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MethodInterfaceTest.java
+END
+NativeLongTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/NativeLongTest.java
+END
+BlankInterfaceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/BlankInterfaceTest.java
+END
+CrossSiteRunAsyncFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteRunAsyncFailureTest.java
+END
+InnerOuterSuperTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/InnerOuterSuperTest.java
+END
+JStaticEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/JStaticEvalTest.java
+END
+CompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CompilerTest.java
+END
+MethodCallTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MethodCallTest.java
+END
+MethodBindTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/MethodBindTest.java
+END
+JavaAccessFromJavaScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/JavaAccessFromJavaScriptTest.java
+END
+InitialLoadSequenceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/InitialLoadSequenceTest.java
+END
+UnstableGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/UnstableGeneratorTest.java
+END
+EnumsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/EnumsTest.java
+END
+GenericCastTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/GenericCastTest.java
+END
+CrossSiteRunAsyncMetricsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteRunAsyncMetricsTest.java
+END
+CoverageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CoverageTest.java
+END
+JsStaticEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/JsStaticEvalTest.java
+END
+CrossSiteIframeRunAsyncFailureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/CrossSiteIframeRunAsyncFailureTest.java
+END
+AnnotationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/jjs/test/AnnotationsTest.java
+END

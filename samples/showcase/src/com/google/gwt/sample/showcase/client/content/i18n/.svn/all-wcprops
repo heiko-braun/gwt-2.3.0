@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n
+END
+ExampleConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ExampleConstants.properties
+END
+ExampleConstants_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ExampleConstants_zh.properties
+END
+BlogMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/BlogMessages_ar.properties
+END
+ColorConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ColorConstants.java
+END
+CwPluralFormsExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwPluralFormsExample.java
+END
+BlogMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/BlogMessages_fr.properties
+END
+CwMessagesExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwMessagesExample.java
+END
+ErrorMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ErrorMessages_ar.properties
+END
+CwBidiInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwBidiInput.java
+END
+ErrorMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ErrorMessages_fr.properties
+END
+PluralMessages_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/PluralMessages_ar.properties
+END
+ColorConstants.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ColorConstants.properties
+END
+BlogMessages_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/BlogMessages_zh.properties
+END
+PluralMessages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/PluralMessages_fr.properties
+END
+CwNumberFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwNumberFormat.java
+END
+ErrorMessages_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ErrorMessages_zh.properties
+END
+CwDateTimeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwDateTimeFormat.java
+END
+PluralMessages_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/PluralMessages_zh.properties
+END
+ColorConstants_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ColorConstants_ar.properties
+END
+CwConstantsWithLookupExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwConstantsWithLookupExample.java
+END
+BlogMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/BlogMessages.java
+END
+CwDictionaryExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwDictionaryExample.java
+END
+ColorConstants_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ColorConstants_fr.properties
+END
+ErrorMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ErrorMessages.java
+END
+CwConstantsExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwConstantsExample.java
+END
+ExampleConstants_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ExampleConstants_ar.properties
+END
+BlogMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/BlogMessages.properties
+END
+ColorConstants_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ColorConstants_zh.properties
+END
+PluralMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/PluralMessages.java
+END
+ExampleConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ExampleConstants.java
+END
+ExampleConstants_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ExampleConstants_fr.properties
+END
+ErrorMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/ErrorMessages.properties
+END
+CwBidiFormatting.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/sample/showcase/client/content/i18n/CwBidiFormatting.java
+END

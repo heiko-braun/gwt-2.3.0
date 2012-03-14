@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10069/releases/2.3/user/src/com/google/gwt/uibinder/rebind
+END
+MonitoredLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/MonitoredLogger.java
+END
+W3cDocumentBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/W3cDocumentBuilder.java
+END
+FieldReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldReference.java
+END
+UiBinderContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/UiBinderContext.java
+END
+XMLElementProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/XMLElementProviderImpl.java
+END
+DesignTimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/DesignTimeUtils.java
+END
+XMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/XMLElement.java
+END
+FieldManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldManager.java
+END
+UiBinderParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/UiBinderParser.java
+END
+FieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldWriter.java
+END
+FieldWriterOfExistingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldWriterOfExistingType.java
+END
+XMLAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/XMLAttribute.java
+END
+XMLElementProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/XMLElementProvider.java
+END
+GetEscapedInnerTextVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/GetEscapedInnerTextVisitor.java
+END
+FieldWriterOfGeneratedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldWriterOfGeneratedType.java
+END
+IndentedWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/IndentedWriter.java
+END
+GwtResourceEntityResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/GwtResourceEntityResolver.java
+END
+ChildWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/ChildWalker.java
+END
+W3cDomHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/W3cDomHelper.java
+END
+CssResourceWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/CssResourceWriter.java
+END
+UiBinderWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9982/releases/2.3/user/src/com/google/gwt/uibinder/rebind/UiBinderWriter.java
+END
+HandlerEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/HandlerEvaluator.java
+END
+AbstractFieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/AbstractFieldWriter.java
+END
+NodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/NodeVisitor.java
+END
+FieldWriterOfGeneratedCssResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/FieldWriterOfGeneratedCssResource.java
+END
+BundleWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/BundleWriter.java
+END
+Tokenator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/Tokenator.java
+END
+DesignTimeUtilsStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/DesignTimeUtilsStub.java
+END
+UiBinderGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10069/releases/2.3/user/src/com/google/gwt/uibinder/rebind/UiBinderGenerator.java
+END
+GetInnerHtmlVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/GetInnerHtmlVisitor.java
+END
+PrintWriterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/PrintWriterManager.java
+END
+Statements.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/Statements.java
+END
+DesignTimeUtilsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/DesignTimeUtilsImpl.java
+END
+MortalLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/MortalLogger.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum/.classpath
+END
+SingleIssue.launch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum/SingleIssue.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum/.project
+END
+DefaultMuseum.launch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum/DefaultMuseum.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/eclipse/reference/code-museum/.checkstyle
+END

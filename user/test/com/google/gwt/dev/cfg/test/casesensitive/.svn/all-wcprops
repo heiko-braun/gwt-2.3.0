@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/test/casesensitive
+END
+CaseSensitive_A_Foo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/test/casesensitive/CaseSensitive_A_Foo.java
+END
+CaseSensitive_a_Bar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/test/casesensitive/CaseSensitive_a_Bar.java
+END

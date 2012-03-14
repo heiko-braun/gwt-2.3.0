@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit
+END
+DevModeOnCompiledScriptTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/DevModeOnCompiledScriptTest.gwt.xml
+END
+BatchingStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/BatchingStrategyTest.java
+END
+JUnitSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitSuite.java
+END
+JUnitMessageQueueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitMessageQueueTest.java
+END
+JUnitBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitBridge.java
+END
+JUnitTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitTest.gwt.xml
+END
+PropertyDefiningStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/PropertyDefiningStrategyTest.java
+END
+CompileStrategyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/CompileStrategyTest.java
+END
+FakeMessagesMakerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/FakeMessagesMakerTest.java
+END
+JUnitShellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitShellTest.java
+END
+JUnitTestWithProperties.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitTestWithProperties.gwt.xml
+END
+NonGwtTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/NonGwtTestSuite.java
+END
+RunStyleSeleniumTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/RunStyleSeleniumTest.java
+END
+GWTTestCaseNoClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/GWTTestCaseNoClientTest.java
+END
+JUnitTest2.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/junit/JUnitTest2.gwt.xml
+END

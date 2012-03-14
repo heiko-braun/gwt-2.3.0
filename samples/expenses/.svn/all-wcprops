@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10112/releases/2.3/samples/expenses
+END
+README-MAVEN.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/README-MAVEN.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10112/releases/2.3/samples/expenses/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/build.xml
+END

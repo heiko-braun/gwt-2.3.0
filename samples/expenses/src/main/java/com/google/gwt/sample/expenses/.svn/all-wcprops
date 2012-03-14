@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses
+END
+LoadExpensesDB.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/LoadExpensesDB.gwt.xml
+END
+ExpensesMobile.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/ExpensesMobile.gwt.xml
+END
+ExpensesCommon.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/ExpensesCommon.gwt.xml
+END
+Expenses.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/Expenses.gwt.xml
+END

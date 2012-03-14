@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm
+END
+TestOuter1.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/TestOuter1.java
+END
+ResolveGenericsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/ResolveGenericsTest.java
+END
+TestOuter2.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/TestOuter2.java
+END
+CollectClassDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/CollectClassDataTest.java
+END
+CollectReferencesVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/CollectReferencesVisitorTest.java
+END
+AsmTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/AsmTestCase.java
+END
+TestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/TestHandler.java
+END
+TestHandler1.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/TestHandler1.java
+END
+TestOuter0.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/javac/asm/TestOuter0.java
+END

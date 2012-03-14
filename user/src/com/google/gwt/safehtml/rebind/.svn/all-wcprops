@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9981/releases/2.3/user/src/com/google/gwt/safehtml/rebind
+END
+ParsedHtmlTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9981/releases/2.3/user/src/com/google/gwt/safehtml/rebind/ParsedHtmlTemplate.java
+END
+SafeHtmlTemplatesImplCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/safehtml/rebind/SafeHtmlTemplatesImplCreator.java
+END
+SafeHtmlTemplatesImplMethodCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9981/releases/2.3/user/src/com/google/gwt/safehtml/rebind/SafeHtmlTemplatesImplMethodCreator.java
+END
+SafeHtmlTemplatesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/safehtml/rebind/SafeHtmlTemplatesGenerator.java
+END
+HtmlTemplateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9981/releases/2.3/user/src/com/google/gwt/safehtml/rebind/HtmlTemplateParser.java
+END

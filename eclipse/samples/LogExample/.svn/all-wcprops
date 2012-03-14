@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample/.project
+END
+LogExample.launch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample/LogExample.launch
+END
+LogExample.gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample/LogExample.gwtc.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/LogExample/.checkstyle
+END

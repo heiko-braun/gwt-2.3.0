@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg
+END
+ModuleDefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/ModuleDefTest.java
+END
+ConditionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/ConditionTest.java
+END
+ModuleDefLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/ModuleDefLoaderTest.java
+END
+MockModuleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/cfg/MockModuleDef.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC/.project
+END
+SimpleRPC.launch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC/SimpleRPC.launch
+END
+SimpleRPC-gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC/SimpleRPC-gwtc.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleRPC/.checkstyle
+END

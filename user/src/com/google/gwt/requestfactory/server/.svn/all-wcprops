@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server
+END
+ServiceLayerDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ServiceLayerDecorator.java
+END
+DefaultExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/DefaultExceptionHandler.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/Resolver.java
+END
+SignatureAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/SignatureAdapter.java
+END
+SimpleRequestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/SimpleRequestProcessor.java
+END
+ReflectiveServiceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ReflectiveServiceLayer.java
+END
+RequestFactoryInterfaceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/RequestFactoryInterfaceValidator.java
+END
+DeadEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/DeadEntityException.java
+END
+ReportableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ReportableException.java
+END
+ResolverServiceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ResolverServiceLayer.java
+END
+LocatorServiceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/LocatorServiceLayer.java
+END
+ServiceLayerCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ServiceLayerCache.java
+END
+UnexpectedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/UnexpectedException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/package-info.java
+END
+RequestFactoryServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/RequestFactoryServlet.java
+END
+Logging.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/Logging.java
+END
+RequestState.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/RequestState.java
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ExceptionHandler.java
+END
+ServiceLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/server/ServiceLayer.java
+END

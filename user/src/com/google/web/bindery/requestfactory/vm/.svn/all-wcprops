@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/vm
+END
+RequestFactorySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/vm/RequestFactorySource.java
+END
+InProcessRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/vm/InProcessRequestContext.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/vm/package-info.java
+END
+InProcessRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/requestfactory/vm/InProcessRequestFactory.java
+END

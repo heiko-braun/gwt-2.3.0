@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm
+END
+MethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/MethodVisitor.java
+END
+ClassWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/ClassWriter.java
+END
+FieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/FieldVisitor.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Attribute.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Edge.java
+END
+ClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/ClassAdapter.java
+END
+AnnotationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/AnnotationWriter.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Handler.java
+END
+MethodWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/MethodWriter.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Label.java
+END
+FieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/FieldWriter.java
+END
+MethodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/MethodAdapter.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Type.java
+END
+ClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/ClassVisitor.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/ByteVector.java
+END
+ClassReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/ClassReader.java
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/COPYING
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Frame.java
+END
+AnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/AnnotationVisitor.java
+END
+Opcodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Opcodes.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/Item.java
+END

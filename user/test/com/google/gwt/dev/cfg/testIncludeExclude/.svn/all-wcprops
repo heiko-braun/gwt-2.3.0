@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude
+END
+good6.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/good6.html
+END
+good7.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/good7.html
+END
+good8.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/good8.html
+END
+bad1.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/bad1.html
+END
+bad2.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/bad2.html
+END
+bad3.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dev/cfg/testIncludeExclude/bad3.html
+END

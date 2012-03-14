@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages
+END
+PlaceholderWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/PlaceholderWriter.java
+END
+MessageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/MessageWriter.java
+END
+GenerateAnnotationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/GenerateAnnotationWriter.java
+END
+MessagesWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/MessagesWriter.java
+END
+PlaceholderInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/PlaceholderInterpreter.java
+END
+AttributeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/rebind/messages/AttributeMessage.java
+END

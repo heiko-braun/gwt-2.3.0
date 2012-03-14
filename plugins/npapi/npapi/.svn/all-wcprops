@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npapi
+END
+npruntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npapi/npruntime.h
+END
+nphostapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npapi/nphostapi.h
+END
+npapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/npapi/npapi/npapi.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9929/releases/2.3/dev/core/test/com/google/gwt/dev/util
+END
+StringKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/StringKeyTest.java
+END
+NameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/NameTest.java
+END
+JsniRefTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/JsniRefTest.java
+END
+UtilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/UtilityTest.java
+END
+unicodeTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/unicodeTest.txt
+END
+TemporaryBufferStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/TemporaryBufferStream.java
+END
+StringsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9929/releases/2.3/dev/core/test/com/google/gwt/dev/util/StringsTest.java
+END
+DiskCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/DiskCacheTest.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared
+END
+ValueCodexHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/ValueCodexHelper.java
+END
+ValueCodex.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/ValueCodex.java
+END
+AutoBeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/AutoBeanUtils.java
+END
+AutoBeanCodex.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/AutoBeanCodex.java
+END
+Splittable.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/Splittable.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/package-info.java
+END
+AutoBeanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/AutoBeanFactory.java
+END
+AutoBeanVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/AutoBeanVisitor.java
+END
+AutoBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/web/bindery/autobean/shared/AutoBean.java
+END

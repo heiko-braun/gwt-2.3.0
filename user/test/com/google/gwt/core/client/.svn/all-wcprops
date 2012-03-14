@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client
+END
+GWTTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/GWTTest.java
+END
+JsArrayMixedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/JsArrayMixedTest.java
+END
+JavaScriptExceptionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/JavaScriptExceptionTest.java
+END
+HttpThrowableReporterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/HttpThrowableReporterTest.java
+END
+JsArrayTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/JsArrayTest.java
+END
+SchedulerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/core/client/SchedulerTest.java
+END

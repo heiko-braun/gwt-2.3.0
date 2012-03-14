@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML/.classpath
+END
+SimpleXML.launch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML/SimpleXML.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML/.project
+END
+SimpleXML-gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML/SimpleXML-gwtc.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/SimpleXML/.checkstyle
+END

@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 97
+/trunk/user/src/com/google/gwt/uibinder/elementparsers/WidgetInterpreter.java:6751-6752,9849-9948
+K 13
+svn:mime-type
+V 11
+text/x-java
+END

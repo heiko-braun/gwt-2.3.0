@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel
+END
+JConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JConstructor.java
+END
+JWildcardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JWildcardType.java
+END
+JDelegatingClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JDelegatingClassType.java
+END
+JPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JPackage.java
+END
+JRawType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JRawType.java
+END
+TypeOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/TypeOracle.java
+END
+JParameterizedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JParameterizedType.java
+END
+Substitution.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/Substitution.java
+END
+JAbstractMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JAbstractMethod.java
+END
+TypeOracleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/TypeOracleBuilder.java
+END
+AbstractMembers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/AbstractMembers.java
+END
+JEnumType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JEnumType.java
+END
+JClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JClassType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/package-info.java
+END
+JAnnotationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JAnnotationMethod.java
+END
+DelegateMembers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/DelegateMembers.java
+END
+JRealClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JRealClassType.java
+END
+JAnnotationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JAnnotationType.java
+END
+JMaybeParameterizedType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JMaybeParameterizedType.java
+END
+JGenericType.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JGenericType.java
+END
+JEnumConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JEnumConstant.java
+END
+JArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JArrayType.java
+END
+Members.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/Members.java
+END
+JMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JMethod.java
+END
+JParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JParameter.java
+END
+JTypeParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JTypeParameter.java
+END
+Annotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/Annotations.java
+END
+JField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/typemodel/JField.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker
+END
+XSLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/XSLinker.java
+END
+XSTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/XSTemplate.js
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/package-info.java
+END
+CrossSiteIframeLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/CrossSiteIframeLinker.java
+END
+IFrameLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/IFrameLinker.java
+END
+CrossSiteIframeTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/CrossSiteIframeTemplate.js
+END
+IFrameTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/IFrameTemplate.js
+END
+SingleScriptLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/SingleScriptLinker.java
+END
+SymbolMapsLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/SymbolMapsLinker.java
+END
+SingleScriptTemplate.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/SingleScriptTemplate.js
+END
+SoycReportLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/linker/SoycReportLinker.java
+END

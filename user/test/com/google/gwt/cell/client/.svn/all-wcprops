@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/cell/client
+END
+CompositeCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9956/releases/2.3/user/test/com/google/gwt/cell/client/CompositeCellTest.java
+END
+AbstractCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/AbstractCellTest.java
+END
+TextInputCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9956/releases/2.3/user/test/com/google/gwt/cell/client/TextInputCellTest.java
+END
+EditableCellTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/EditableCellTestBase.java
+END
+CellTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/CellTestBase.java
+END
+ButtonCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ButtonCellTest.java
+END
+DatePickerCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/DatePickerCellTest.java
+END
+DateCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/DateCellTest.java
+END
+ActionCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ActionCellTest.java
+END
+ClickableTextCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ClickableTextCellTest.java
+END
+ImageLoadingCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ImageLoadingCellTest.java
+END
+ImageCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ImageCellTest.java
+END
+prettyPiccy.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/prettyPiccy.png
+END
+TextCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/TextCellTest.java
+END
+SelectionCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/SelectionCellTest.java
+END
+CheckboxCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/CheckboxCellTest.java
+END
+NumberCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/NumberCellTest.java
+END
+ImageResourceCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/cell/client/ImageResourceCellTest.java
+END
+EditTextCellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9956/releases/2.3/user/test/com/google/gwt/cell/client/EditTextCellTest.java
+END
+IconCellDecoratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/cell/client/IconCellDecoratorTest.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9951/releases/2.3/user/src/com/google/gwt/user/client/rpc
+END
+IsSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/IsSerializable.java
+END
+RpcTokenExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RpcTokenExceptionHandler.java
+END
+XsrfTokenServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/XsrfTokenServiceAsync.java
+END
+RpcTokenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RpcTokenException.java
+END
+RpcRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RpcRequestBuilder.java
+END
+XsrfTokenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/XsrfTokenService.java
+END
+CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/CustomFieldSerializer.java
+END
+XsrfProtectedServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9951/releases/2.3/user/src/com/google/gwt/user/client/rpc/XsrfProtectedServiceAsync.java
+END
+SerializationStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/SerializationStreamReader.java
+END
+RemoteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RemoteService.java
+END
+XsrfProtectedService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/XsrfProtectedService.java
+END
+SerializationStreamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/SerializationStreamFactory.java
+END
+HasRpcToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/HasRpcToken.java
+END
+IncompatibleRemoteServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/IncompatibleRemoteServiceException.java
+END
+XsrfToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/XsrfToken.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/package-info.java
+END
+SerializableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/SerializableException.java
+END
+RemoteServiceRelativePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RemoteServiceRelativePath.java
+END
+RpcToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/RpcToken.java
+END
+ServiceDefTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/ServiceDefTarget.java
+END
+SerializationStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/SerializationStreamWriter.java
+END
+InvocationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/InvocationException.java
+END
+GwtTransient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/GwtTransient.java
+END
+AsyncCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/AsyncCallback.java
+END
+SerializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/SerializationException.java
+END
+StatusCodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/StatusCodeException.java
+END

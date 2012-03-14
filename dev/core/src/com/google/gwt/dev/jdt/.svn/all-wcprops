@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt
+END
+BasicWebModeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/BasicWebModeCompiler.java
+END
+RebindPermutationOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/RebindPermutationOracle.java
+END
+FindJsniRefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/FindJsniRefVisitor.java
+END
+FindDeferredBindingSitesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/FindDeferredBindingSitesVisitor.java
+END
+SafeASTVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/SafeASTVisitor.java
+END
+RebindOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/RebindOracle.java
+END
+WebModeCompilerFrontEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/WebModeCompilerFrontEnd.java
+END
+AbstractCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/AbstractCompiler.java
+END
+TypeRefVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jdt/TypeRefVisitor.java
+END

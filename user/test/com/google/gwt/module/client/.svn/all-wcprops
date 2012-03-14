@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/module/client
+END
+DoubleScriptInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/module/client/DoubleScriptInjectionTest.java
+END
+ConfigurationPropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/module/client/ConfigurationPropertiesTest.java
+END
+NoDeployTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/module/client/NoDeployTest.java
+END
+SingleScriptInjectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/module/client/SingleScriptInjectionTest.java
+END

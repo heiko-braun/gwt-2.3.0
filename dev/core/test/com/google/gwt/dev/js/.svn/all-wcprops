@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js
+END
+JsDuplicateCaseFolderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsDuplicateCaseFolderTest.java
+END
+JsToStringGenerationVisitorConcisenessTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsToStringGenerationVisitorConcisenessTest.java
+END
+ComparingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/ComparingVisitor.java
+END
+JsCoerceIntShiftTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsCoerceIntShiftTest.java
+END
+JsParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsParserTest.java
+END
+FlatteningVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/FlatteningVisitor.java
+END
+TokenStreamTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/TokenStreamTest.java
+END
+JsStaticEvalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsStaticEvalTest.java
+END
+JsDuplicateFunctionRemoverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsDuplicateFunctionRemoverTest.java
+END
+JsInlinerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsInlinerTest.java
+END
+JsToStringGenerationVisitorAccuracyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JsToStringGenerationVisitorAccuracyTest.java
+END
+OptimizerTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/OptimizerTestBase.java
+END
+JavaScriptStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/js/JavaScriptStringTest.java
+END

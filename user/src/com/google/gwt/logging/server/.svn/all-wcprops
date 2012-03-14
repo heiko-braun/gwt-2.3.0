@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server
+END
+JsonLogRecordServerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server/JsonLogRecordServerUtil.java
+END
+RemoteLoggingServiceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server/RemoteLoggingServiceUtil.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server/package-info.java
+END
+StackTraceDeobfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server/StackTraceDeobfuscator.java
+END
+RemoteLoggingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/server/RemoteLoggingServiceImpl.java
+END

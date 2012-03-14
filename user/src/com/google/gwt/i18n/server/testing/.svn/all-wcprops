@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing
+END
+Child.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing/Child.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing/Gender.java
+END
+Parent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing/Parent.java
+END
+Testing.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing/Testing.gwt.xml
+END
+MockMessageCatalogContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/server/testing/MockMessageCatalogContext.java
+END

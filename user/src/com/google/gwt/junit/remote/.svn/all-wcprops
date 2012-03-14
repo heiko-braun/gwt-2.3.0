@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote
+END
+BrowserManagerServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote/BrowserManagerServer.java
+END
+BrowserManagerServerLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote/BrowserManagerServerLauncher.java
+END
+BrowserManagerProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote/BrowserManagerProcess.java
+END
+BrowserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote/BrowserManager.java
+END
+BrowserManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/remote/BrowserManagerTest.java
+END

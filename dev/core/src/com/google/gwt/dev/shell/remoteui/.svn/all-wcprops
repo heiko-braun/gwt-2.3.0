@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui
+END
+MessageTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/MessageTransport.java
+END
+ViewerServiceClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/ViewerServiceClient.java
+END
+ViewerServiceTreeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/ViewerServiceTreeLogger.java
+END
+remotemessage.proto
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/remotemessage.proto
+END
+RemoteMessageProto.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/RemoteMessageProto.java
+END
+RequestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/RequestProcessor.java
+END
+RemoteUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/RemoteUI.java
+END
+DevModeServiceRequestProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/remoteui/DevModeServiceRequestProcessor.java
+END

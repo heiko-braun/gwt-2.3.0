@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg
+END
+ArgHandlerGenDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerGenDir.java
+END
+ArgHandlerStrict.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerStrict.java
+END
+OptionStrict.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionStrict.java
+END
+ArgHandlerEnableGeneratorResultCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerEnableGeneratorResultCaching.java
+END
+OptionGenDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionGenDir.java
+END
+ArgHandlerDisableGeneratingOnShards.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableGeneratingOnShards.java
+END
+OptionEnableGeneratorResultCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionEnableGeneratorResultCaching.java
+END
+ArgHandlerDumpSignatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDumpSignatures.java
+END
+ArgHandlerDisableCastChecking.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableCastChecking.java
+END
+OptionCompilerMetricsEnabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionCompilerMetricsEnabled.java
+END
+ArgHandlerSoyc.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerSoyc.java
+END
+OptionRunAsyncEnabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionRunAsyncEnabled.java
+END
+ArgHandlerExtraDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerExtraDir.java
+END
+ArgHandlerWorkDirRequired.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerWorkDirRequired.java
+END
+OptionExtraDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionExtraDir.java
+END
+OptionMaxPermsPerPrecompile.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionMaxPermsPerPrecompile.java
+END
+OptionGuiLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionGuiLogger.java
+END
+ArgHandlerDisableRunAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableRunAsync.java
+END
+OptionScriptStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionScriptStyle.java
+END
+ArgHandlerWarDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerWarDir.java
+END
+ArgHandlerTreeLoggerFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerTreeLoggerFlag.java
+END
+OptionSoycEnabled.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionSoycEnabled.java
+END
+OptionWarDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionWarDir.java
+END
+ArgHandlerDisableClassMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableClassMetadata.java
+END
+ArgHandlerDeployDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDeployDir.java
+END
+OptionDisableClassMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionDisableClassMetadata.java
+END
+OptionValidateOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionValidateOnly.java
+END
+ArgHandlerOptimize.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerOptimize.java
+END
+OptionOptimize.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionOptimize.java
+END
+ArgHandlerCompilerMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerCompilerMetrics.java
+END
+ArgHandlerDisableUpdateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableUpdateCheck.java
+END
+OptionDisableUpdateCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionDisableUpdateCheck.java
+END
+ArgHandlerOutDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerOutDir.java
+END
+OptionOutDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionOutDir.java
+END
+ArgHandlerLocalWorkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerLocalWorkers.java
+END
+OptionLocalWorkers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionLocalWorkers.java
+END
+ArgHandlerDraftCompile.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDraftCompile.java
+END
+ArgHandlerSoycDetailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerSoycDetailed.java
+END
+ArgHandlerLogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerLogLevel.java
+END
+OptionLogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionLogLevel.java
+END
+OptionSoycDetailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionSoycDetailed.java
+END
+OptionDisableCastChecking.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionDisableCastChecking.java
+END
+OptionOptimizePrecompile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionOptimizePrecompile.java
+END
+OptionWorkDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionWorkDir.java
+END
+ArgHandlerMaxPermsPerPrecompile.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerMaxPermsPerPrecompile.java
+END
+ArgHandlerCompileReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerCompileReport.java
+END
+ArgHandlerScriptStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerScriptStyle.java
+END
+ArgHandlerValidateOnlyFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerValidateOnlyFlag.java
+END
+ArgHandlerModuleName.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerModuleName.java
+END
+OptionAggressivelyOptimize.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionAggressivelyOptimize.java
+END
+ArgHandlerWorkDirOptional.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerWorkDirOptional.java
+END
+OptionModuleName.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionModuleName.java
+END
+ArgHandlerDisableAggressiveOptimization.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerDisableAggressiveOptimization.java
+END
+OptionDeployDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionDeployDir.java
+END
+OptionEnableGeneratingOnShards.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionEnableGeneratingOnShards.java
+END
+ArgHandlerEnableAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerEnableAssertions.java
+END
+OptionEnableAssertions.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionEnableAssertions.java
+END
+ArgHandlerPerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/ArgHandlerPerm.java
+END
+OptionPerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/arg/OptionPerm.java
+END

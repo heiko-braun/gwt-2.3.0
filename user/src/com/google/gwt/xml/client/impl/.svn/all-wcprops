@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl
+END
+XMLParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/XMLParserImpl.java
+END
+DocumentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/DocumentImpl.java
+END
+ProcessingInstructionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/ProcessingInstructionImpl.java
+END
+XMLParserImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/XMLParserImplIE6.java
+END
+NodeListImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/NodeListImpl.java
+END
+DOMNodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/DOMNodeException.java
+END
+TextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/TextImpl.java
+END
+NodeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/NodeImpl.java
+END
+CharacterDataImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/CharacterDataImpl.java
+END
+NamedNodeMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/NamedNodeMapImpl.java
+END
+ElementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/ElementImpl.java
+END
+EntityReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/EntityReferenceImpl.java
+END
+XMLParserImplStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/XMLParserImplStandard.java
+END
+CDATASectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/CDATASectionImpl.java
+END
+CommentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/CommentImpl.java
+END
+DocumentFragmentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/DocumentFragmentImpl.java
+END
+XMLParserImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/XMLParserImplSafari.java
+END
+XMLParserImplOpera.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/XMLParserImplOpera.java
+END
+DOMParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/DOMParseException.java
+END
+AttrImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/AttrImpl.java
+END
+DOMItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/xml/client/impl/DOMItem.java
+END

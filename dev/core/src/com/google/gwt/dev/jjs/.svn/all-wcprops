@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10027/releases/2.3/dev/core/src/com/google/gwt/dev/jjs
+END
+JavaScriptCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/JavaScriptCompiler.java
+END
+JJSOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/JJSOptions.java
+END
+ArtificialRescueRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/ArtificialRescueRecorder.java
+END
+PermutationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/PermutationResult.java
+END
+JavaToJavaScriptCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10027/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/JavaToJavaScriptCompiler.java
+END
+HasSourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/HasSourceInfo.java
+END
+SourceOrigin.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/SourceOrigin.java
+END
+CorrelationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/CorrelationFactory.java
+END
+SourceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/SourceInfo.java
+END
+SourceInfoCorrelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/SourceInfoCorrelation.java
+END
+Correlation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/Correlation.java
+END
+JJSOptionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/JJSOptionsImpl.java
+END
+InternalCompilerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/InternalCompilerException.java
+END
+JsOutputOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/JsOutputOption.java
+END
+UnifiedAst.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/UnifiedAst.java
+END
+EnumNameObfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/EnumNameObfuscator.java
+END
+AbstractCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/AbstractCompiler.java
+END

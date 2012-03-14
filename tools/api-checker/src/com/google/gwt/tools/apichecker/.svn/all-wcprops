@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker
+END
+ApiClassDiffGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiClassDiffGenerator.java
+END
+ApiClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiClass.java
+END
+ApiConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiConstructor.java
+END
+ApiChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiChange.java
+END
+ApiElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiElement.java
+END
+ApiPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiPackage.java
+END
+ApiPackageDiffGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiPackageDiffGenerator.java
+END
+ApiCompatibilityChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiCompatibilityChecker.java
+END
+ApiDiffGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiDiffGenerator.java
+END
+ApiMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiMethod.java
+END
+ApiContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiContainer.java
+END
+ApiField.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiField.java
+END
+ApiAbstractMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/tools/api-checker/src/com/google/gwt/tools/apichecker/ApiAbstractMethod.java
+END

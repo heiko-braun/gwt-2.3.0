@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9930/releases/2.3/user/test/com/google/gwt/dom/client
+END
+StyleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/StyleTest.java
+END
+MapTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/MapTests.java
+END
+SelectTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9930/releases/2.3/user/test/com/google/gwt/dom/client/SelectTests.java
+END
+TextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/TextTest.java
+END
+NodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/NodeTest.java
+END
+FormTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/FormTests.java
+END
+ElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/ElementTest.java
+END
+TableTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/TableTests.java
+END
+ImageElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/ImageElementTest.java
+END
+FrameTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9874/releases/2.3/user/test/com/google/gwt/dom/client/FrameTests.java
+END
+DocumentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/DocumentTest.java
+END
+StyleInjectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/dom/client/StyleInjectorTest.java
+END

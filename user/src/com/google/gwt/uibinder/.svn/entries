@@ -1,0 +1,77 @@
+10
+
+dir
+10907
+http://google-web-toolkit.googlecode.com/svn/releases/2.3/user/src/com/google/gwt/uibinder
+http://google-web-toolkit.googlecode.com/svn
+
+
+
+2011-04-20T15:17:13.000000Z
+10069
+sbrubaker@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8db76d5a-ed1c-0410-87a9-c151d255dfc7
+
+UiBinder.gwt.xml
+file
+
+
+
+
+2012-03-14T07:09:28.000000Z
+6bbcf8108e2eecabfe164c59bb74861d
+2011-04-12T20:51:55.000000Z
+9982
+rjrjr@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1769
+
+attributeparsers
+dir
+
+rebind
+dir
+
+elementparsers
+dir
+
+resources
+dir
+
+client
+dir
+

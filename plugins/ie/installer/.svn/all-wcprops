@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer
+END
+build.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/build.cmd
+END
+oophm.wxs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/oophm.wxs
+END
+gwt.ico
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/gwt.ico
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/README.txt
+END
+generate-wxsfile.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/generate-wxsfile.cmd
+END
+installer.wxs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/installer/installer.wxs.xml
+END

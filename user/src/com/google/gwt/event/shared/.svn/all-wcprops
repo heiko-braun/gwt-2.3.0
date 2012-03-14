@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/EventHandler.java
+END
+UmbrellaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/UmbrellaException.java
+END
+LegacyHandlerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/LegacyHandlerWrapper.java
+END
+GwtEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/GwtEvent.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/shared/package-info.java
+END
+SimpleEventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/SimpleEventBus.java
+END
+ResettableEventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/ResettableEventBus.java
+END
+HandlerRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/HandlerRegistration.java
+END
+HandlerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/HandlerManager.java
+END
+EventBus.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/event/shared/EventBus.java
+END
+HasHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/shared/HasHandlers.java
+END
+DefaultHandlerRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/shared/DefaultHandlerRegistration.java
+END

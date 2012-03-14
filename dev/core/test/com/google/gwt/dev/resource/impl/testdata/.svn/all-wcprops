@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata
+END
+cpe1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe1.jar
+END
+cpe2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe2.jar
+END
+rebuild_jars
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/rebuild_jars
+END
+cpe1.zip
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe1.zip
+END
+cpe2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe2.zip
+END

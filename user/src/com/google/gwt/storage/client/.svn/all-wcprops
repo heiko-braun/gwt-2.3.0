@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9942/releases/2.3/user/src/com/google/gwt/storage/client
+END
+StorageMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/storage/client/StorageMap.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/storage/client/Storage.java
+END
+StorageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9942/releases/2.3/user/src/com/google/gwt/storage/client/StorageImpl.java
+END
+StorageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/storage/client/StorageEvent.java
+END
+StorageImplIE8.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9942/releases/2.3/user/src/com/google/gwt/storage/client/StorageImplIE8.java
+END
+StorageImplNonNativeEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/storage/client/StorageImplNonNativeEvents.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/storage/client/package.html
+END

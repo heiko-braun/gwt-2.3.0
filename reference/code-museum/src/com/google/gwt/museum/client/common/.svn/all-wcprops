@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common
+END
+ControlInputPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/ControlInputPanel.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/Utility.java
+END
+EventReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/EventReporter.java
+END
+SimpleLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/SimpleLayout.java
+END
+SimpleLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/SimpleLogger.java
+END
+AbstractIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/reference/code-museum/src/com/google/gwt/museum/client/common/AbstractIssue.java
+END

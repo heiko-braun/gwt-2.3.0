@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server
+END
+HostedModeClientOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/HostedModeClientOracle.java
+END
+WebModePayloadSink.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/WebModePayloadSink.java
+END
+CommandServerSerializationStreamReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/CommandServerSerializationStreamReader.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/package-info.java
+END
+ClientOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/ClientOracle.java
+END
+RPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/RPC.java
+END
+WebModeClientOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/WebModeClientOracle.java
+END
+DelegatingClientOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/DelegatingClientOracle.java
+END
+RpcServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/RpcServlet.java
+END
+SimplePayloadDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/SimplePayloadDecoder.java
+END
+CommandSerializationUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/CommandSerializationUtil.java
+END
+CastableTypeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/CastableTypeData.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/Pair.java
+END
+CommandServerSerializationStreamWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/rpc/server/CommandServerSerializationStreamWriter.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client
+END
+SimpleRequestFactoryInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/SimpleRequestFactoryInstance.java
+END
+RequestFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryTest.java
+END
+FindServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/FindServiceTest.java
+END
+RequestFactoryUnicodeEscapingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryUnicodeEscapingTest.java
+END
+RequestFactoryExceptionPropagationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryExceptionPropagationTest.java
+END
+RequestFactoryPolymorphicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryPolymorphicTest.java
+END
+RequestFactoryTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryTestBase.java
+END
+RequestFactoryExceptionHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/10070/releases/2.3/user/test/com/google/web/bindery/requestfactory/gwt/client/RequestFactoryExceptionHandlerTest.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers
+END
+VerticalAlignmentConstantParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/VerticalAlignmentConstantParser.java
+END
+AttributeParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/AttributeParsers.java
+END
+EnumAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/EnumAttributeParser.java
+END
+StringAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/StringAttributeParser.java
+END
+IntPairAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/IntPairAttributeParser.java
+END
+StrictAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/StrictAttributeParser.java
+END
+BundleAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/BundleAttributeParser.java
+END
+DoubleAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/DoubleAttributeParser.java
+END
+HorizontalAlignmentConstantParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/HorizontalAlignmentConstantParser.java
+END
+BooleanAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/BooleanAttributeParser.java
+END
+AttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/AttributeParser.java
+END
+CssNameConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/CssNameConverter.java
+END
+LengthAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/LengthAttributeParser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/package-info.java
+END
+TextAlignConstantParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/TextAlignConstantParser.java
+END
+FieldReferenceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/FieldReferenceConverter.java
+END
+IntAttributeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/IntAttributeParser.java
+END
+BundleAttributeParsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/uibinder/attributeparsers/BundleAttributeParsers.java
+END

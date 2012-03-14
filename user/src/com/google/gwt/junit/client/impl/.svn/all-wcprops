@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl
+END
+ExceptionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl/ExceptionWrapper.java
+END
+JUnitHostAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl/JUnitHostAsync.java
+END
+JUnitHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl/JUnitHost.java
+END
+JUnitResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl/JUnitResult.java
+END
+GWTRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/client/impl/GWTRunner.java
+END

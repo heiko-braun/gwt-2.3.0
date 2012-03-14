@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc
+END
+RpcPolicyManifestLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc/RpcPolicyManifestLinker.java
+END
+RpcPolicyFileArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc/RpcPolicyFileArtifact.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc/package-info.java
+END
+RpcLogArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc/RpcLogArtifact.java
+END
+RpcLogLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/linker/rpc/RpcLogLinker.java
+END

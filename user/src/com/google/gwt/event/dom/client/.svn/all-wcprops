@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client
+END
+MouseUpEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseUpEvent.java
+END
+HandlesAllTouchEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HandlesAllTouchEvents.java
+END
+TouchStartEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchStartEvent.java
+END
+HasLoseCaptureHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasLoseCaptureHandlers.java
+END
+HasTouchCancelHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasTouchCancelHandlers.java
+END
+HandlesAllKeyEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HandlesAllKeyEvents.java
+END
+HasCanPlayThroughHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/HasCanPlayThroughHandlers.java
+END
+HasErrorHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasErrorHandlers.java
+END
+GestureEndEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureEndEvent.java
+END
+ContextMenuHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ContextMenuHandler.java
+END
+TouchMoveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchMoveHandler.java
+END
+HasKeyUpHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasKeyUpHandlers.java
+END
+MouseWheelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseWheelHandler.java
+END
+TouchEndEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchEndEvent.java
+END
+MouseMoveHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseMoveHandler.java
+END
+EndedHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/EndedHandler.java
+END
+KeyDownHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyDownHandler.java
+END
+MouseOutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseOutHandler.java
+END
+FocusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/FocusEvent.java
+END
+DomEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/DomEvent.java
+END
+KeyDownEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyDownEvent.java
+END
+MouseOutEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseOutEvent.java
+END
+HasAllGestureHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllGestureHandlers.java
+END
+TouchEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9874/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchEvent.java
+END
+HasAllMediaHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllMediaHandlers.java
+END
+HasTouchMoveHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasTouchMoveHandlers.java
+END
+CanPlayThroughHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/CanPlayThroughHandler.java
+END
+TouchCancelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchCancelHandler.java
+END
+HasContextMenuHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasContextMenuHandlers.java
+END
+ClickEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ClickEvent.java
+END
+MouseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseEvent.java
+END
+HumanInputEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HumanInputEvent.java
+END
+TouchCancelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchCancelEvent.java
+END
+HasMouseWheelHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseWheelHandlers.java
+END
+CanPlayThroughEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/CanPlayThroughEvent.java
+END
+HasFocusHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasFocusHandlers.java
+END
+ScrollHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ScrollHandler.java
+END
+HandlesAllFocusEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HandlesAllFocusEvents.java
+END
+HasAllKeyHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllKeyHandlers.java
+END
+HasAllMouseHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllMouseHandlers.java
+END
+ScrollEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ScrollEvent.java
+END
+HasGestureChangeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasGestureChangeHandlers.java
+END
+KeyPressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyPressEvent.java
+END
+LoadHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/LoadHandler.java
+END
+HasBlurHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasBlurHandlers.java
+END
+GestureChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureChangeHandler.java
+END
+ChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ChangeHandler.java
+END
+HasNativeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasNativeEvent.java
+END
+HasAllFocusHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllFocusHandlers.java
+END
+GestureChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureChangeEvent.java
+END
+ErrorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ErrorEvent.java
+END
+MouseUpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseUpHandler.java
+END
+HasMouseDownHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseDownHandlers.java
+END
+KeyUpEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyUpEvent.java
+END
+HasChangeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasChangeHandlers.java
+END
+BlurHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/BlurHandler.java
+END
+GestureEndHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureEndHandler.java
+END
+HandlesAllMouseEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HandlesAllMouseEvents.java
+END
+KeyCodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyCodes.java
+END
+BlurEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/BlurEvent.java
+END
+TouchEndHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchEndHandler.java
+END
+HasMouseUpHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseUpHandlers.java
+END
+HasScrollHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasScrollHandlers.java
+END
+ContextMenuEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ContextMenuEvent.java
+END
+TouchMoveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchMoveEvent.java
+END
+FocusHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/FocusHandler.java
+END
+MouseDownHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseDownHandler.java
+END
+MouseWheelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseWheelEvent.java
+END
+EndedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/EndedEvent.java
+END
+MouseMoveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseMoveEvent.java
+END
+HasProgressHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/HasProgressHandlers.java
+END
+HasGestureEndHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasGestureEndHandlers.java
+END
+MouseDownEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseDownEvent.java
+END
+ClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ClickHandler.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/package-info.java
+END
+LoseCaptureHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/LoseCaptureHandler.java
+END
+HasTouchEndHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasTouchEndHandlers.java
+END
+HasAllTouchHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasAllTouchHandlers.java
+END
+LoseCaptureEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/LoseCaptureEvent.java
+END
+KeyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyEvent.java
+END
+HasEndedHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/HasEndedHandlers.java
+END
+HasMouseMoveHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseMoveHandlers.java
+END
+HasDoubleClickHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasDoubleClickHandlers.java
+END
+HasMouseOverHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseOverHandlers.java
+END
+HasClickHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasClickHandlers.java
+END
+ProgressHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/ProgressHandler.java
+END
+KeyPressHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyPressHandler.java
+END
+ProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom/client/ProgressEvent.java
+END
+PrivateMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/PrivateMap.java
+END
+HasGestureStartHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasGestureStartHandlers.java
+END
+HasTouchStartHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasTouchStartHandlers.java
+END
+DoubleClickHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/DoubleClickHandler.java
+END
+LoadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/LoadEvent.java
+END
+HasKeyPressHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasKeyPressHandlers.java
+END
+MouseOverHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseOverHandler.java
+END
+DoubleClickEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/DoubleClickEvent.java
+END
+KeyCodeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyCodeEvent.java
+END
+MouseOverEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/MouseOverEvent.java
+END
+ChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ChangeEvent.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/ErrorHandler.java
+END
+GestureStartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureStartHandler.java
+END
+KeyUpHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/KeyUpHandler.java
+END
+HasLoadHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasLoadHandlers.java
+END
+HasKeyDownHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasKeyDownHandlers.java
+END
+HasMouseOutHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/HasMouseOutHandlers.java
+END
+TouchStartHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/TouchStartHandler.java
+END
+GestureStartEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/dom/client/GestureStartEvent.java
+END

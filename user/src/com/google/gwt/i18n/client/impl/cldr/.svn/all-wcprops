@@ -1,0 +1,4475 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr
+END
+DateTimeFormatInfoImpl_syr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_syr.java
+END
+LocalizedNamesImpl_nyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nyn.java
+END
+LocalizedNamesImpl_kl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kl.java
+END
+DateTimeFormatInfoImpl_lt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_lt.java
+END
+LocalizedNamesImpl_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fr.java
+END
+LocalizedNamesImpl_vun.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_vun.java
+END
+DateTimeFormatInfoImpl_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sr.java
+END
+DateTimeFormatInfoImpl_es_CL.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_CL.java
+END
+LocalizedNamesImpl_chr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_chr.java
+END
+DateTimeFormatInfoImpl_rof.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_rof.java
+END
+LocalizedNamesImpl_tn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tn.java
+END
+DateTimeFormatInfoImpl_bm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bm.java
+END
+DateTimeFormatInfoImpl_ar_DZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_DZ.java
+END
+DateTimeFormatInfoImpl_gsw.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gsw.java
+END
+DateTimeFormatInfoImpl_es_GT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_GT.java
+END
+DateTimeFormatInfoImpl_ne.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ne.java
+END
+DateTimeFormatInfoImpl_en_CA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_CA.java
+END
+LocalizedNamesImpl_nso.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nso.java
+END
+DateTimeFormatInfoImpl_en_NZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_NZ.java
+END
+DateTimeFormatInfoImpl_ko.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ko.java
+END
+LocalizedNamesImpl_rwk.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_rwk.java
+END
+CurrencyData_or.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_or.properties
+END
+DateTimeFormatInfoImpl_rm.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_rm.java
+END
+DateTimeFormatInfoImpl_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ms.java
+END
+DateTimeFormatInfoImpl_hy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_hy.java
+END
+CurrencyData_da.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_da.properties
+END
+LocalizedNamesImpl_si.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_si.java
+END
+LocalizedNamesImpl_no.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_no.java
+END
+DateTimeFormatInfoImpl_pa_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pa_IN.java
+END
+LocalizedNamesImpl_iu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_iu.java
+END
+LocalizedNamesImpl_zh_Hant_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_Hant_HK.java
+END
+CurrencyData_am.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_am.properties
+END
+LocalizedNamesImpl_mas.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mas.java
+END
+CurrencyData_uz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_uz.properties
+END
+LocalizedNamesImpl_ps.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ps.java
+END
+LocalizedNamesImpl_ky.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ky.java
+END
+DateTimeFormatInfoImpl_en_PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_PK.java
+END
+LocalizedNamesImpl_saq.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_saq.java
+END
+DateTimeFormatInfoImpl_ar_OM.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_OM.java
+END
+DateTimeFormatInfoImpl_mas_TZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mas_TZ.java
+END
+CurrencyData_ta.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ta.properties
+END
+LocalizedNamesImpl_rw.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_rw.java
+END
+DateTimeFormatInfoImpl_ti_ER.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ti_ER.java
+END
+CurrencyData_se.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_se.properties
+END
+DateTimeFormatInfoImpl_en_MU.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_MU.java
+END
+LocalizedNamesImpl_zh_Hant.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_Hant.java
+END
+CurrencyData_gu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gu.properties
+END
+DateTimeFormatInfoImpl_mfe.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mfe.java
+END
+DateTimeFormatInfoImpl_ln.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ln.java
+END
+DateTimeFormatInfoImpl_ebu.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ebu.java
+END
+LocalizedNamesImpl_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ar.java
+END
+DateTimeFormatInfoImpl_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sl.java
+END
+DateTimeFormatInfoImpl_nr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nr.java
+END
+CurrencyData_ny.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ny.properties
+END
+LocalizedNamesImpl_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_th.java
+END
+DateTimeFormatInfoImpl_pt_PT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pt_PT.java
+END
+DateTimeFormatInfoImpl_ga.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ga.java
+END
+DateTimeFormatInfoImpl_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bg.java
+END
+CurrencyData_fa_AF.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fa_AF.properties
+END
+CurrencyData_uz_AF.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_uz_AF.properties
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/package-info.java
+END
+LocalizedNamesImpl_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sv.java
+END
+LocalizedNamesImpl_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ja.java
+END
+DateTimeFormatInfoImpl_ki.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ki.java
+END
+DateTimeFormatInfoImpl_fo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fo.java
+END
+CurrencyData_en_NZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_NZ.properties
+END
+CurrencyData_sh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sh.properties
+END
+LocalizedNamesImpl_uz.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uz.java
+END
+LocalizedNamesImpl_cgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_cgg.java
+END
+CurrencyData_ha_SD.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ha_SD.properties
+END
+DateTimeFormatInfoImpl_cy.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_cy.java
+END
+DateTimeFormatInfoImpl_zh_Hans_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_Hans_HK.java
+END
+DateTimeFormatInfoImpl_de_AT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_de_AT.java
+END
+LocalizedNamesImpl_kcg.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kcg.java
+END
+DateTimeFormatInfoImpl_ha_SD.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ha_SD.java
+END
+CurrencyData_pt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pt.properties
+END
+DateTimeFormatInfoImpl_en_NA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_NA.java
+END
+CurrencyData_gez.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gez.properties
+END
+CurrencyData_en_JM.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_JM.properties
+END
+DateTimeFormatInfoImpl_nds.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nds.java
+END
+LocalizedNamesImpl_ug.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ug.java
+END
+CldrImpl_uz_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_uz_Arab.java
+END
+DateTimeFormatInfoImpl_zh_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_TW.java
+END
+CurrencyData_bo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_bo.properties
+END
+LocalizedNamesImpl_shi.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_shi.java
+END
+LocalizedNamesImpl_pa_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pa_Arab.java
+END
+CurrencyData_as.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_as.properties
+END
+LocalizedNamesImpl_yo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_yo.java
+END
+CurrencyData_kk.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kk.properties
+END
+DateTimeFormatInfoImpl_sr_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sr_Latn.java
+END
+DateTimeFormatInfoImpl_mn_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mn_Cyrl.java
+END
+LocalizedNamesImpl_ses.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ses.java
+END
+LocalizedNamesImpl_ff.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ff.java
+END
+LocalizedNamesImpl_fur.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fur.java
+END
+CurrencyData_tg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tg.properties
+END
+CurrencyData_is.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_is.properties
+END
+DateTimeFormatInfoImpl_ku_IQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_IQ.java
+END
+CurrencyData_sk.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sk.properties
+END
+DateTimeFormatInfoImpl_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nl.java
+END
+CurrencyData_ro.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ro.properties
+END
+CurrencyData_st_LS.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_st_LS.properties
+END
+LocalizedNamesImpl_et.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_et.java
+END
+LocalizedNamesImpl_jmc.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_jmc.java
+END
+CurrencyData_pa_PK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pa_PK.properties
+END
+DateTimeFormatInfoImpl_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_de.java
+END
+CurrencyData_nb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_nb.properties
+END
+LocalizedNamesImpl_wal.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_wal.java
+END
+DateTimeFormatInfoImpl_fi.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fi.java
+END
+DateTimeFormatInfoImpl_shi_MA.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_shi_MA.java
+END
+DateTimeFormatInfoImpl_ar_TN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_TN.java
+END
+DateTimeFormatInfoImpl_mg.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mg.java
+END
+CurrencyData_kn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kn.properties
+END
+DateTimeFormatInfoImpl_cs.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_cs.java
+END
+LocalizedNamesImpl_ku_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ku_Latn.java
+END
+DateTimeFormatInfoImpl_ar_AE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_AE.java
+END
+DateTimeFormatInfoImpl_te.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_te.java
+END
+CurrencyData_zh_MO.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_MO.properties
+END
+LocalizedNamesImpl_ii.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ii.java
+END
+DateTimeFormatInfoImpl_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_vi.java
+END
+LocalizedNamesImpl_km.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_km.java
+END
+CurrencyData_ga.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ga.properties
+END
+DateTimeFormatInfoImpl_kln.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kln.java
+END
+DateTimeFormatInfoImpl_en_Shaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_Shaw.java
+END
+LocalizedNamesImpl_uz_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uz_Latn.java
+END
+DateTimeFormatInfoImpl_ss.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ss.java
+END
+DateTimeFormatInfoImpl_ny.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ny.java
+END
+DateTimeFormatInfoImpl_gaa.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gaa.java
+END
+DateTimeFormatInfoImpl_tzm_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tzm_Latn.java
+END
+LocalizedNamesImpl_to.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_to.java
+END
+CurrencyData_ne.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ne.properties
+END
+LocalizedNamesImpl_af.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_af.java
+END
+DateTimeFormatInfoImpl_bn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bn.java
+END
+LocalizedNamesImpl_pa_PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pa_PK.java
+END
+CurrencyData_ve.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ve.properties
+END
+DateTimeFormatInfoImpl_fil.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fil.java
+END
+LocalizedNamesImpl_en.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_en.java
+END
+LocalizedNamesImpl_tg_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tg_Cyrl.java
+END
+LocalizedNamesImpl_kaj.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kaj.java
+END
+LocalizedNamesImpl_zh_Hant_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_Hant_TW.java
+END
+DateTimeFormatInfoImpl_kfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kfo.java
+END
+CurrencyData_sq.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sq.properties
+END
+DateTimeFormatInfoImpl_mt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mt.java
+END
+CurrencyData_ru.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ru.properties
+END
+CurrencyData_de_LU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_de_LU.properties
+END
+DateTimeFormatInfoImpl_tr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tr.java
+END
+DateTimeFormatInfoImpl_en_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_IN.java
+END
+CldrImpl_ur.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ur.java
+END
+CurrencyData_zu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zu.properties
+END
+LocalizedNamesImpl_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh.java
+END
+CurrencyData_el.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_el.properties
+END
+LocalizedNamesImpl_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pt.java
+END
+LocalizedNamesImpl_tig.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tig.java
+END
+DateTimeFormatInfoImpl_kab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kab.java
+END
+LocalizedNamesImpl_be.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_be.java
+END
+DateTimeFormatInfoImpl_shi_Tfng.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_shi_Tfng.java
+END
+DateTimeFormatInfoImpl_lag.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_lag.java
+END
+DateTimeFormatInfoImpl_mn_MN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mn_MN.java
+END
+CurrencyData_ml.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ml.properties
+END
+LocalizedNamesImpl_xog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_xog.java
+END
+CurrencyData_es_MX.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_MX.properties
+END
+LocalizedNamesImpl_pa.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pa.java
+END
+DateTimeFormatInfoImpl_lo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_lo.java
+END
+DateTimeFormatInfoImpl_gu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gu.java
+END
+LocalizedNamesImpl_as.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_as.java
+END
+DateTimeFormatInfoImpl_naq.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_naq.java
+END
+LocalizedNamesImpl_mk.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mk.java
+END
+CurrencyData_st.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_st.properties
+END
+LocalizedNamesImpl_ti.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ti.java
+END
+LocalizedNamesImpl_kpe.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kpe.java
+END
+DateTimeFormatInfoImpl_en_JM.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_JM.java
+END
+CurrencyData_aa_DJ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_aa_DJ.properties
+END
+DateTimeFormatInfoImpl_aa_DJ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_aa_DJ.java
+END
+DateTimeFormatInfoImpl_luo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_luo.java
+END
+LocalizedNamesImpl_sw.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sw.java
+END
+DateTimeFormatInfoImpl_kde.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kde.java
+END
+DateTimeFormatInfoImpl_asa.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_asa.java
+END
+LocalizedNamesImpl_zu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zu.java
+END
+DateTimeFormatInfoImpl_id_ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_id_ID.java
+END
+DateTimeFormatInfoImpl_mn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mn.java
+END
+LocalizedNamesImpl_gl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gl.java
+END
+LocalizedNamesImpl_zh_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_HK.java
+END
+LocalizedNamesImpl_br.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_br.java
+END
+LocalizedNamesImpl_uz_AF.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uz_AF.java
+END
+DateTimeFormatInfoImpl_tl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tl.java
+END
+DateTimeFormatInfoImpl_or.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_or.java
+END
+CurrencyData_ts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ts.properties
+END
+LocalizedNamesImpl_dv.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_dv.java
+END
+DateTimeFormatInfoImpl_kok.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kok.java
+END
+LocalizedNamesImpl_trv.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_trv.java
+END
+DateTimeFormatInfoImpl_pa_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pa_Arab.java
+END
+CurrencyData_sw.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sw.properties
+END
+DateTimeFormatInfoImpl_ha.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ha.java
+END
+LocalizedNamesImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl.java
+END
+DateTimeFormatInfoImpl_ku_SY.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_SY.java
+END
+DateTimeFormatInfoImpl_ta_LK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ta_LK.java
+END
+DateTimeFormatInfoImpl_es_HN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_HN.java
+END
+LocalizedNamesImpl_ksh.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ksh.java
+END
+LocalizedNamesImpl_az_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_az_Latn.java
+END
+CurrencyData_es_PR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_PR.properties
+END
+LocalizedNamesImpl_ka.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ka.java
+END
+LocaleNativeDisplayNames-generated.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocaleNativeDisplayNames-generated.properties
+END
+DateTimeFormatInfoImpl_nyn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nyn.java
+END
+CurrencyData_dv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_dv.properties
+END
+CurrencyData_en_TT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_TT.properties
+END
+LocalizedNamesImpl_am.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_am.java
+END
+CurrencyData_nn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_nn.properties
+END
+CurrencyData_ru_UA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ru_UA.properties
+END
+DateTimeFormatInfoImpl_vun.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_vun.java
+END
+DateTimeFormatInfoImpl_ku_IR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_IR.java
+END
+DateTimeFormatInfoImpl_sg.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sg.java
+END
+CurrencyData_mr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_mr.properties
+END
+DateTimeFormatInfoImpl_is.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_is.java
+END
+DateTimeFormatInfoImpl_chr.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_chr.java
+END
+CurrencyData_lv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_lv.properties
+END
+DateTimeFormatInfoImpl_gez_ET.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gez_ET.java
+END
+CurrencyData_wal.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_wal.properties
+END
+DateTimeFormatInfoImpl_uk.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uk.java
+END
+DateTimeFormatInfoImpl_kw.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kw.java
+END
+LocalizedNamesImpl_eu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_eu.java
+END
+CurrencyData_ur.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ur.properties
+END
+CurrencyData_sr_BA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sr_BA.properties
+END
+DateTimeFormatInfoImpl_wo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_wo.java
+END
+CurrencyData_ja.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ja.properties
+END
+DateTimeFormatInfoImpl_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ru.java
+END
+LocalizedNamesImpl_sr_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sr_Cyrl.java
+END
+DateTimeFormatInfoImpl_en_BW.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_BW.java
+END
+CurrencyData_hi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_hi.properties
+END
+LocalizedNamesImpl_sq.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sq.java
+END
+DateTimeFormatInfoImpl_ku_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_Latn.java
+END
+LocalizedNamesImpl_es_CL.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_es_CL.java
+END
+DateTimeFormatInfoImpl_nso.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nso.java
+END
+DateTimeFormatInfoImpl_rwk.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_rwk.java
+END
+CurrencyData_eu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_eu.properties
+END
+CurrencyData_om.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_om.properties
+END
+DateTimeFormatInfoImpl_fr_CA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fr_CA.java
+END
+LocalizedNamesImpl_nd.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nd.java
+END
+CurrencyData_kfo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kfo.properties
+END
+DateTimeFormatInfoImpl_uz_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz_Latn.java
+END
+DateTimeFormatInfoImpl_mas.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mas.java
+END
+CurrencyData_kok.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kok.properties
+END
+DateTimeFormatInfoImpl_lv.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_lv.java
+END
+LocalizedNamesImpl_kn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kn.java
+END
+CurrencyData_es_CL.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_CL.properties
+END
+DateTimeFormatInfoImpl_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ca.java
+END
+LocalizedNamesImpl_az.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_az.java
+END
+LocalizedNamesImplBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImplBase.java
+END
+DateTimeFormatInfoImpl_saq.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_saq.java
+END
+DateTimeFormatInfoImpl_st.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_st.java
+END
+LocalizedNamesImpl_mr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mr.java
+END
+LocalizedNamesImpl_ksb.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ksb.java
+END
+DateTimeFormatInfoImpl_ee.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ee.java
+END
+DateTimeFormatInfoImpl_mn_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mn_CN.java
+END
+CurrencyData_gsw.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gsw.properties
+END
+LocalizedNamesImpl_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fa.java
+END
+DateTimeFormatInfoImpl_bo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bo.java
+END
+DateTimeFormatInfoImpl_shi_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_shi_Latn.java
+END
+CurrencyData_en_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_CA.properties
+END
+DateTimeFormatInfoImpl_sa.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sa.java
+END
+CurrencyData_en_BE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_BE.properties
+END
+LocalizedNamesImpl_he.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_he.java
+END
+CurrencyData_pl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pl.properties
+END
+LocalizedNamesImpl_kk_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kk_Cyrl.java
+END
+LocalizedNamesImpl_oc.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_oc.java
+END
+LocalizedNamesImpl_shi_Tfng.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_shi_Tfng.java
+END
+LocalizedNamesImpl_eo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_eo.java
+END
+CurrencyData_tig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tig.properties
+END
+DateTimeFormatInfoImpl_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ro.java
+END
+LocalizedNamesImpl_tzm.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tzm.java
+END
+CurrencyData_bg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_bg.properties
+END
+DateTimeFormatInfoImpl_ku_TR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_TR.java
+END
+CurrencyData_es_CO.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_CO.properties
+END
+DateTimeFormatInfoImpl_bn_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bn_IN.java
+END
+LocalizedNamesImpl_sk.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sk.java
+END
+DateTimeFormatInfoImpl_ts.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ts.java
+END
+CurrencyData_ak.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ak.properties
+END
+LocalizedNamesImpl_iw.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_iw.java
+END
+DateTimeFormatInfoImpl_es_PE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_PE.java
+END
+DateTimeFormatInfoImpl_en_ZA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_ZA.java
+END
+LocalizedNamesImpl_pt_PT.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pt_PT.java
+END
+DateTimeFormatInfoImpl_cgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_cgg.java
+END
+LocalizedNamesImpl_byn.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_byn.java
+END
+CurrencyData_aa_ER.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_aa_ER.properties
+END
+DateTimeFormatInfoImpl_kcg.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kcg.java
+END
+LocalizedNamesImpl_id.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_id.java
+END
+DateTimeFormatInfoImpl_teo_KE.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_teo_KE.java
+END
+CurrencyData_fil.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fil.properties
+END
+DateTimeFormatInfoImpl_sw_KE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sw_KE.java
+END
+CurrencyData_zh_Hans_HK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_Hans_HK.properties
+END
+CurrencyData_ha_Arab.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ha_Arab.properties
+END
+DateTimeFormatInfoImpl_gv.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gv.java
+END
+DateTimeFormatInfoImpl_xh.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_xh.java
+END
+DateTimeFormatInfoImpl_sn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sn.java
+END
+LocalizedNamesImpl_ml.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ml.java
+END
+LocalizedNamesImpl_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_hr.java
+END
+DateTimeFormatInfoImpl_shi.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_shi.java
+END
+DateTimeFormatInfoImpl_ur.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ur.java
+END
+LocalizedNamesImpl_seh.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_seh.java
+END
+LocalizedNamesImpl_aa.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_aa.java
+END
+DateTimeFormatInfoImpl_ses.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ses.java
+END
+CurrencyData_ms_BN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ms_BN.properties
+END
+DateTimeFormatInfoImpl_fur.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fur.java
+END
+DateTimeFormatInfoImpl_ms_BN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ms_BN.java
+END
+DateTimeFormatInfoImpl_ig.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ig.java
+END
+LocalizedNamesImpl_zh_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_TW.java
+END
+CurrencyData_hr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_hr.properties
+END
+DateTimeFormatInfoImpl_kk.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kk.java
+END
+LocalizedNamesImpl_en_Dsrt.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_en_Dsrt.java
+END
+DateTimeFormatInfoImpl_es_PR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_PR.java
+END
+DateTimeFormatInfoImpl_jmc.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_jmc.java
+END
+DateTimeFormatInfoImpl_zh_SG.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_SG.java
+END
+CurrencyData_sr_Cyrl_BA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sr_Cyrl_BA.properties
+END
+LocalizedNamesImpl_lg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_lg.java
+END
+DateTimeFormatInfoImpl_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_hu.java
+END
+LocalizedNamesImpl_bs.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bs.java
+END
+LocalizedNamesImpl_se.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_se.java
+END
+DateTimeFormatInfoImpl_fr_CH.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fr_CH.java
+END
+DateTimeFormatInfoImpl_wal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_wal.java
+END
+CurrencyData_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_de.properties
+END
+CldrImpl_ps.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ps.java
+END
+CurrencyData_en_SG.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_SG.properties
+END
+DateTimeFormatInfoImpl_az_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az_Latn.java
+END
+LocalizedNamesImpl_ku.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ku.java
+END
+DateTimeFormatInfoImpl_ar_JO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_JO.java
+END
+CurrencyData_nso.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_nso.properties
+END
+LocalizedNamesImpl_my.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_my.java
+END
+DateTimeFormatInfoImpl_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_el.java
+END
+CurrencyData_kcg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kcg.properties
+END
+CurrencyData_te.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_te.properties
+END
+CldrImpl_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ar.java
+END
+CurrencyData_si.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_si.properties
+END
+CurrencyData_hu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_hu.properties
+END
+DateTimeFormatInfoImpl_sh.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sh.java
+END
+DateTimeFormatInfoImpl_nn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nn.java
+END
+DateTimeFormatInfoImpl_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_it.java
+END
+LocalizedNamesImpl_bem.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bem.java
+END
+DateTimeFormatInfoImpl_dz.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_dz.java
+END
+CurrencyData_byn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_byn.properties
+END
+LocalizedNamesImpl_lt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_lt.java
+END
+DateTimeFormatInfoImpl_ia.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ia.java
+END
+DateTimeFormatInfoImpl_fa_AF.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fa_AF.java
+END
+LocalizedNamesImpl_sr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sr.java
+END
+CurrencyData_kl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kl.properties
+END
+DateTimeFormatInfoImpl_az_AZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az_AZ.java
+END
+DateTimeFormatInfoImpl_mi.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mi.java
+END
+DateTimeFormatInfoImpl_kaj.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kaj.java
+END
+LocalizedNamesImpl_bm.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bm.java
+END
+CurrencyData_th.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_th.properties
+END
+CurrencyData_it.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_it.properties
+END
+DateTimeFormatInfoImpl_en_BE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_BE.java
+END
+DateTimeFormatInfoImpl_tg.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tg.java
+END
+CurrencyData_sl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sl.properties
+END
+DateTimeFormatInfoImpl_om.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_om.java
+END
+LocalizedNamesImpl_pa_Guru.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pa_Guru.java
+END
+LocalizedNamesImpl_ne.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ne.java
+END
+CurrencyData_en_NA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_NA.properties
+END
+CldrImpl_ug.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ug.java
+END
+DateTimeFormatInfoImpl_he_IL.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_he_IL.java
+END
+LocalizedNamesImpl_ko.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ko.java
+END
+CurrencyData_en_AU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_AU.properties
+END
+DateTimeFormatInfoImpl_tig.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tig.java
+END
+LocalizedNamesImpl_rm.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_rm.java
+END
+LocalizedNamesImpl_ms.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ms.java
+END
+DateTimeFormatInfoImpl_ne_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ne_IN.java
+END
+DateTimeFormatInfoImpl_es_CO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_CO.java
+END
+LocalizedNamesImpl_bez.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bez.java
+END
+LocalizedNamesImpl_hy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_hy.java
+END
+CurrencyData_es_ES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_ES.properties
+END
+DateTimeFormatInfoImpl_xog.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_xog.java
+END
+LocalizedNamesImpl_uz_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uz_Cyrl.java
+END
+CurrencyData_bs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_bs.properties
+END
+DateTimeFormatInfoImpl_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_CN.java
+END
+CurrencyData_ko.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ko.properties
+END
+DateTimeFormatInfoImpl_sr_ME.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sr_ME.java
+END
+LocalizedNamesImpl_cch.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_cch.java
+END
+CurrencyData_es_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_US.properties
+END
+DateTimeFormatInfoImpl_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pl.java
+END
+CurrencyData_so.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_so.properties
+END
+DateTimeFormatInfoImpl_ha_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ha_Arab.java
+END
+DateTimeFormatInfoImpl_es_US.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_US.java
+END
+DateTimeFormatInfoImpl_nl_BE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nl_BE.java
+END
+DateTimeFormatInfoImpl_kpe.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kpe.java
+END
+LocalizedNamesImpl_ln.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ln.java
+END
+DateTimeFormatInfoImpl_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_da.java
+END
+DateTimeFormatInfoImpl_tt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tt.java
+END
+LocalizedNamesImpl_sl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sl.java
+END
+LocalizedNamesImpl_sid.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sid.java
+END
+LocalizedNamesImpl_nr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nr.java
+END
+CurrencyData_cch.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_cch.properties
+END
+DateTimeFormatInfoImpl_ak.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ak.java
+END
+DateTimeFormatInfoImpl_hi.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_hi.java
+END
+LocalizedNamesImpl_ga.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ga.java
+END
+LocalizedNamesImpl_bg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bg.java
+END
+DateTimeFormatInfoImpl_ta.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ta.java
+END
+CurrencyData_ln.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ln.properties
+END
+CurrencyData_az.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_az.properties
+END
+DateTimeFormatInfoImpl_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es.java
+END
+LocalizedNamesImpl_kea.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kea.java
+END
+DateTimeFormatInfoImpl_ve.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ve.java
+END
+DateTimeFormatInfoImpl_trv.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_trv.java
+END
+LocalizedNamesImpl_ki.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ki.java
+END
+DateTimeFormatInfoImpl_zh_MO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_MO.java
+END
+LocalizedNamesImpl_fo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fo.java
+END
+CurrencyData_tn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tn.properties
+END
+CurrencyData_sr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sr.properties
+END
+DateTimeFormatInfoImpl_so.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_so.java
+END
+LocalizedNamesImpl_luy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_luy.java
+END
+LocalizedNamesImpl_dav.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_dav.java
+END
+DateTimeFormatInfoImpl_ar_QA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_QA.java
+END
+CldrImpl_yi.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_yi.java
+END
+DateTimeFormatInfoImpl_en_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_HK.java
+END
+LocalizedNamesImpl_cy.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_cy.java
+END
+CurrencyData_ha.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ha.properties
+END
+DateTimeFormatInfoImpl_ksh.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ksh.java
+END
+DateTimeFormatInfoImpl_se_FI.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_se_FI.java
+END
+CurrencyData_en_BW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_BW.properties
+END
+CurrencyData_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_TW.properties
+END
+CldrImpl_pa_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_pa_Arab.java
+END
+CurrencyData_fi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fi.properties
+END
+CurrencyData_pa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pa.properties
+END
+DateTimeFormatInfoImpl_en_Dsrt.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_Dsrt.java
+END
+DateTimeFormatInfoImpl_nb.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nb.java
+END
+LocalizedNamesImpl_ku_SY.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ku_SY.java
+END
+CurrencyData_fr_CA.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fr_CA.properties
+END
+DateTimeFormatInfoImpl_kl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kl.java
+END
+DateTimeFormatInfoImpl_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fr.java
+END
+CurrencyData_vi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_vi.properties
+END
+CurrencyData_en_ZW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_ZW.properties
+END
+CurrencyData_es_UY.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_UY.properties
+END
+DateTimeFormatInfoImpl_tn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tn.java
+END
+CurrencyData_pt_PT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pt_PT.properties
+END
+LocalizedNamesImpl_nl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nl.java
+END
+LocalizedNamesImpl_haw.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_haw.java
+END
+CurrencyData_en_BZ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_BZ.properties
+END
+DateTimeFormatInfoImpl_es_AR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_AR.java
+END
+LocalizedNamesImpl_el_POLYTON.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_el_POLYTON.java
+END
+CurrencyData_es_GT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_GT.properties
+END
+LocalizedNamesImpl_gez.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gez.java
+END
+CldrImpl_ku_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ku_Latn.java
+END
+LocalizedNamesImpl_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_de.java
+END
+CurrencyData_nl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_nl.properties
+END
+LocalizedNamesImpl_fi.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fi.java
+END
+DateTimeFormatInfoImpl_si.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_si.java
+END
+CurrencyData_lt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_lt.properties
+END
+LocalizedNamesImpl_az_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_az_Cyrl.java
+END
+LocalizedNamesImpl_mg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mg.java
+END
+DateTimeFormatInfoImpl_iu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_iu.java
+END
+LocalizedNamesImpl_cs.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_cs.java
+END
+LocalizedNamesImpl_guz.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_guz.java
+END
+DateTimeFormatInfoImpl_ksb.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ksb.java
+END
+LocalizedNamesImpl_te.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_te.java
+END
+DateTimeFormatInfoImpl_ps.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ps.java
+END
+DateTimeFormatInfoImpl_ky.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ky.java
+END
+CurrencyData_tt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tt.properties
+END
+DateTimeFormatInfoImpl_bo_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bo_IN.java
+END
+LocalizedNamesImpl_vi.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_vi.java
+END
+DateTimeFormatInfoImpl_rw.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_rw.java
+END
+LocalizedNamesImpl_khq.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_khq.java
+END
+LocalizedNamesImpl_ss.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ss.java
+END
+LocalizedNamesImpl_ny.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ny.java
+END
+CurrencyData_fo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fo.properties
+END
+DateTimeFormatInfoImpl_ar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar.java
+END
+CurrencyData_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es.properties
+END
+LocalizedNamesImpl_bn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bn.java
+END
+CurrencyData_no.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_no.properties
+END
+CurrencyData_gez_ET.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gez_ET.properties
+END
+DateTimeFormatInfoImpl_tzm.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_tzm.java
+END
+CurrencyData_ms.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ms.properties
+END
+DateTimeFormatInfoImpl_th.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_th.java
+END
+CurrencyData_kpe.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kpe.properties
+END
+CldrImpl_dv.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_dv.java
+END
+CurrencyData_pa_Arab.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_pa_Arab.properties
+END
+CurrencyData_af.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_af.properties
+END
+LocaleNativeDisplayNames-manual.properties
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocaleNativeDisplayNames-manual.properties
+END
+CurrencyData_en_PH.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_PH.properties
+END
+CurrencyData_es_AR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_AR.properties
+END
+DateTimeFormatInfoImpl_uz_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz_Cyrl.java
+END
+DateTimeFormatInfoImpl_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sv.java
+END
+DateTimeFormatInfoImpl_byn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_byn.java
+END
+LocalizedNamesImpl_mt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mt.java
+END
+DateTimeFormatInfoImpl_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ja.java
+END
+LocalizedNamesImpl_mer.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mer.java
+END
+LocalizedNamesImpl_ku_TR.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ku_TR.java
+END
+CurrencyData_en_MT.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_MT.properties
+END
+DateTimeFormatInfoImpl_uz.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz.java
+END
+LocalizedNamesImpl_tr.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tr.java
+END
+CurrencyData_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fr.properties
+END
+CurrencyData_so_ET.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_so_ET.properties
+END
+CurrencyData_dz.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_dz.properties
+END
+DateTimeFormatInfoImpl_ug.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ug.java
+END
+CurrencyData_nr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_nr.properties
+END
+LocalizedNamesImpl_ku_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ku_Arab.java
+END
+CurrencyData_ca.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ca.properties
+END
+DateTimeFormatInfoImpl_seh.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_seh.java
+END
+CurrencyData_el_POLYTON.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_el_POLYTON.properties
+END
+CurrencyData_en_HK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_HK.properties
+END
+DateTimeFormatInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl.java
+END
+LocalizedNamesImpl_kam.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kam.java
+END
+CurrencyData_be.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_be.properties
+END
+LocalizedNamesImpl_lo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_lo.java
+END
+LocalizedNamesImpl_gu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gu.java
+END
+DateTimeFormatInfoImpl_zh_Hans_MO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_Hans_MO.java
+END
+CurrencyData_ka.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ka.properties
+END
+DateTimeFormatInfoImpl_yo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_yo.java
+END
+CurrencyData_en_PK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_PK.properties
+END
+DateTimeFormatInfoImpl_ff.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ff.java
+END
+LocalizedNamesImpl_uz_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uz_Arab.java
+END
+CurrencyData_ii.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ii.properties
+END
+DateTimeFormatInfoImpl_ar_YE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_YE.java
+END
+CurrencyData_sa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sa.properties
+END
+DateTimeFormatInfoImpl_en_Dsrt_US.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_Dsrt_US.java
+END
+DateTimeFormatInfoImpl_et.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_et.java
+END
+DateTimeFormatInfoImpl_ar_SY.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_SY.java
+END
+CurrencyData_my.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_my.properties
+END
+LocalizedNamesImpl_mn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mn.java
+END
+CurrencyData_zh_Hant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_Hant.properties
+END
+LocalizedNamesImpl_ssy.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ssy.java
+END
+LocalizedNamesImpl_tl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tl.java
+END
+LocalizedNamesImpl_or.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_or.java
+END
+CldrImpl_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_fa.java
+END
+CldrImpl_he.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_he.java
+END
+LocalizedNamesImpl_teo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_teo.java
+END
+CurrencyData_kaj.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kaj.properties
+END
+DateTimeFormatInfoImpl_ii.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ii.java
+END
+LocalizedNamesImpl_ha.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ha.java
+END
+DateTimeFormatInfoImpl_bem.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bem.java
+END
+DateTimeFormatInfoImpl_az_IR.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az_IR.java
+END
+DateTimeFormatInfoImpl_km.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_km.java
+END
+LocalizedNamesImpl_ug_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ug_Arab.java
+END
+DateTimeFormatInfoImpl_ur_IN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ur_IN.java
+END
+CurrencyData_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh.properties
+END
+DateTimeFormatInfoImpl_to.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_to.java
+END
+LocalizedNamesImpl_sg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sg.java
+END
+LocalizedNamesImpl_is.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_is.java
+END
+DateTimeFormatInfoImpl_af.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_af.java
+END
+LocalizedNamesImpl_syr.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_syr.java
+END
+DateTimeFormatInfoImpl_es_PA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_PA.java
+END
+LocalizedNamesImpl_uk.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_uk.java
+END
+LocalizedNamesImpl_kw.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kw.java
+END
+CurrencyData_so_KE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_so_KE.properties
+END
+LocalizedNamesImpl_wo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_wo.java
+END
+LocalizedNamesImpl_rof.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_rof.java
+END
+LocalizedNamesImpl_ru.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ru.java
+END
+CurrencyData_az_Cyrl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_az_Cyrl.properties
+END
+DateTimeFormatInfoImpl_en.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en.java
+END
+LocalizedNamesImpl_mn_Mong.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mn_Mong.java
+END
+DateTimeFormatInfoImpl_az_Cyrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az_Cyrl.java
+END
+CurrencyData_kam.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_kam.properties
+END
+LocalizedNamesImpl_fa_AF.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fa_AF.java
+END
+CurrencyData_syr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_syr.properties
+END
+LocalizedNamesImpl_gsw.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gsw.java
+END
+DateTimeFormatInfoImpl_fr_BE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fr_BE.java
+END
+CurrencyData_ps.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ps.properties
+END
+DateTimeFormatInfoImpl_ar_LB.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_LB.java
+END
+DateTimeFormatInfoImpl_bez.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bez.java
+END
+DateTimeFormatInfoImpl_zh.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh.java
+END
+DateTimeFormatInfoImpl_pt.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pt.java
+END
+CurrencyData_yo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_yo.properties
+END
+DateTimeFormatInfoImpl_be.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_be.java
+END
+DateTimeFormatInfoImpl_it_CH.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_it_CH.java
+END
+LocalizedNamesImpl_lv.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_lv.java
+END
+CurrencyData_bn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_bn.properties
+END
+LocalizedNamesImpl_ca.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ca.java
+END
+DateTimeFormatInfoImpl_en_BZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_BZ.java
+END
+DateTimeFormatInfoImpl_cch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_cch.java
+END
+CurrencyData_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ar.properties
+END
+LocalizedNamesImpl_st.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_st.java
+END
+DateTimeFormatInfoImpl_pa.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pa.java
+END
+LocalizedNamesImpl_ee.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ee.java
+END
+DateTimeFormatInfoImpl_as.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_as.java
+END
+DateTimeFormatInfoImpl_mk.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mk.java
+END
+LocalizedNamesImpl_az_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_az_Arab.java
+END
+LocalizedNamesImpl_bo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_bo.java
+END
+DateTimeFormatInfoImpl_ti.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ti.java
+END
+LocalizedNamesImpl_sa.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sa.java
+END
+LocalizedNamesImpl_sr_ME.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sr_ME.java
+END
+DateTimeFormatInfoImpl_sid.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sid.java
+END
+DateTimeFormatInfoImpl_en_IE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_IE.java
+END
+DateTimeFormatInfoImpl_ar_MA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_MA.java
+END
+LocalizedNamesImpl_mfe.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mfe.java
+END
+CldrImpl_ha_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ha_Arab.java
+END
+CldrImpl_ku.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_ku.java
+END
+CurrencyData_fa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fa.properties
+END
+LocalizedNamesImpl_ebu.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ebu.java
+END
+LocalizedNamesImpl_zh_Hans_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_Hans_HK.java
+END
+CurrencyData_ee.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ee.properties
+END
+DateTimeFormatInfoImpl_sr_BA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sr_BA.java
+END
+DateTimeFormatInfoImpl_en_AU.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_AU.java
+END
+DateTimeFormatInfoImpl_ps_AF.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ps_AF.java
+END
+LocalizedNamesImpl_nl_BE.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nl_BE.java
+END
+LocalizedNamesImpl_ro.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ro.java
+END
+DateTimeFormatInfoImpl_sw.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sw.java
+END
+DateTimeFormatInfoImpl_zu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zu.java
+END
+CurrencyData_ti_ER.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ti_ER.properties
+END
+LocalizedNamesImpl_ts.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ts.java
+END
+DateTimeFormatInfoImpl_kea.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kea.java
+END
+CurrencyData_sr_ME.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sr_ME.properties
+END
+DateTimeFormatInfoImpl_gl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gl.java
+END
+CurrencyData_km.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_km.properties
+END
+DateTimeFormatInfoImpl_br.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_br.java
+END
+DateTimeFormatInfoImpl_ku_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku_Arab.java
+END
+CurrencyData_ti.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ti.properties
+END
+DateTimeFormatInfoImpl_dv.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_dv.java
+END
+CurrencyData_zh_Hant_HK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_Hant_HK.properties
+END
+DateTimeFormatInfoImpl_luy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_luy.java
+END
+DateTimeFormatInfoImpl_dav.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_dav.java
+END
+CurrencyData_hy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_hy.properties
+END
+CurrencyData_uz_Arab.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_uz_Arab.properties
+END
+DateTimeFormatInfoImpl_en_ZW.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_ZW.java
+END
+DateTimeFormatInfoImpl_uz_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz_Arab.java
+END
+LocalizedNamesImpl_zh_MO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_MO.java
+END
+LocalizedNamesImpl_gv.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gv.java
+END
+LocalizedNamesImpl_xh.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_xh.java
+END
+LocalizedNamesImpl_sn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sn.java
+END
+CurrencyData_so_DJ.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_so_DJ.properties
+END
+DateTimeFormatInfoImpl_ug_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ug_CN.java
+END
+DateTimeFormatInfoImpl_nb_NO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nb_NO.java
+END
+DateTimeFormatInfoImpl_ka.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ka.java
+END
+LocalizedNamesImpl_nds.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nds.java
+END
+DateTimeFormatInfoImpl_am.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_am.java
+END
+LocalizedNamesImpl_se_FI.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_se_FI.java
+END
+LocalizedNamesImpl_ur.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ur.java
+END
+CurrencyData_fr_LU.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fr_LU.properties
+END
+LocalizedNamesImpl_ig.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ig.java
+END
+DateTimeFormatInfoImpl_eu.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_eu.java
+END
+CurrencyData_tl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tl.properties
+END
+DateTimeFormatInfoImpl_ru_UA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ru_UA.java
+END
+CurrencyData.properties
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData.properties
+END
+LocalizedNamesImpl_kk.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kk.java
+END
+DateTimeFormatInfoImpl_haw.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_haw.java
+END
+LocalizedNamesImpl_ha_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ha_Latn.java
+END
+CurrencyData_se_FI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_se_FI.properties
+END
+DateTimeFormatInfoImpl_sq.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sq.java
+END
+LocalizedNamesImpl_mo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mo.java
+END
+DateTimeFormatInfoImpl_gez.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gez.java
+END
+LocalizedNamesImpl_hu.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_hu.java
+END
+CurrencyData_oc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_oc.properties
+END
+DateTimeFormatInfoImpl_ug_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ug_Arab.java
+END
+CurrencyData_cs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_cs.properties
+END
+DateTimeFormatInfoImpl_nd.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_nd.java
+END
+CurrencyData_mk.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_mk.properties
+END
+DateTimeFormatInfoImpl_guz.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_guz.java
+END
+CurrencyData_lo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_lo.properties
+END
+DateTimeFormatInfoImpl_kn.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kn.java
+END
+LocalizedNamesImpl_el.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_el.java
+END
+DateTimeFormatInfoImpl_az.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az.java
+END
+CurrencyData_uk.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_uk.properties
+END
+LocalizedNamesImpl_de_CH.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_de_CH.java
+END
+DateTimeFormatInfoImpl_uz_UZ.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz_UZ.java
+END
+DateTimeFormatInfoImpl_mr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mr.java
+END
+CurrencyData_ss.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ss.properties
+END
+DateTimeFormatInfoImpl_khq.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_khq.java
+END
+LocalizedNamesImpl_sh.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sh.java
+END
+LocalizedNamesImpl_nn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nn.java
+END
+CurrencyData_rw.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_rw.properties
+END
+DateTimeFormatInfoImpl_el_POLYTON.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_el_POLYTON.java
+END
+LocalizedNamesImpl_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_it.java
+END
+LocalizedNamesImpl_dz.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_dz.java
+END
+DateTimeFormatInfoImpl_fa.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_fa.java
+END
+CurrencyData_es_HN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_HN.properties
+END
+DateTimeFormatInfoImpl_pa_PK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_pa_PK.java
+END
+DateTimeFormatInfoImpl_mn_Mong.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mn_Mong.java
+END
+DateTimeFormatInfoImpl_he.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_he.java
+END
+LocalizedNamesImpl_kln.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kln.java
+END
+CurrencyData_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en.properties
+END
+CurrencyData_zh_HK.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_zh_HK.properties
+END
+DateTimeFormatInfoImpl_oc.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_oc.java
+END
+LocalizedNamesImpl_gaa.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_gaa.java
+END
+LocalizedNamesImpl_ia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ia.java
+END
+DateTimeFormatInfoImpl_en_MT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_MT.java
+END
+DateTimeFormatInfoImpl_eo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_eo.java
+END
+LocalizedNamesImpl_zh_Hans.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_zh_Hans.java
+END
+CurrencyData_mn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_mn.properties
+END
+CurrencyData_trv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_trv.properties
+END
+CurrencyData_sid.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sid.properties
+END
+DateTimeFormatInfoImpl_sk.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_sk.java
+END
+CurrencyData_aa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_aa.properties
+END
+LocalizedNamesImpl_mi.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_mi.java
+END
+CldrImpl_syr.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CldrImpl_syr.java
+END
+CurrencyData_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_tr.properties
+END
+LocalizedNamesImpl_fil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_fil.java
+END
+DateTimeFormatInfoImpl_mer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_mer.java
+END
+LocalizedNamesImpl_tg.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tg.java
+END
+CurrencyData_sv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sv.properties
+END
+LocalizedNamesImpl_om.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_om.java
+END
+CurrencyData_ia.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ia.properties
+END
+DateTimeFormatInfoImpl_ar_SA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ar_SA.java
+END
+LocalizedNamesImpl_kfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kfo.java
+END
+CurrencyData_he.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_he.properties
+END
+CurrencyData_de_BE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_de_BE.properties
+END
+DateTimeFormatInfoImpl_id.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_id.java
+END
+DateTimeFormatInfoImpl_de_BE.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_de_BE.java
+END
+CurrencyData_sr_Latn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_sr_Latn.properties
+END
+DateTimeFormatInfoImpl_az_Arab.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_az_Arab.java
+END
+DateTimeFormatInfoImpl_ky_KG.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ky_KG.java
+END
+LocalizedNamesImpl_kab.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kab.java
+END
+CurrencyData_cy.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_cy.properties
+END
+DateTimeFormatInfoImpl_kam.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_kam.java
+END
+DateTimeFormatInfoImpl_ml.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ml.java
+END
+DateTimeFormatInfoImpl_hr.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_hr.java
+END
+DateTimeFormatInfoImpl_en_GB.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_GB.java
+END
+LocalizedNamesImpl_lag.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_lag.java
+END
+LocalizedNamesImpl_in.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_in.java
+END
+CurrencyData_ky.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ky.properties
+END
+DateTimeFormatInfoImpl_aa.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_aa.java
+END
+LocalizedNamesImpl_pl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_pl.java
+END
+LocalizedNamesImpl_naq.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_naq.java
+END
+CurrencyData_fur.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_fur.properties
+END
+CurrencyData_id.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_id.properties
+END
+LocalizedNamesImpl_da.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_da.java
+END
+CurrencyData_gl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gl.properties
+END
+LocalizedNamesImpl_tt.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_tt.java
+END
+DateTimeFormatInfoImpl_lg.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_lg.java
+END
+DateTimeFormatInfoImpl_zh_HK.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_zh_HK.java
+END
+LocalizedNamesImpl_ak.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ak.java
+END
+DateTimeFormatInfoImpl_bs.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_bs.java
+END
+DateTimeFormatInfoImpl_af_NA.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_af_NA.java
+END
+DateTimeFormatInfoImpl_uz_AF.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_uz_AF.java
+END
+CurrencyData_et.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_et.properties
+END
+DateTimeFormatInfoImpl_se.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_se.java
+END
+LocalizedNamesImpl_luo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_luo.java
+END
+LocalizedNamesImpl_hi.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_hi.java
+END
+CurrencyData_es_EC.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_es_EC.properties
+END
+CurrencyData_xh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_xh.properties
+END
+CurrencyData_en_IE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_en_IE.properties
+END
+DateTimeFormatInfoImpl_gez_ER.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_gez_ER.java
+END
+LocalizedNamesImpl_sr_Latn.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_sr_Latn.java
+END
+CurrencyData_mt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_mt.properties
+END
+LocalizedNamesImpl_kde.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kde.java
+END
+LocalizedNamesImpl_ta.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ta.java
+END
+LocalizedNamesImpl_asa.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_asa.java
+END
+DateTimeFormatInfoImpl_ssy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ssy.java
+END
+DateTimeFormatInfoImpl_es_EC.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_es_EC.java
+END
+DateTimeFormatInfoImpl_ku.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_ku.java
+END
+LocalizedNamesImpl_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_es.java
+END
+LocalizedNamesImpl_ve.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_ve.java
+END
+CurrencyData_gaa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_gaa.properties
+END
+DateTimeFormatInfoImpl_my.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_my.java
+END
+CurrencyData_om_KE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_om_KE.properties
+END
+DateTimeFormatInfoImpl_teo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_teo.java
+END
+LocalizedNamesImpl_so.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_so.java
+END
+DateTimeFormatInfoImpl_en_SG.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/DateTimeFormatInfoImpl_en_SG.java
+END
+CurrencyData_ig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_ig.properties
+END
+LocalizedNamesImpl_kok.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_kok.java
+END
+LocalizedNamesImpl_nb.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/LocalizedNamesImpl_nb.java
+END
+CurrencyData_uz_Latn.properties
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/i18n/client/impl/cldr/CurrencyData_uz_Latn.properties
+END

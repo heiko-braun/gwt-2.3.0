@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/math
+END
+MathContext_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/math/MathContext_CustomFieldSerializer.java
+END
+BigInteger_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/math/BigInteger_CustomFieldSerializer.java
+END
+BigDecimal_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/math/BigDecimal_CustomFieldSerializer.java
+END

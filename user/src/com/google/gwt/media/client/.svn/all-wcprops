@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10012/releases/2.3/user/src/com/google/gwt/media/client
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10012/releases/2.3/user/src/com/google/gwt/media/client/Audio.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/media/client/package-info.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10012/releases/2.3/user/src/com/google/gwt/media/client/Video.java
+END
+MediaBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10009/releases/2.3/user/src/com/google/gwt/media/client/MediaBase.java
+END

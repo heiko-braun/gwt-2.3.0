@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/test/com/google/gwt/ant/taskdefs
+END
+SvnInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/test/com/google/gwt/ant/taskdefs/SvnInfoTest.java
+END
+CommandRunnerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/build-tools/ant-gwt/test/com/google/gwt/ant/taskdefs/CommandRunnerTest.java
+END

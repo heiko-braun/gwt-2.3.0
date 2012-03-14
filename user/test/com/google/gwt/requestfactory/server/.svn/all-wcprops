@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9876/releases/2.3/user/test/com/google/gwt/requestfactory/server
+END
+RequestFactoryExceptionHandlerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/RequestFactoryExceptionHandlerServlet.java
+END
+RequestFactoryUnicodeEscapingJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/RequestFactoryUnicodeEscapingJreTest.java
+END
+FindServiceJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/FindServiceJreTest.java
+END
+LocatorJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/LocatorJreTest.java
+END
+ComplexKeysJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/ComplexKeysJreTest.java
+END
+RequestFactoryExceptionPropagationJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/RequestFactoryExceptionPropagationJreTest.java
+END
+TestContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/TestContextImpl.java
+END
+InstanceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/InstanceServiceImpl.java
+END
+RequestFactoryInterfaceValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/RequestFactoryInterfaceValidatorTest.java
+END
+TestContextNoVersionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/TestContextNoVersionImpl.java
+END
+InstanceServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/InstanceServiceLocator.java
+END
+ServiceInheritanceJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9876/releases/2.3/user/test/com/google/gwt/requestfactory/server/ServiceInheritanceJreTest.java
+END
+SimpleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/SimpleBar.java
+END
+BoxesAndPrimitivesJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/BoxesAndPrimitivesJreTest.java
+END
+TestContextNoIdImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/TestContextNoIdImpl.java
+END
+RequestFactoryJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/RequestFactoryJreTest.java
+END
+InstanceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/InstanceService.java
+END
+SimpleValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/SimpleValue.java
+END
+HasId.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/HasId.java
+END
+SimpleFoo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/server/SimpleFoo.java
+END

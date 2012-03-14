@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe2/org/example/foo/client
+END
+BarClient1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/resource/impl/testdata/cpe2/org/example/foo/client/BarClient1.txt
+END

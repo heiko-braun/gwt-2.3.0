@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/samples/simplerpc/src/com/google/gwt/sample/simplerpc/client
+END
+SimpleRPCService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/samples/simplerpc/src/com/google/gwt/sample/simplerpc/client/SimpleRPCService.java
+END
+SimpleRPCServiceAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/simplerpc/src/com/google/gwt/sample/simplerpc/client/SimpleRPCServiceAsync.java
+END
+SimpleRPCException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/simplerpc/src/com/google/gwt/sample/simplerpc/client/SimpleRPCException.java
+END
+SimpleRPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/samples/simplerpc/src/com/google/gwt/sample/simplerpc/client/SimpleRPC.java
+END

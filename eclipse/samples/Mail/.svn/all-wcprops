@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail/.project
+END
+Mail.launch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail/Mail.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail/.checkstyle
+END
+Mail-gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/eclipse/samples/Mail/Mail-gwtc.launch
+END

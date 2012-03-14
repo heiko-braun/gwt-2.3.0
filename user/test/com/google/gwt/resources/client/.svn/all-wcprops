@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client
+END
+ExternalTextResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/ExternalTextResourceTest.java
+END
+siblingTestA.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/siblingTestA.css
+END
+CSSResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/CSSResourceTest.java
+END
+siblingTestB.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/siblingTestB.css
+END
+concatenatedA.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/concatenatedA.css
+END
+complexLossy.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/complexLossy.jpg
+END
+concatenatedB.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/concatenatedB.css
+END
+hello.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/hello.txt
+END
+deftest.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/deftest.css
+END
+empty.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/empty.css
+END
+animated.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/animated.gif
+END
+unrelatedDescendants.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/unrelatedDescendants.css
+END
+ExternalTextResourceJsonpTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/ExternalTextResourceJsonpTest.java
+END
+NestedBundleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/NestedBundleTest.java
+END
+bigtextresource.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/bigtextresource.txt
+END
+ImageResourceNoInliningTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/ImageResourceNoInliningTest.java
+END
+DataResourceDoNotEmbedTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/DataResourceDoNotEmbedTest.java
+END
+largeLossy.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/largeLossy.jpg
+END
+32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/32x32.png
+END
+64x64-dup.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/64x64-dup.png
+END
+largeLossless.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/largeLossless.png
+END
+fourZeros.dat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/fourZeros.dat
+END
+test.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/test.css
+END
+16x16.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/16x16.png
+END
+shouldBeEscaped.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/shouldBeEscaped.txt
+END
+ImageResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/ImageResourceTest.java
+END
+DataResourceMimeTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/DataResourceMimeTypeTest.java
+END
+TextResourceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/TextResourceTest.java
+END
+64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/resources/client/64x64.png
+END

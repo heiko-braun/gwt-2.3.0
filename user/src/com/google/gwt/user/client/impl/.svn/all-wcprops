@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/user/client/impl
+END
+DOMImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImpl.java
+END
+initWindowScrollHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/initWindowScrollHandler.js
+END
+DocumentRootImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DocumentRootImpl.java
+END
+DOMImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplIE6.java
+END
+initWindowResizeHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/initWindowResizeHandler.js
+END
+DOMImplWebkit.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplWebkit.java
+END
+DOMImplIE8.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplIE8.java
+END
+WindowImplIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/WindowImplIE.java
+END
+DOMImplIE9.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplIE9.java
+END
+HistoryImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/HistoryImplSafari.java
+END
+AsyncProxyBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/AsyncProxyBase.java
+END
+initWindowCloseHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/initWindowCloseHandler.js
+END
+HistoryImplMozilla.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/HistoryImplMozilla.java
+END
+DOMImplStandardBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9877/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplStandardBase.java
+END
+ElementMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/ElementMapperImpl.java
+END
+DOMImplStandard.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplStandard.java
+END
+HistoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/HistoryImpl.java
+END
+HistoryImplTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/HistoryImplTimer.java
+END
+DOMImplSafari.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplSafari.java
+END
+HistoryImplIE6.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/HistoryImplIE6.java
+END
+DOMImplOpera.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplOpera.java
+END
+DOMImplMozilla.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplMozilla.java
+END
+WindowImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/impl/WindowImpl.java
+END
+DOMImplTrident.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/user/client/impl/DOMImplTrident.java
+END

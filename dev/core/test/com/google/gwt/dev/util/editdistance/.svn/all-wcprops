@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance
+END
+CharIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance/CharIndexTest.java
+END
+ModifiedBerghelRoachEditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance/ModifiedBerghelRoachEditDistanceTest.java
+END
+PatternBitmapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance/PatternBitmapTest.java
+END
+MyersBitParallelEditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance/MyersBitParallelEditDistanceTest.java
+END
+GeneralEditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/util/editdistance/GeneralEditDistanceTest.java
+END

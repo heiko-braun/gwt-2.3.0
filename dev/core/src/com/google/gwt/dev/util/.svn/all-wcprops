@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10011/releases/2.3/dev/core/src/com/google/gwt/dev/util
+END
+UnitTestTreeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/UnitTestTreeLogger.java
+END
+FileBackedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/FileBackedObject.java
+END
+JsniRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/JsniRef.java
+END
+CharArrayComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/CharArrayComparator.java
+END
+TextOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/TextOutput.java
+END
+BrowserLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/BrowserLauncher.java
+END
+OutputFileSetOnJar.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/OutputFileSetOnJar.java
+END
+NullOutputFileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/NullOutputFileSet.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Messages.java
+END
+HttpHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/HttpHeaders.java
+END
+StringKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/StringKey.java
+END
+Either.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Either.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Name.java
+END
+AbstractTextOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/AbstractTextOutput.java
+END
+HtmlTextOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/HtmlTextOutput.java
+END
+PerfLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/PerfLogger.java
+END
+TypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/TypeInfo.java
+END
+Empty.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Empty.java
+END
+BrowserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/BrowserInfo.java
+END
+InstalledHelpInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/InstalledHelpInfo.java
+END
+Memory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Memory.java
+END
+StringCopier.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/StringCopier.java
+END
+DefaultTextOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/DefaultTextOutput.java
+END
+OutputFileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/OutputFileSet.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10011/releases/2.3/dev/core/src/com/google/gwt/dev/util/Util.java
+END
+StringInterner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/StringInterner.java
+END
+DiskCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/DiskCache.java
+END
+Preconditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Preconditions.java
+END
+CollapsedPropertyKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/CollapsedPropertyKey.java
+END
+NetProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/NetProxy.java
+END
+Strings.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9929/releases/2.3/dev/core/src/com/google/gwt/dev/util/Strings.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Pair.java
+END
+PerfCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/PerfCounter.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/Callback.java
+END
+OutputFileSetOnDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/util/OutputFileSetOnDirectory.java
+END

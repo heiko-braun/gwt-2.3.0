@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src
+END
+topics-index.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-index.xslt
+END
+topics-htmls.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-htmls.xslt
+END
+topics-hhk.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-hhk.xslt
+END
+topics-hhp.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-hhp.xslt
+END
+java-topics.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/java-topics.xslt
+END
+topics-hhc.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-hhc.xslt
+END
+doc.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/doc.css
+END
+booklet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/booklet.xsd
+END
+doc-topics.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/doc-topics.xslt
+END
+topics-toc.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics-toc.xslt
+END
+topics.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/topics.xsd
+END
+javascript-topics.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/build-tools/doctool/src/javascript-topics.xslt
+END

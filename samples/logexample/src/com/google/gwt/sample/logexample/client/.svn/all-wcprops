@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client
+END
+OneLoggerController.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/OneLoggerController.ui.xml
+END
+CustomLogArea.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/CustomLogArea.ui.xml
+END
+ServerLoggingArea.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/ServerLoggingArea.ui.xml
+END
+HandlerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/HandlerController.java
+END
+LoggerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/LoggerController.java
+END
+CustomLogArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/CustomLogArea.java
+END
+OneLoggerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/OneLoggerController.java
+END
+ServerLoggingArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/ServerLoggingArea.java
+END
+LogExample.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/LogExample.ui.xml
+END
+HandlerController.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/HandlerController.ui.xml
+END
+LogExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/LogExample.java
+END
+LoggerController.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/logexample/src/com/google/gwt/sample/logexample/client/LoggerController.ui.xml
+END

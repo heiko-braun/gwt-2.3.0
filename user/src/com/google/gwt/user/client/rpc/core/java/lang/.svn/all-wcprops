@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang
+END
+Double_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Double_CustomFieldSerializer.java
+END
+Character_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Character_CustomFieldSerializer.java
+END
+Integer_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Integer_CustomFieldSerializer.java
+END
+StackTraceElement_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/StackTraceElement_CustomFieldSerializer.java
+END
+Short_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Short_CustomFieldSerializer.java
+END
+Boolean_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Boolean_CustomFieldSerializer.java
+END
+Long_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Long_CustomFieldSerializer.java
+END
+Void_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Void_CustomFieldSerializer.java
+END
+Byte_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Byte_CustomFieldSerializer.java
+END
+Object_Array_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Object_Array_CustomFieldSerializer.java
+END
+Float_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/Float_CustomFieldSerializer.java
+END
+String_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/lang/String_CustomFieldSerializer.java
+END

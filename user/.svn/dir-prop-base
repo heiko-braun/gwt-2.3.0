@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 43
+.checkstyle
+.classpath
+.project
+bin
+tomcat
+
+END

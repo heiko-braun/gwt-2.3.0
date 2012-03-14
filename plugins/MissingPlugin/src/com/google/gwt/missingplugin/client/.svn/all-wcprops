@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client
+END
+DownloadBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/DownloadBox.java
+END
+AllDownloadsPane.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/AllDownloadsPane.ui.xml
+END
+DownloadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/DownloadInfo.java
+END
+InferredDownloadPane.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/InferredDownloadPane.ui.xml
+END
+MissingPluginPane.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/MissingPluginPane.ui.xml
+END
+AllDownloadsPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/AllDownloadsPane.java
+END
+MissingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/MissingPlugin.java
+END
+DownloadEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/DownloadEntry.java
+END
+InferredDownloadPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/InferredDownloadPane.java
+END
+download.gif
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/download.gif
+END
+DownloadBox.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/DownloadBox.ui.xml
+END
+MissingPluginPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/MissingPluginPane.java
+END
+UnsupportedBox.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/UnsupportedBox.ui.xml
+END
+unsupported.gif
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/plugins/MissingPlugin/src/com/google/gwt/missingplugin/client/unsupported.gif
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons
+END
+RemappingSignatureAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/RemappingSignatureAdapter.java
+END
+RemappingClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/RemappingClassAdapter.java
+END
+Remapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/Remapper.java
+END
+StaticInitMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/StaticInitMerger.java
+END
+RemappingAnnotationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/RemappingAnnotationAdapter.java
+END
+EmptyVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/EmptyVisitor.java
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/Method.java
+END
+TableSwitchGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/TableSwitchGenerator.java
+END
+JSRInlinerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/JSRInlinerAdapter.java
+END
+LocalVariablesSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/LocalVariablesSorter.java
+END
+RemappingMethodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/RemappingMethodAdapter.java
+END
+SimpleRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/SimpleRemapper.java
+END
+AnalyzerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/AnalyzerAdapter.java
+END
+GeneratorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/GeneratorAdapter.java
+END
+SerialVersionUIDAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/SerialVersionUIDAdder.java
+END
+RemappingFieldAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/RemappingFieldAdapter.java
+END
+CodeSizeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/CodeSizeEvaluator.java
+END
+AdviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/asm/commons/AdviceAdapter.java
+END

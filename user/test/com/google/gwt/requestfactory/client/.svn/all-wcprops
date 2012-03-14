@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client
+END
+SimpleRequestFactoryInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/SimpleRequestFactoryInstance.java
+END
+RequestFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryTest.java
+END
+FindServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/FindServiceTest.java
+END
+RequestFactoryUnicodeEscapingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryUnicodeEscapingTest.java
+END
+RequestFactoryExceptionPropagationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryExceptionPropagationTest.java
+END
+RequestFactoryPolymorphicTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryPolymorphicTest.java
+END
+RequestFactoryTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryTestBase.java
+END
+RequestFactoryExceptionHandlerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/client/RequestFactoryExceptionHandlerTest.java
+END

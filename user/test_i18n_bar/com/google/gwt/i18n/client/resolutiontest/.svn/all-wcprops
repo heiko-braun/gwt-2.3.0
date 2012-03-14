@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest
+END
+Inners_HasInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_HasInner.properties
+END
+Inners_InnerClass_InnerInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_InnerClass_InnerInner.properties
+END
+Inners_InnerClass_ProtectedInnerInnerClass_ExtendsAnotherInner_ExtendProtectedInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_InnerClass_ProtectedInnerInnerClass_ExtendsAnotherInner_ExtendProtectedInner.properties
+END
+Inners_HasInner_IsInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_HasInner_IsInner.properties
+END
+Inners_InnerClass_ProtectedInnerInnerClass_ExtendsAnotherInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_InnerClass_ProtectedInnerInnerClass_ExtendsAnotherInner.properties
+END
+Inners_InnerClass_InnerInnerMessages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_InnerClass_InnerInnerMessages.properties
+END
+Inners_ExtendsInnerInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_ExtendsInnerInner.properties
+END
+Inners_SimpleInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_SimpleInner.properties
+END
+Inners_ProtectedInner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/user/test_i18n_bar/com/google/gwt/i18n/client/resolutiontest/Inners_ProtectedInner.properties
+END

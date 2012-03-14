@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants
+END
+ConstantsAssumption.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantsAssumption.java
+END
+ConstantsAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantsAnalysis.java
+END
+FoldConstantTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/FoldConstantTransformer.java
+END
+ConstantsIntegratedFlowFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantsIntegratedFlowFunction.java
+END
+ExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ExpressionEvaluator.java
+END
+ConstantConditionTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantConditionTransformation.java
+END
+FoldConstantsTransformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/FoldConstantsTransformation.java
+END
+ConstantsTransformationFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantsTransformationFunction.java
+END
+ConstantsFlowFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/ConstantsFlowFunction.java
+END
+AssumptionDeducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/jjs/impl/gflow/constants/AssumptionDeducer.java
+END

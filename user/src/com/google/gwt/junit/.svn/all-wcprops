@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9935/releases/2.3/user/src/com/google/gwt/junit
+END
+NoBatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/NoBatchingStrategy.java
+END
+RunStyleRemoteWeb.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyleRemoteWeb.java
+END
+BatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/BatchingStrategy.java
+END
+JUnitMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/JUnitMessageQueue.java
+END
+DoNotRunWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/DoNotRunWith.java
+END
+GWTMockUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/GWTMockUtilities.java
+END
+ModuleBatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/ModuleBatchingStrategy.java
+END
+JUnit.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/JUnit.gwt.xml
+END
+RunStyleHtmlUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyleHtmlUnit.java
+END
+PropertyDefiningStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/PropertyDefiningStrategy.java
+END
+JUnitFatalLaunchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/JUnitFatalLaunchException.java
+END
+CompileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/CompileStrategy.java
+END
+FakeMessagesMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/FakeMessagesMaker.java
+END
+JUnitShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/JUnitShell.java
+END
+PreCompileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/PreCompileStrategy.java
+END
+RunStyleManual.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyleManual.java
+END
+Platform.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/Platform.java
+END
+SimpleCompileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/SimpleCompileStrategy.java
+END
+RunStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyle.java
+END
+RunStyleSelenium.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyleSelenium.java
+END
+ParallelCompileStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/ParallelCompileStrategy.java
+END
+ClassBatchingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/ClassBatchingStrategy.java
+END
+GWTDummyBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/GWTDummyBridge.java
+END
+RunStyleExternalBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/junit/RunStyleExternalBrowser.java
+END

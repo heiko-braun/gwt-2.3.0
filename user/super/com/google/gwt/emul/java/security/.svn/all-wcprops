@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security
+END
+MessageDigestSpi.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security/MessageDigestSpi.java
+END
+MessageDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security/MessageDigest.java
+END
+GeneralSecurityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security/GeneralSecurityException.java
+END
+NoSuchAlgorithmException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security/NoSuchAlgorithmException.java
+END
+DigestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/security/DigestException.java
+END

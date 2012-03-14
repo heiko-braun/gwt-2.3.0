@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages
+END
+IdMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/IdMessage.java
+END
+VersionedMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/VersionedMessage.java
+END
+ServerFailureMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/ServerFailureMessage.java
+END
+ResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/ResponseMessage.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/package-info.java
+END
+OperationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/OperationMessage.java
+END
+JsonRpcRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/JsonRpcRequest.java
+END
+ViolationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/ViolationMessage.java
+END
+MessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/MessageFactory.java
+END
+RequestMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/RequestMessage.java
+END
+InvocationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/messages/InvocationMessage.java
+END

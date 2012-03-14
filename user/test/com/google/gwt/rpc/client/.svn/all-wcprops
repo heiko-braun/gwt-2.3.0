@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client
+END
+RpcRecursiveClassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcRecursiveClassTest.java
+END
+RpcRunTimeSerializationErrorsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcRunTimeSerializationErrorsTest.java
+END
+RpcCollectionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcCollectionsTest.java
+END
+RpcUnicodeEscapingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcUnicodeEscapingTest.java
+END
+RpcValueTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcValueTypesTest.java
+END
+RpcRemoteServiceServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcRemoteServiceServletTest.java
+END
+RpcEnumsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcEnumsTest.java
+END
+RpcCustomFieldSerializerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcCustomFieldSerializerTest.java
+END
+RpcObjectGraphTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcObjectGraphTest.java
+END
+RpcInheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/rpc/client/RpcInheritanceTest.java
+END

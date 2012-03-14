@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9956/releases/2.3/user/test/com/google/gwt/view/client
+END
+MockHasData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/MockHasData.java
+END
+ListDataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/ListDataProviderTest.java
+END
+MockSelectionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/MockSelectionModel.java
+END
+MultiSelectionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/MultiSelectionModelTest.java
+END
+AsyncDataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/AsyncDataProviderTest.java
+END
+NoSelectionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/NoSelectionModelTest.java
+END
+DefaultNodeInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/DefaultNodeInfoTest.java
+END
+DefaultSelectionEventManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9956/releases/2.3/user/test/com/google/gwt/view/client/DefaultSelectionEventManagerTest.java
+END
+AbstractDataProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/AbstractDataProviderTest.java
+END
+SingleSelectionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/SingleSelectionModelTest.java
+END
+AbstractSelectionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/AbstractSelectionModelTest.java
+END
+DefaultSelectionModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/DefaultSelectionModelTest.java
+END
+RangeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/view/client/RangeTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind
+END
+CachedPropertyInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/CachedPropertyInformation.java
+END
+RebindResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/RebindResult.java
+END
+RebindStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/RebindStatus.java
+END
+RebindCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/RebindCache.java
+END
+CachedRebindResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/CachedRebindResult.java
+END
+CachedClientDataMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/javac/rebind/CachedClientDataMap.java
+END

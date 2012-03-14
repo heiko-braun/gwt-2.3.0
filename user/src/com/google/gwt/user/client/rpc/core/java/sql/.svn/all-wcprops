@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/sql
+END
+Date_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/sql/Date_CustomFieldSerializer.java
+END
+Time_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/sql/Time_CustomFieldSerializer.java
+END
+Timestamp_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/client/rpc/core/java/sql/Timestamp_CustomFieldSerializer.java
+END

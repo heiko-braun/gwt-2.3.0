@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin
+END
+WebFrameNonTigerHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/WebFrameNonTigerHeaders.h
+END
+SlowScriptProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/SlowScriptProxy.h
+END
+OophmWebScriptObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/OophmWebScriptObject.h
+END
+OophmWebScriptObject.mm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/OophmWebScriptObject.mm
+END
+SlowScriptProxy.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/SlowScriptProxy.m
+END
+OophmPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/OophmPlugin.h
+END
+NSMutableString+HtmlReplacement.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/NSMutableString+HtmlReplacement.h
+END
+OophmPlugin.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/OophmPlugin.mm
+END
+NSMutableString+HtmlReplacement.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/NSMutableString+HtmlReplacement.m
+END
+Debug.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/webkit/Plugin/Debug.mm
+END

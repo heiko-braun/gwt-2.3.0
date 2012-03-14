@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/lang
+END
+LongLibTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/lang/LongLibTestBase.java
+END
+LongLibTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/lang/LongLibTest.java
+END
+LongLibJreTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/lang/LongLibJreTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9875/releases/2.3/user/src/javax/validation
+END
+ConstraintViolationException_CustomFieldSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/user/src/javax/validation/ConstraintViolationException_CustomFieldSerializer.java
+END
+Validation.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/javax/validation/Validation.gwt.xml
+END

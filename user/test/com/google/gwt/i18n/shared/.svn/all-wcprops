@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared
+END
+SafeHtmlBidiFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/SafeHtmlBidiFormatterTest.java
+END
+AnyRtlDirectionEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/AnyRtlDirectionEstimatorTest.java
+END
+DirectionEstimatorTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/DirectionEstimatorTestBase.java
+END
+BidiFormatterBaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/BidiFormatterBaseTest.java
+END
+BidiUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/BidiUtilsTest.java
+END
+GwtBidiUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/GwtBidiUtilsTest.java
+END
+BidiFormatterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/BidiFormatterTest.java
+END
+WordCountDirectionEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/WordCountDirectionEstimatorTest.java
+END
+FirstStrongDirectionEstimatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/shared/FirstStrongDirectionEstimatorTest.java
+END

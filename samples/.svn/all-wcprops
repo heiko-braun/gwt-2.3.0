@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/10112/releases/2.3/samples
+END
+common.ant.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/samples/common.ant.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9875/releases/2.3/samples/build.xml
+END

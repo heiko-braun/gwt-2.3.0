@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/eclipse/tools/cldr-import
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/eclipse/tools/cldr-import/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/eclipse/tools/cldr-import/.project
+END
+GenerateGwtCldrData.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/eclipse/tools/cldr-import/GenerateGwtCldrData.launch
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/eclipse/tools/cldr-import/.checkstyle
+END

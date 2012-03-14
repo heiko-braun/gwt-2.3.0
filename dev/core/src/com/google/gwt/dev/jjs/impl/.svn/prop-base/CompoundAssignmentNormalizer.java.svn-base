@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 91
+/trunk/dev/core/src/com/google/gwt/dev/jjs/impl/CompoundAssignmentNormalizer.java:9849-9903
+K 13
+svn:mime-type
+V 11
+text/x-java
+END

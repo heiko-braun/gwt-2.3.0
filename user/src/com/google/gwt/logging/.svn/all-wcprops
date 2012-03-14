@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging
+END
+LogImpl.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/LogImpl.gwt.xml
+END
+Logging.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/Logging.gwt.xml
+END
+LoggingDisabled.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/logging/LoggingDisabled.gwt.xml
+END

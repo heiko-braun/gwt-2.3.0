@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/Counter.java
+END
+ImageResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/ImageResourceGenerator.java
+END
+ImageBundleBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/ImageBundleBuilder.java
+END
+UnsuitableForStripException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/UnsuitableForStripException.java
+END
+TextResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/TextResourceGenerator.java
+END
+GwtCreateResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/GwtCreateResourceGenerator.java
+END
+ExternalTextResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/ExternalTextResourceGenerator.java
+END
+CssResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/CssResourceGenerator.java
+END
+BundleResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/BundleResourceGenerator.java
+END
+DataResourceGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/resources/rg/DataResourceGenerator.java
+END

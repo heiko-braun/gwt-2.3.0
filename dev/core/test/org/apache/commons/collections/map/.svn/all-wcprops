@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/org/apache/commons/collections/map
+END
+AbstractTestMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/org/apache/commons/collections/map/AbstractTestMap.java
+END
+TestIdentityMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/org/apache/commons/collections/map/TestIdentityMap.java
+END
+AbstractTestIterableMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/org/apache/commons/collections/map/AbstractTestIterableMap.java
+END

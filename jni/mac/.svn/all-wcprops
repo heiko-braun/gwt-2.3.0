@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9849/releases/2.3/jni/mac
+END
+trace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9849/releases/2.3/jni/mac/trace.cpp
+END
+java-dispatch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/jni/mac/java-dispatch.cpp
+END
+JStringWrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/jni/mac/JStringWrap.h
+END
+java-dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/jni/mac/java-dispatch.h
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9849/releases/2.3/jni/mac/trace.h
+END
+gwt-webkit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/jni/mac/gwt-webkit.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9849/releases/2.3/jni/mac/Makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9849/releases/2.3/jni/mac/build.xml
+END

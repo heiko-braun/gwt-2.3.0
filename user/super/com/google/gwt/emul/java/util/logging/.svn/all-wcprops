@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/Logger.java
+END
+LogRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/LogRecord.java
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/Formatter.java
+END
+Level.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/Level.java
+END
+LogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/LogManager.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/logging/Handler.java
+END

@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10070/releases/2.3/dev/core/src/com/google/gwt/dev
+END
+PermutationWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/PermutationWorker.java
+END
+RunWebApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/RunWebApp.java
+END
+ArgProcessorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ArgProcessorBase.java
+END
+ModulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ModulePanel.java
+END
+CompileTaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileTaskRunner.java
+END
+GWTMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/GWTMain.java
+END
+Permutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Permutation.java
+END
+JUnitCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/JUnitCreator.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/About.java
+END
+ArgHandlerOutDirDeprecated.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ArgHandlerOutDirDeprecated.java
+END
+ServletWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ServletWriter.java
+END
+CompileArgProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileArgProcessor.java
+END
+ApplicationCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ApplicationCreator.java
+END
+About.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/About.properties
+END
+PrecompileOnePerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/PrecompileOnePerm.java
+END
+CompilerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompilerOptions.java
+END
+HeadlessUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/HeadlessUI.java
+END
+GWTShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/GWTShell.java
+END
+SessionModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/SessionModule.java
+END
+ServletValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ServletValidator.java
+END
+HostedMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/HostedMode.java
+END
+ExternalPermutationWorkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ExternalPermutationWorkerFactory.java
+END
+DistillerRebindPermutationOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/DistillerRebindPermutationOracle.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Link.java
+END
+CompileModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileModule.java
+END
+GetJreEmulation.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/GetJreEmulation.java
+END
+Precompile.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Precompile.java
+END
+CompilePerms.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompilePerms.java
+END
+ModuleHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ModuleHandle.java
+END
+DevelModeTabKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/DevelModeTabKey.java
+END
+RebindAnswersPermutationKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/RebindAnswersPermutationKey.java
+END
+HostedModeOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/HostedModeOptions.java
+END
+GwtVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/GwtVersion.java
+END
+CompileTaskOptionsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileTaskOptionsImpl.java
+END
+AnalyzeModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/AnalyzeModule.java
+END
+Compiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Compiler.java
+END
+LegacyCompilerOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/LegacyCompilerOptions.java
+END
+Disconnectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Disconnectable.java
+END
+CompileOnePerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileOnePerm.java
+END
+DevModeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/DevModeBase.java
+END
+SignatureDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/SignatureDumper.java
+END
+TransientWorkerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/TransientWorkerException.java
+END
+BootStrapPlatform.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/BootStrapPlatform.java
+END
+DevMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/DevMode.java
+END
+WebServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/WebServerPanel.java
+END
+PrecompilationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/PrecompilationResult.java
+END
+SwingUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/SwingUI.java
+END
+Precompilation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/Precompilation.java
+END
+CompilePermsServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompilePermsServer.java
+END
+CompileTaskOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/CompileTaskOptions.java
+END
+PermutationWorkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/PermutationWorkerFactory.java
+END
+ThreadedPermutationWorkerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ThreadedPermutationWorkerFactory.java
+END
+GWTCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/GWTCompiler.java
+END
+ModuleTabPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/ModuleTabPanel.java
+END

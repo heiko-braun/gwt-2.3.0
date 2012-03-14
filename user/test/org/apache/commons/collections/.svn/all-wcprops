@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections
+END
+LocalTestNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/LocalTestNode.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/package-info.java
+END
+DefaultMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/DefaultMapEntry.java
+END
+TestObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestObject.java
+END
+TestComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestComparator.java
+END
+TestIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestIterator.java
+END
+AbstractTestListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/AbstractTestListIterator.java
+END
+TestArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestArrayList.java
+END
+TestCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestCollection.java
+END
+TestSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestSet.java
+END
+TestList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestList.java
+END
+TestMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/test/org/apache/commons/collections/TestMap.java
+END

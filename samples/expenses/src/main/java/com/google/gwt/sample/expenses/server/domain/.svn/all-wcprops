@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain
+END
+Employee.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/Employee.java
+END
+Expense.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/Expense.java
+END
+EMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/EMF.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/Report.java
+END
+EntityCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/EntityCounter.java
+END
+ReportBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9849/releases/2.3/samples/expenses/src/main/java/com/google/gwt/sample/expenses/server/domain/ReportBack.java
+END

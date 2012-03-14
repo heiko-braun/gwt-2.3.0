@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/safecss/shared
+END
+SafeStylesBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/safecss/shared/SafeStylesBuilderTest.java
+END
+SafeStylesStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/safecss/shared/SafeStylesStringTest.java
+END
+GwtSafeStylesStringTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/safecss/shared/GwtSafeStylesStringTest.java
+END
+GwtSafeStylesBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9978/releases/2.3/user/test/com/google/gwt/safecss/shared/GwtSafeStylesBuilderTest.java
+END

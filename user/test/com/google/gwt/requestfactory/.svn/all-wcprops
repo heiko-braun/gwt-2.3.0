@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9907/releases/2.3/user/test/com/google/gwt/requestfactory
+END
+RequestFactorySuite.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/RequestFactorySuite.gwt.xml
+END
+RequestFactorySuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9907/releases/2.3/user/test/com/google/gwt/requestfactory/RequestFactorySuite.java
+END
+RequestFactoryJreSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9907/releases/2.3/user/test/com/google/gwt/requestfactory/RequestFactoryJreSuite.java
+END
+RequestFactoryExceptionHandlerTest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/requestfactory/RequestFactoryExceptionHandlerTest.gwt.xml
+END

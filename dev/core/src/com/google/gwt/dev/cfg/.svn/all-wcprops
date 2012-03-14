@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10068/releases/2.3/dev/core/src/com/google/gwt/dev/cfg
+END
+ConditionWhenLinkerAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionWhenLinkerAdded.java
+END
+PropertyPermutations.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/PropertyPermutations.java
+END
+PropertyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/PropertyProvider.java
+END
+RuleReplaceWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/RuleReplaceWith.java
+END
+DeferredBindingQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/DeferredBindingQuery.java
+END
+RuleFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/RuleFail.java
+END
+ModuleDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ModuleDef.java
+END
+Script.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Script.java
+END
+ConditionWhenTypeIs.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionWhenTypeIs.java
+END
+ConditionNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionNone.java
+END
+ConditionWhenTypeAssignableTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10068/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionWhenTypeAssignableTo.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Messages.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Rule.java
+END
+ConditionWhenPropertyIs.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionWhenPropertyIs.java
+END
+Conditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Conditions.java
+END
+ConfigurationProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConfigurationProperty.java
+END
+RuleGenerateWith.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/RuleGenerateWith.java
+END
+BindingProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/BindingProperty.java
+END
+ConditionAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionAll.java
+END
+StaticPropertyOracle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/StaticPropertyOracle.java
+END
+Styles.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Styles.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Property.java
+END
+ModuleDefSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ModuleDefSchema.java
+END
+Condition.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Condition.java
+END
+Scripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Scripts.java
+END
+Rules.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Rules.java
+END
+CompoundCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/CompoundCondition.java
+END
+ModuleDefLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ModuleDefLoader.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/Properties.java
+END
+ConditionAny.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/cfg/ConditionAny.java
+END

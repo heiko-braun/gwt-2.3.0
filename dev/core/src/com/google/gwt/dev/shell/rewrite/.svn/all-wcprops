@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite
+END
+ForceClassVersion15.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/ForceClassVersion15.java
+END
+HostedModeClassRewriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/HostedModeClassRewriter.java
+END
+HasAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/HasAnnotation.java
+END
+WriteJsoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/WriteJsoImpl.java
+END
+RewriteSingleJsoImplDispatches.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/RewriteSingleJsoImplDispatches.java
+END
+RewriteJsniMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/RewriteJsniMethods.java
+END
+UseMirroredClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/UseMirroredClasses.java
+END
+RewriteRefsToJsoClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/dev/shell/rewrite/RewriteRefsToJsoClasses.java
+END

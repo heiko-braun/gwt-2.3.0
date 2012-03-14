@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10028/releases/2.3/user/src/com/google/gwt/event/dom
+END
+DomEvent.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9874/releases/2.3/user/src/com/google/gwt/event/dom/DomEvent.gwt.xml
+END
+TouchEvent.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9874/releases/2.3/user/src/com/google/gwt/event/dom/TouchEvent.gwt.xml
+END

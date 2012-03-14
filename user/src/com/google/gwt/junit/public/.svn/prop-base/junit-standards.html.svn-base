@@ -1,0 +1,21 @@
+K 9
+eol-style
+V 6
+native
+K 9
+mime-type
+V 9
+text/html
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 74
+/trunk/user/src/com/google/gwt/junit/public/junit-standards.html:9878,9915
+K 13
+svn:mime-type
+V 27
+text/html; charset=us-ascii
+END

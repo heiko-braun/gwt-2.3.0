@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client
+END
+common.css
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/common.css
+END
+PersonEditorWorkflow.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/PersonEditorWorkflow.ui.xml
+END
+ErrorDialog.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/ErrorDialog.ui.xml
+END
+DynaTableRf.ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/DynaTableRf.ui.xml
+END
+PersonEditorWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/PersonEditorWorkflow.java
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/ErrorDialog.java
+END
+DynaTableRf.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/DynaTableRf.java
+END
+FavoritesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/client/FavoritesManager.java
+END

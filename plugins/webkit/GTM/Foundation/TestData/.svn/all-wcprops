@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24/trunk/Foundation/TestData
+END
+GTMHTTPFetcherTestServer
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/24/trunk/Foundation/TestData/GTMHTTPFetcherTestServer
+END
+GTMHTTPFetcherTestPage.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/24/trunk/Foundation/TestData/GTMHTTPFetcherTestPage.html
+END

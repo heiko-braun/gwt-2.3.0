@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker
+END
+SymbolData.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/SymbolData.java
+END
+SoftPermutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/SoftPermutation.java
+END
+StatementRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/StatementRanges.java
+END
+GeneratedResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/GeneratedResource.java
+END
+PropertyProviderGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/PropertyProviderGenerator.java
+END
+AbstractLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/AbstractLinker.java
+END
+Transferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/Transferable.java
+END
+StylesheetReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/StylesheetReference.java
+END
+ArtifactSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/ArtifactSet.java
+END
+EmittedArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/EmittedArtifact.java
+END
+ConfigurationProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/ConfigurationProperty.java
+END
+CompilationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/CompilationResult.java
+END
+BinaryEmittedArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/BinaryEmittedArtifact.java
+END
+CastableTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/CastableTypeMap.java
+END
+LinkerOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/LinkerOrder.java
+END
+CompilationMetricsArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/CompilationMetricsArtifact.java
+END
+ScriptReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/ScriptReference.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/package-info.java
+END
+Shardable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/Shardable.java
+END
+PublicResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/PublicResource.java
+END
+SyntheticArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/SyntheticArtifact.java
+END
+SelectionProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/SelectionProperty.java
+END
+PrecompilationMetricsArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/PrecompilationMetricsArtifact.java
+END
+ModuleMetricsArtifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/ModuleMetricsArtifact.java
+END
+Artifact.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/linker/Artifact.java
+END

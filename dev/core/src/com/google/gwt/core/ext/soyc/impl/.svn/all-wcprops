@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl
+END
+MemberFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/MemberFactory.java
+END
+StoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StoryImpl.java
+END
+DependencyRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/DependencyRecorder.java
+END
+StoryRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StoryRecorder.java
+END
+StandardMethodMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StandardMethodMember.java
+END
+StoryImplComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StoryImplComparator.java
+END
+AbstractMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/AbstractMember.java
+END
+SplitPointRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/SplitPointRecorder.java
+END
+StandardFieldMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StandardFieldMember.java
+END
+SizeMapRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/SizeMapRecorder.java
+END
+AbstractMemberWithDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/AbstractMemberWithDependencies.java
+END
+StandardClassMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/dev/core/src/com/google/gwt/core/ext/soyc/impl/StandardClassMember.java
+END

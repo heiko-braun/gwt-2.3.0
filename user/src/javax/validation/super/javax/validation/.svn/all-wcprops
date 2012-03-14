@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9875/releases/2.3/user/src/javax/validation/super/javax/validation
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/javax/validation/super/javax/validation/Configuration.java
+END
+MessageInterpolator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9849/releases/2.3/user/src/javax/validation/super/javax/validation/MessageInterpolator.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9875/releases/2.3/user/src/javax/validation/super/javax/validation/Validation.java
+END

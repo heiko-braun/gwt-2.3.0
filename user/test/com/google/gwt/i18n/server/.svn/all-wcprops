@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server
+END
+MessageInterfaceTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/MessageInterfaceTestBase.java
+END
+GwtLocaleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/GwtLocaleTest.java
+END
+MessageCatalogFactoryTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/MessageCatalogFactoryTestBase.java
+END
+PropertyCatalogFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/PropertyCatalogFactoryTest.java
+END
+MessageFormatParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/MessageFormatParserTest.java
+END
+RegionInheritanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/test/com/google/gwt/i18n/server/RegionInheritanceTest.java
+END

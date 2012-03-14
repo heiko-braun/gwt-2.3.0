@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/templates/_eclipse-test
+END
+_moduleShortName_Test-dev.launchsrc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/templates/_eclipse-test/_moduleShortName_Test-dev.launchsrc
+END
+_moduleShortName_Test-prod.launchsrc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/tools/templates/_eclipse-test/_moduleShortName_Test-prod.launchsrc
+END

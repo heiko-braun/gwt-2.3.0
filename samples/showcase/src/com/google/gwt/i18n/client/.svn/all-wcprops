@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/i18n/client
+END
+LocalizableResource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/i18n/client/LocalizableResource.properties
+END
+LocalizableResource_zh.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/i18n/client/LocalizableResource_zh.properties
+END
+LocalizableResource_ar.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/i18n/client/LocalizableResource_ar.properties
+END
+LocalizableResource_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/showcase/src/com/google/gwt/i18n/client/LocalizableResource_fr.properties
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/common/testing
+END
+testdebug
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/common/testing/testdebug
+END
+DebugTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/common/testing/DebugTest.cpp
+END

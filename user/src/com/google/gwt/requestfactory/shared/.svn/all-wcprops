@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared
+END
+LoggingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/LoggingRequest.java
+END
+JsonRpcService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/JsonRpcService.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/Service.java
+END
+ServiceName.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ServiceName.java
+END
+Locator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/Locator.java
+END
+DefaultProxyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/DefaultProxyStore.java
+END
+Violation.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/Violation.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/Receiver.java
+END
+RequestTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/RequestTransport.java
+END
+JsonRpcWireName.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/JsonRpcWireName.java
+END
+JsonRpcContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/JsonRpcContent.java
+END
+ProxySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ProxySerializer.java
+END
+WriteOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/WriteOperation.java
+END
+BaseProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/BaseProxy.java
+END
+InstanceRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/InstanceRequest.java
+END
+ServerFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ServerFailure.java
+END
+EntityProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/EntityProxy.java
+END
+ValueProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ValueProxy.java
+END
+JsonRpcProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/JsonRpcProxy.java
+END
+RequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/RequestFactory.java
+END
+EntityProxyChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/EntityProxyChange.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/package-info.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ServiceLocator.java
+END
+ProxyFor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ProxyFor.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/Request.java
+END
+ProxyForName.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ProxyForName.java
+END
+EntityProxyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/EntityProxyId.java
+END
+RequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/RequestContext.java
+END
+ProxyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/requestfactory/shared/ProxyStore.java
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom
+END
+mozincludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/mozincludes.h
+END
+Preferences.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/Preferences.cpp
+END
+FFSessionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/FFSessionHandler.h
+END
+XpcomDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/XpcomDebug.h
+END
+xpGwtDevPlugin.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/xpGwtDevPlugin.def
+END
+version
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/version
+END
+getversion
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/getversion
+END
+JSRunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/JSRunner.cpp
+END
+Preferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/Preferences.h
+END
+install-template.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/install-template.rdf
+END
+JavaObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/JavaObject.cpp
+END
+xpGwtDevPlugin.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/xpGwtDevPlugin.rc
+END
+JSRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/JSRunner.h
+END
+JavaObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/JavaObject.h
+END
+UserAgents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/UserAgents.txt
+END
+IOOPHM.idl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/IOOPHM.idl
+END
+SessionData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/SessionData.h
+END
+ExternalWrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/ExternalWrapper.cpp
+END
+IOOPHM.xpt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/IOOPHM.xpt
+END
+ExternalWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/ExternalWrapper.h
+END
+ModuleOOPHM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/ModuleOOPHM.cpp
+END
+RootedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/RootedObject.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/Makefile
+END
+FFSessionHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/FFSessionHandler.cpp
+END
+XpcomDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/xpcom/XpcomDebug.cpp
+END

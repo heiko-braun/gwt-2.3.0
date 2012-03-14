@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9984/releases/2.3/user/super/com/google/gwt/emul/java/util
+END
+HashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/HashSet.java
+END
+Arrays.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Arrays.java
+END
+EmptyStackException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/EmptyStackException.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Utility.java
+END
+AbstractHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractHashMap.java
+END
+Comparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Comparator.java
+END
+EventObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/EventObject.java
+END
+AbstractQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractQueue.java
+END
+ArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/ArrayList.java
+END
+TreeSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/TreeSet.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/List.java
+END
+SortedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/SortedSet.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Map.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Date.java
+END
+Collections.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Collections.java
+END
+AbstractCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractCollection.java
+END
+MapEntryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/MapEntryImpl.java
+END
+ListIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/ListIterator.java
+END
+NoSuchElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/NoSuchElementException.java
+END
+Iterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Iterator.java
+END
+AbstractSequentialList.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractSequentialList.java
+END
+Comparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Comparators.java
+END
+Set.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Set.java
+END
+TooManyListenersException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/TooManyListenersException.java
+END
+AbstractList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractList.java
+END
+MissingResourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/MissingResourceException.java
+END
+AbstractMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractMap.java
+END
+EnumMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/EnumMap.java
+END
+Vector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Vector.java
+END
+RandomAccess.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/RandomAccess.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/LinkedList.java
+END
+Stack.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Stack.java
+END
+LinkedHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/LinkedHashMap.java
+END
+AbstractSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractSet.java
+END
+Random.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Random.java
+END
+EnumSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/EnumSet.java
+END
+HashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/HashMap.java
+END
+AbstractMapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/AbstractMapEntry.java
+END
+Queue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Queue.java
+END
+LinkedHashSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/LinkedHashSet.java
+END
+PriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/PriorityQueue.java
+END
+Enumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Enumeration.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/EventListener.java
+END
+ConcurrentModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/ConcurrentModificationException.java
+END
+IdentityHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9984/releases/2.3/user/super/com/google/gwt/emul/java/util/IdentityHashMap.java
+END
+Collection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/Collection.java
+END
+TreeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/TreeMap.java
+END
+SortedMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/user/super/com/google/gwt/emul/java/util/SortedMap.java
+END

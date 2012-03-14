@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/9849/releases/2.3/plugins/common
+END
+AllowedConnections.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/common/AllowedConnections.h
+END
+InvokeMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/common/InvokeMessage.cpp
+END
+Makefile.sun
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Makefile.sun
+END
+ChooseTransportMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ChooseTransportMessage.cpp
+END
+ByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ByteOrder.h
+END
+InvokeSpecialMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/plugins/common/InvokeSpecialMessage.h
+END
+HostChannel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/common/HostChannel.cpp
+END
+LoadJsniMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/common/LoadJsniMessage.cpp
+END
+FatalErrorMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/common/FatalErrorMessage.h
+END
+ProtocolVersionMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ProtocolVersionMessage.cpp
+END
+CheckVersionsMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/plugins/common/CheckVersionsMessage.h
+END
+BrowserChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/common/BrowserChannel.h
+END
+Value.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Value.h
+END
+SwitchTransportMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/common/SwitchTransportMessage.cpp
+END
+DebugLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9849/releases/2.3/plugins/common/DebugLevel.h
+END
+FreeValueMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/common/FreeValueMessage.cpp
+END
+ReturnMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ReturnMessage.cpp
+END
+SessionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/common/SessionHandler.h
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Debug.cpp
+END
+AllowedConnections.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/plugins/common/AllowedConnections.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Makefile
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Socket.h
+END
+LoadModuleMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/common/LoadModuleMessage.h
+END
+ServerMethods.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ServerMethods.h
+END
+InvokeSpecialMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/common/InvokeSpecialMessage.cpp
+END
+InvokeMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/common/InvokeMessage.h
+END
+FatalErrorMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/common/FatalErrorMessage.cpp
+END
+ChooseTransportMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ChooseTransportMessage.h
+END
+HostChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/common/HostChannel.h
+END
+CheckVersionsMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/common/CheckVersionsMessage.cpp
+END
+LoadJsniMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/common/LoadJsniMessage.h
+END
+ProtocolVersionMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ProtocolVersionMessage.h
+END
+HashMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/common/HashMap.h
+END
+FreeValueMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/common/FreeValueMessage.h
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Socket.cpp
+END
+SwitchTransportMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9849/releases/2.3/plugins/common/SwitchTransportMessage.h
+END
+ReturnMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ReturnMessage.h
+END
+Platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Platform.h
+END
+Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Message.h
+END
+LoadModuleMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/common/LoadModuleMessage.cpp
+END
+ServerMethods.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/common/ServerMethods.cpp
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/common/Debug.h
+END
+QuitMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9849/releases/2.3/plugins/common/QuitMessage.h
+END

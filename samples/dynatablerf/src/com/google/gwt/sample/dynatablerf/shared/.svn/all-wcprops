@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared
+END
+TimeSlotProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared/TimeSlotProxy.java
+END
+DynaTableRequestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared/DynaTableRequestFactory.java
+END
+AddressProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared/AddressProxy.java
+END
+PersonProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared/PersonProxy.java
+END
+ScheduleProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9849/releases/2.3/samples/dynatablerf/src/com/google/gwt/sample/dynatablerf/shared/ScheduleProxy.java
+END

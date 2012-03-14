@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10027/releases/2.3/dev/core/test/com/google/gwt/dev
+END
+invalid.web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/invalid.web.xml
+END
+DevelModeTabKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/DevelModeTabKeyTest.java
+END
+ArgProcessorTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/ArgProcessorTestBase.java
+END
+GwtVersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/GwtVersionTest.java
+END
+SwingTreeLoggerTestApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/SwingTreeLoggerTestApp.java
+END
+SessionModuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/SessionModuleTest.java
+END
+GWTShellTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/GWTShellTest.java
+END
+CompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/CompilerTest.java
+END
+AboutTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/AboutTest.java
+END
+valid.web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/valid.web.xml
+END
+ServletValidatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/ServletValidatorTest.java
+END
+HostedModeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/HostedModeTest.java
+END
+GWTCompilerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/GWTCompilerTest.java
+END
+SoycTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/dev/core/test/com/google/gwt/dev/SoycTest.java
+END

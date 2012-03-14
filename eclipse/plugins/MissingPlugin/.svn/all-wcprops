@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin/.classpath
+END
+MissingPlugin.launch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin/MissingPlugin.launch
+END
+MissingPlugin-gwtc.launch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin/MissingPlugin-gwtc.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin/.project
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/eclipse/plugins/MissingPlugin/.checkstyle
+END

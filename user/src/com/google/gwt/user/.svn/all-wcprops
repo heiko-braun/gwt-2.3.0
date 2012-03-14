@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10070/releases/2.3/user/src/com/google/gwt/user
+END
+DocumentRoot.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/DocumentRoot.gwt.xml
+END
+ClippedImage.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/ClippedImage.gwt.xml
+END
+FileUpload.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/FileUpload.gwt.xml
+END
+Debug.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Debug.gwt.xml
+END
+HTTPRequest.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/HTTPRequest.gwt.xml
+END
+RichText.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/RichText.gwt.xml
+END
+TextBox.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/TextBox.gwt.xml
+END
+UserAgent.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/UserAgent.gwt.xml
+END
+RemoteServiceObfuscateTypeNames.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/RemoteServiceObfuscateTypeNames.gwt.xml
+END
+Tree.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Tree.gwt.xml
+END
+History.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/History.gwt.xml
+END
+Popup.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Popup.gwt.xml
+END
+Form.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Form.gwt.xml
+END
+Hyperlink.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Hyperlink.gwt.xml
+END
+Window.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Window.gwt.xml
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/COPYING
+END
+SplitPanel.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/SplitPanel.gwt.xml
+END
+RemoteService.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/RemoteService.gwt.xml
+END
+ImageBundle.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/ImageBundle.gwt.xml
+END
+CaptionPanel.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/CaptionPanel.gwt.xml
+END
+ScrollPanel.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/ScrollPanel.gwt.xml
+END
+User.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9978/releases/2.3/user/src/com/google/gwt/user/User.gwt.xml
+END
+Focus.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/Focus.gwt.xml
+END
+AsyncProxy.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/AsyncProxy.gwt.xml
+END
+ResizeLayoutPanel.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/ResizeLayoutPanel.gwt.xml
+END
+DOM.gwt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/DOM.gwt.xml
+END

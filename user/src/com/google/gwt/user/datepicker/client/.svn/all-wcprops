@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/package-info.java
+END
+CalendarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/CalendarView.java
+END
+DateChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DateChangeEvent.java
+END
+DateBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DateBox.java
+END
+MonthSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/MonthSelector.java
+END
+CalendarUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/CalendarUtil.java
+END
+CellGridImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/CellGridImpl.java
+END
+DefaultCalendarView.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DefaultCalendarView.java
+END
+CalendarModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/CalendarModel.java
+END
+DatePicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DatePicker.java
+END
+DefaultMonthSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DefaultMonthSelector.java
+END
+DatePickerComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/user/datepicker/client/DatePickerComponent.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/stdafx.h
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/plugin.cpp
+END
+oophm.def
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.def
+END
+ExceptionCatcher.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/ExceptionCatcher.rgs
+END
+pluginUI.htm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/pluginUI.htm
+END
+oophm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.vcproj
+END
+plugin.htm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/plugin.htm
+END
+IESessionHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/IESessionHandler.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/targetver.h
+END
+JavaObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/JavaObject.cpp
+END
+dllmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/dllmain.cpp
+END
+SessionData.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/SessionData.h
+END
+IEUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/IEUtils.h
+END
+ExceptionCatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/ExceptionCatcher.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/stdafx.cpp
+END
+plugin.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/plugin.bmp
+END
+oophm.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.rgs
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/resource.h
+END
+dlldatax.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/dlldatax.c
+END
+IESessionHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/IESessionHandler.cpp
+END
+dlldatax.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/dlldatax.h
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/plugin.h
+END
+oophm.rc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.rc
+END
+dlldata.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/dlldata.c
+END
+plugin.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/plugin.rgs
+END
+oophm.idl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.idl
+END
+JavaObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/JavaObject.h
+END
+JavaObject.rgs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/JavaObject.rgs
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/Constants.h
+END
+oophm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.cpp
+END
+oophm.aps
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/oophm.aps
+END
+dllmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/dllmain.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/ReadMe.txt
+END
+ExceptionCatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9849/releases/2.3/plugins/ie/oophm/oophm/ExceptionCatcher.h
+END

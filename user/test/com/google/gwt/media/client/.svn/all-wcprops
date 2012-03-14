@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10009/releases/2.3/user/test/com/google/gwt/media/client
+END
+MediaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10009/releases/2.3/user/test/com/google/gwt/media/client/MediaTest.java
+END
+AudioTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10009/releases/2.3/user/test/com/google/gwt/media/client/AudioTest.java
+END
+VideoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10009/releases/2.3/user/test/com/google/gwt/media/client/VideoTest.java
+END

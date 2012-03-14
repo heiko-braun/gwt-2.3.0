@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared
+END
+ResizeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ResizeHandler.java
+END
+HasValueChangeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasValueChangeHandlers.java
+END
+InitializeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/InitializeHandler.java
+END
+OpenHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/OpenHandler.java
+END
+ShowRangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ShowRangeEvent.java
+END
+HasSelectionHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasSelectionHandlers.java
+END
+OpenEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/OpenEvent.java
+END
+InitializeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/InitializeEvent.java
+END
+ResizeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ResizeEvent.java
+END
+CloseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/CloseHandler.java
+END
+HighlightHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HighlightHandler.java
+END
+AttachEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/AttachEvent.java
+END
+BeforeSelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/BeforeSelectionHandler.java
+END
+CloseEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/CloseEvent.java
+END
+HighlightEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HighlightEvent.java
+END
+BeforeSelectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/BeforeSelectionEvent.java
+END
+HasShowRangeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasShowRangeHandlers.java
+END
+HasInitializeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasInitializeHandlers.java
+END
+HasOpenHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasOpenHandlers.java
+END
+HasResizeHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasResizeHandlers.java
+END
+ValueChangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ValueChangeHandler.java
+END
+HasAttachHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasAttachHandlers.java
+END
+HasCloseHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasCloseHandlers.java
+END
+SelectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/SelectionHandler.java
+END
+HasHighlightHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasHighlightHandlers.java
+END
+ValueChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ValueChangeEvent.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/package-info.java
+END
+HasBeforeSelectionHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/HasBeforeSelectionHandlers.java
+END
+SelectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/SelectionEvent.java
+END
+ShowRangeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9849/releases/2.3/user/src/com/google/gwt/event/logical/shared/ShowRangeHandler.java
+END
