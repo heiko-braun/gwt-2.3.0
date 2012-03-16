@@ -49,6 +49,7 @@ import com.google.gwt.user.cellview.client.ColumnSortList.ColumnSortInfo;
 import com.google.gwt.user.cellview.client.LoadingStateChangeEvent.LoadingState;
 import com.google.gwt.user.client.DOM;
 import com.google.gwt.user.client.Event;
+import com.google.gwt.user.client.ui.Accessibility;
 import com.google.gwt.user.client.ui.DeckPanel;
 import com.google.gwt.user.client.ui.HasHorizontalAlignment.HorizontalAlignmentConstant;
 import com.google.gwt.user.client.ui.HasVerticalAlignment.VerticalAlignmentConstant;
@@ -101,7 +102,7 @@ import java.util.Set;
  */
 public class CellTable<T> extends AbstractHasData<T> {
 
-    private String tableId = "t_"+DOM.createUniqueId();
+  private String tableId = "t_"+DOM.createUniqueId();
 
     /**
    * Resources that match the GWT standard style theme.
@@ -322,20 +323,20 @@ public class CellTable<T> extends AbstractHasData<T> {
     @Template("<div style=\"outline:none;\" tabindex=\"{0}\" accessKey=\"{1}\">{2}</div>")
     SafeHtml divFocusableWithKey(int tabIndex, char accessKey, SafeHtml contents);
 
-    @Template("<table role=\"grid\" tabindex=\"-1\"><tbody>{0}</tbody></table>")
+    @Template("<table role=\"grid\"><tbody>{0}</tbody></table>")
     SafeHtml tbody(SafeHtml rowHtml);
 
-    @Template("<td class=\"{0}\" headers=\"{1}\" role=\"gridcell\">{2}</td>")
+    @Template("<td class=\"{0}\" aria-labelledby=\"{1}\" role=\"gridcell\">{2}</td>")
     SafeHtml td(String classes, String headerId, SafeHtml contents);
 
-    @Template("<td class=\"{0}\" headers=\"{1}\" align=\"{2}\" valign=\"{3}\" role=\"gridcell\">{4}</td>")
+    @Template("<td class=\"{0}\" aria-labelledby=\"{1}\" align=\"{2}\" valign=\"{3}\" role=\"gridcell\">{4}</td>")
     SafeHtml tdBothAlign(String classes, String headerId, String hAlign, String vAlign,
         SafeHtml contents);
 
-    @Template("<td class=\"{0}\" headers=\"{1}\" align=\"{2}\" role=\"gridcell\">{3}</td>")
+    @Template("<td class=\"{0}\" aria-labelledby=\"{1}\" align=\"{2}\" role=\"gridcell\">{3}</td>")
     SafeHtml tdHorizontalAlign(String classes, String headerId, String hAlign, SafeHtml contents);
 
-    @Template("<td class=\"{0}\" headers=\"{1}\" valign=\"{2}\" role=\"gridcell\">{3}</td>")
+    @Template("<td class=\"{0}\" aria-labelledby=\"{1}\" valign=\"{2}\" role=\"gridcell\">{3}</td>")
     SafeHtml tdVerticalAlign(String classes, String headerId, String vAlign, SafeHtml contents);
 
     @Template("<table><tfoot>{0}</tfoot></table>")
@@ -343,6 +344,9 @@ public class CellTable<T> extends AbstractHasData<T> {
 
     @Template("<th id=\"{0}\" colspan=\"{1}\" class=\"{2}\" role=\"columnheader\">{3}</th>")
     SafeHtml th(String id, int colspan, String classes, SafeHtml contents);
+
+    @Template("<th colspan=\"{0}\" class=\"{1}\">{2}</th>")
+    SafeHtml th(int colspan, String classes, SafeHtml contents);
 
     @Template("<table><thead>{0}</thead></table>")
     SafeHtml thead(SafeHtml rowHtml);
@@ -1268,7 +1272,7 @@ public class CellTable<T> extends AbstractHasData<T> {
       TableCellElement td = elem.getParentElement().cast();
       TableRowElement tr = td.getParentElement().cast();
       td.removeClassName(style.cellTableKeyboardSelectedCell());
-      td.removeAttribute("aria-selected");
+      td.removeAttribute(Accessibility.STATE_SELECTED);
       setRowStyleName(tr, style.cellTableKeyboardSelectedRow(),
           style.cellTableKeyboardSelectedRowCell(), false);
     }
@@ -1400,7 +1404,7 @@ public class CellTable<T> extends AbstractHasData<T> {
       TableCellElement td = elem.getParentElement().cast();
       TableRowElement tr = td.getParentElement().cast();
       td.addClassName(style.cellTableKeyboardSelectedCell());
-      td.setAttribute("aria-selected", "true");
+      td.setAttribute(Accessibility.STATE_SELECTED, "true");
       setRowStyleName(tr, style.cellTableKeyboardSelectedRow(),
           style.cellTableKeyboardSelectedRowCell(), true);
     }
@@ -1710,10 +1714,16 @@ public class CellTable<T> extends AbstractHasData<T> {
             classesBuilder.append(isSortAscending ? sortedAscStyle
                 : sortedDescStyle);
           }
-            String headerId = isFooter ? (tableId +"_hf_"+(curColumn-1)) : (tableId +"_h_"+(curColumn-1));
 
-          sb.append(template.th(headerId, prevColspan, classesBuilder.toString(),
-              headerHtml));
+          if(isFooter) {
+              sb.append(template.th(prevColspan, classesBuilder.toString(),
+                      headerHtml));
+          }
+          else {
+            String headerId = tableId +"_h_"+(curColumn - prevColspan);
+            sb.append(template.th(headerId, prevColspan, classesBuilder.toString(),
+                    headerHtml));
+          }
 
           // Reset the previous header.
           prevHeader = header;
@@ -1765,8 +1775,15 @@ public class CellTable<T> extends AbstractHasData<T> {
       // The first and last columns could be the same column.
       classesBuilder.append(" ");
       classesBuilder.append(lastColumnStyle);
+
+      if(isFooter) {
+        sb.append(template.th(prevColspan, classesBuilder.toString(), headerHtml));
+      } else {
         String headerId = tableId +"_h_"+(curColumn-1);
-      sb.append(template.th(headerId, prevColspan, classesBuilder.toString(), headerHtml));
+        sb.append(template.th(headerId, prevColspan, classesBuilder.toString(), headerHtml));
+      }
+
+
     }
     sb.appendHtmlConstant("</tr>");
 
